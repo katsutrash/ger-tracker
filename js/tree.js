@@ -11,7 +11,7 @@
 let treeData = [];
 let byId     = {};
 
-const NW = 120, NH = 42, H_GAP = 36, V_GAP = 16, PAD = 20, HEADER_H = 28;
+const NW = 120, NH = 42, H_GAP = 36, V_GAP = 36, PAD = 20, HEADER_H = 28;
 
 function initTree(data) {
   treeData = data;
