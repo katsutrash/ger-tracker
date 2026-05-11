@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GER Equipment Tracker</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<div class="app-shell">
+
+  <!-- Header -->
+  <header class="app-header">
+    <h1>GOD EATER RESURRECTION — Equipment Database</h1>
+    <p id="data-status">Loading data…</p>
+  </header>
+
+  <!-- Tabs -->
+  <nav class="tabs">
+    <button class="tab active" data-panel="table">Table</button>
+    <button class="tab"        data-panel="tree">Upgrade Tree</button>
+    <button class="tab"        data-panel="compare">Compare</button>
+  </nav>
+
+  <!-- ===================== TABLE PANEL ===================== -->
+  <section id="panel-table" class="panel active">
+    <div class="controls">
+      <input  type="text" id="tbl-search" placeholder="Search name, skill, material…">
+      <select id="tbl-sub">
+        <option value="">All subtypes</option>
+      </select>
+      <select id="tbl-attr">
+        <option value="">All attributes</option>
+        <option value="blaze">Blaze 🔥</option>
+        <option value="freeze">Freeze ❄</option>
+        <option value="spark">Spark ⚡</option>
+        <option value="divine">Divine ✦</option>
+        <option value="neutral">Neutral</option>
+      </select>
+      <span class="result-count" id="tbl-count"></span>
+    </div>
+
+    <div class="card">
+      <div class="table-scroll">
+        <table>
+          <thead>
+            <!-- Group header row -->
+            <tr class="group-row">
+              <th style="text-align:left" colspan="2"></th>
+              <th colspan="3">Damage</th>
+              <th colspan="4">Attribute</th>
+              <th></th>
+              <th colspan="2">Craft</th>
+            </tr>
+            <!-- Column header row -->
+            <tr class="col-row">
+              <th class="sortable" data-col="name"   style="min-width:120px">
+                Name <span class="sort-icon" id="si-name">↕</span>
+              </th>
+              <th class="sortable" data-col="rank"   style="width:56px;text-align:center">
+                Rank <span class="sort-icon" id="si-rank">↕</span>
+              </th>
+              <th class="sortable" data-col="slash"  style="width:62px;text-align:right">
+                Slash <span class="sort-icon" id="si-slash">↕</span>
+              </th>
+              <th class="sortable" data-col="crush"  style="width:62px;text-align:right">
+                Crush <span class="sort-icon" id="si-crush">↕</span>
+              </th>
+              <th class="sortable" data-col="pierce" style="width:62px;text-align:right">
+                Pierce <span class="sort-icon" id="si-pierce">↕</span>
+              </th>
+              <th style="width:30px;text-align:center">🔥</th>
+              <th style="width:30px;text-align:center">❄</th>
+              <th style="width:30px;text-align:center">⚡</th>
+              <th style="width:30px;text-align:center">✦</th>
+              <th style="min-width:150px">Skills</th>
+              <th class="sortable" data-col="cost" style="width:80px;text-align:right">
+                Cost <span class="sort-icon" id="si-cost">↕</span>
+              </th>
+              <th style="min-width:160px">Materials</th>
+            </tr>
+          </thead>
+          <tbody id="tbl-body"></tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== TREE PANEL ===================== -->
+  <section id="panel-tree" class="panel">
+    <div class="tree-bar">
+      <select id="tree-sub"></select>
+      <span class="hint">Hover a node to see details · Same column = same rank</span>
+    </div>
+    <div class="tree-wrap" id="tree-wrap"></div>
+  </section>
+
+  <!-- ===================== COMPARE PANEL ===================== -->
+  <section id="panel-compare" class="panel">
+    <div class="cmp-bar">
+      <select id="cmp-a"><option value="">Select weapon A…</option></select>
+      <select id="cmp-b"><option value="">Select weapon B…</option></select>
+    </div>
+    <div id="cmp-out">
+      <div class="no-data">Select two weapons to compare.</div>
+    </div>
+  </section>
+
+</div><!-- /app-shell -->
+
+<!-- Tooltip (lives outside app-shell so it can overlap everything) -->
+<div id="tooltip"><div class="tt-box"></div></div>
+
+<!-- Scripts — order matters: helpers first, then features, then main -->
+<script src="js/data.js"></script>
+<script src="js/helpers.js"></script>
+<script src="js/table.js"></script>
+<script src="js/tree.js"></script>
+<script src="js/tooltip.js"></script>
+<script src="js/compare.js"></script>
+<script src="js/main.js"></script>
+
+</body>
+</html>
