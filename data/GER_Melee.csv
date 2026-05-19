@@ -1,34 +1,34 @@
 id,type,subtype,name,rank,slash,crush,pierce,blaze,freeze,spark,divine,parent,skill,cost,prereq,materials
-M-SB-001,Melee,Short Blade,Knife P,0,55,0,24,0,0,0,0,-,Fencer I,350,-,Pixie Thorn:2|Brittle Titanium:1
+M-SB-001,Melee,Short Blade,Knife P,1,55,0,24,0,0,0,0,-,Fencer I,350,-,Pixie Thorn:1|Brittle Titanium:1
 M-SB-002,Melee,Short Blade,Knife,1,59,0,25,0,0,0,0,M-SB-001,Fencer II,280,M-SB-001,Pixie Thorn:2|Brittle Titanium:1
 M-SB-003,Melee,Short Blade,Knife II,4,135,0,57,0,0,0,0,M-SB-002,Fencer IV,2800,M-SB-002,Pixie Spine:1|Nickel:1|Ceramic Plate:1|Tungsten:1
 M-SB-004,Melee,Short Blade,Knife N,6,183,0,78,0,0,0,0,M-SB-003,Fencer V,4160,M-SB-003,Emperor Wing:2|Prince's Dust:2|Royal Armor:1|Hanuman Mesh:1|Tungsten:1
-M-SB-005,Melee,Short Blade,Knife X,10,307,0,131,0,0,0,0,M-SB-004,"Fencer V, Short Blade Master II",13600,M-SB-004,Pure Silver:1|Serpent Blaze Fange:2|Phantom Incisor:1|Seraphic Crystal:1|Phantom Horn:1
+M-SB-005,Melee,Short Blade,Knife X,10,307,0,131,0,0,0,0,M-SB-004,"Fencer V, Short Blade Master II",13600,M-SB-004,Pure Silver:1|Serpent Blaze Fang:2|Phantom Incisor:1|Seraphic Crystal:1|Phantom Horn:1
 M-SB-006,Melee,Short Blade,Knife V,13,350,0,149,0,0,0,0,M-SB-005,"Fencer V, Short Blade Master III",52000,M-SB-005,Pure Soft Iron:1|Cemented Carbide:1|Phantom Arm Gauntlet:1|Phantom Lance:1|Deific Crystal:1
 M-SB-007,Melee,Short Blade,Knife EX,14,362,0,154,0,0,0,0,M-SB-006,"Fencer V, Short Blade Master IV",96000,M-SB-006,Generic Compound Core:1
-M-SB-008,Melee,Short Blade,Fiery Knife,3,101,0,43,1,0,0,0,M-SB-001,Fencer III,664,M-SB-002,Flaring Pixie Shell:1|Brittle Tungsten:1|Draconic Fin:1
-M-SB-009,Melee,Short Blade,Fiery Knife II,6,159,0,68,1,0,0,0,M-SB-008,Fencer IV,3360,M-SB-008,Blaze Ogre Tooth:1|Blaze Ogre Mask:1|Nickel:1|Ceramic Plate:1
+M-SB-008,Melee,Short Blade,Fiery Knife,3,101,0,43,1,0,0,0,M-SB-002,Fencer III,664,M-SB-002,Flaring Pixie Shell:1|Brittle Tungsten:1|Draconic Fin:1
+M-SB-009,Melee,Short Blade,Fiery Knife II,5,159,0,68,1,0,0,0,M-SB-008,Fencer IV,3360,M-SB-008,Blaze Ogre Tooth:1|Blaze Ogre Mask:1|Nickel:1|Ceramic Plate:1
 M-SB-010,Melee,Short Blade,Fiery Knife N,7,221,0,94,1,0,0,0,M-SB-009,Fencer V,7760,M-SB-009,Wyrm Blaze Fang:2|Draconic Tallow:1|Wyrm Amethyst:1|King Tallow:1|Tungsten Alloy:1
 M-SB-011,Melee,Short Blade,Fiery Knife X,9,275,0,117,1,0,0,0,M-SB-010,"Fencer V, Short Blade Master I",9600,M-SB-010,Ares Alloy:2|Ares Armor:2|Blaze Knight Amethyst:1|Niobium:1|Oracle Blaze Stone:1
 M-SB-012,Melee,Short Blade,Fiery Knife V,10,307,0,131,1,0,0,0,M-SB-011,"Fencer V, Short Blade Master II",13600,M-SB-011,Helios Carver:1|Helios Halo:1|Yin-Yang Carver:1|Yin-Yang Halo:1|Adamantite:1
 M-SB-013,Melee,Short Blade,Fiery Knife S,13,350,0,149,1,0,0,0,M-SB-012,"Fencer V, Short Blade Master III",52000,M-SB-012,Invictus Carver:2|Helios Ambrosia:1|Invictus Corona:2|Invictus Crystal:1|Oracle Lucent Stone:1
 M-SB-014,Melee,Short Blade,Fiery Knife EX,14,362,0,154,1,0,0,0,M-SB-013,"Fencer V, Short Blade Master IV",96000,M-SB-013,Generic Compound Core:1
 M-SB-015,Melee,Short Blade,Chill Knife,4,135,0,57,0,1,0,0,M-SB-002,Fencer III,2800,M-SB-002,Goddess Plumage:1|Goddess Filigree:1|Nickel:1
-M-SB-016,Melee,Short Blade,Chill Knife II,6,183,0,78,0,1,0,0,M-SB-015,Fencer V,4160,M-SB-015,Royal Fang:2|Royal Armor:1|Pixie Ice Shell:2|Manganese:1|Fossil Tree:
+M-SB-016,Melee,Short Blade,Chill Knife II,6,183,0,78,0,1,0,0,M-SB-015,Fencer V,4160,M-SB-015,Royal Fang:2|Royal Armor:1|Pixie Ice Shell:2|Manganese:1|Fossil Tree:1
 M-SB-017,Melee,Short Blade,Freezing Knife,8,241,0,103,0,1,0,0,M-SB-016,"Fencer V, Short Blade Master I",8800,M-SB-016,Basilisk Ice Fang:2|Basilisk Ice Armor:2|Wukong Redstone:1|Niobium:1|Tungsten Alloy:1
-M-SB-018,Melee,Short Blade,Freezing Knife II,9,275,0,117,0,1,0,0,M-SB-017,"Fenver V, Short Blade Master II",9600,M-SB-017,Ice Wyrm Fang:2|Frigid Ambrosia:1|Wukong Armor+:2|Hanuman Ambrosia:1|Oracle Freeze Stone:1
+M-SB-018,Melee,Short Blade,Freezing Knife II,9,275,0,117,0,1,0,0,M-SB-017,"Fencer V, Short Blade Master II",9600,M-SB-017,Ice Wyrm Fang:2|Frigid Ambrosia:1|Wukong Armor+:2|Hanuman Ambrosia:1|Oracle Freeze Stone:1
 M-SB-019,Melee,Short Blade,Freezing Knife N,12,330,0,141,0,1,0,0,M-SB-018,"Fencer V, Short Blade Master III",40800,M-SB-018,Royal Ice Armor:2|Basilisk Hematite:1|Wukong Amethyst:1|Hanuman Ambrosia:1|Oracle Lucent Stone:1
 M-SB-020,Melee,Short Blade,Freezing Knife EX,14,362,0,154,0,1,0,0,M-SB-019,"Fencer V, Short Blade Master IV",96000,M-SB-019,Generic Compound Core:1
-M-SB-021,Melee,Short Blade,Shock Knife,4,135,0,57,0,0,1,0,M-SB-002,Fenver III,2800,M-SB-002,Chimera Spark Fur:2|Chimera Skull:1|Tungsten:1|Mistle:1
-M-SB-022,Melee,Short Blade,Shock Knife II,6,183,0,78,0,0,1,0,M-SB-021,Fenver V,4160,M-SB-021,Emperor Claw:1|Spark Ogre Mask:1|Voltaic Pixie Shell:1|Ceramic Plate:1|Spark Ogre Fang:1
+M-SB-021,Melee,Short Blade,Shock Knife,4,135,0,57,0,0,1,0,M-SB-002,Fencer III,2800,M-SB-002,Chimera Spark Fur:2|Chimera Skull:1|Tungsten:1|Mistle:1
+M-SB-022,Melee,Short Blade,Shock Knife II,6,183,0,78,0,0,1,0,M-SB-021,Fencer V,4160,M-SB-021,Emperor Claw:1|Spark Ogre Mask:1|Voltaic Pixie Shell:1|Ceramic Plate:1|Spark Ogre Fang:1
 M-SB-023,Melee,Short Blade,Railknife,8,241,0,103,0,0,1,0,M-SB-022,"Fencer V, Short Blade Master I",8800,M-SB-022,Anathema Raiment:2|Emperor Claw:2|Pixie Shock Shell:1|High Conductor:1|Niobium:1
 M-SB-024,Melee,Short Blade,Railknife II,11,319,0,136,0,0,1,0,M-SB-023,"Fencer V, Short Blade Master II",16000,M-SB-023,Elder's Armor:2|Elder's Horn:1|Thunder Ogre Horn:1|High Conductor:1|Oracle Spark Stone:1
 M-SB-025,Melee,Short Blade,Railknife N,13,350,0,149,0,0,1,0,M-SB-024,"Fencer V, Short Blade Master III",52000,M-SB-024,Thunder Ogre Tusk:1|Thunder Ogre Horn:1|Thunder Ogre Domino:1|Super Conductor:1|Oracle Lucent Stone:1
 M-SB-026,Melee,Short Blade,Railknife EX,14,362,0,154,0,0,1,0,M-SB-025,"Fencer V, Short Blade Master IV",96000,M-SB-025,Generic Compound Core:1
-M-SB-027,Melee,Short Blade,Ice Drill,1,12,0,71,0,1,0,0,-,-,350,-,Weak Tool Steel:1|Aragami Bone Chip:1
-M-SB-028,Melee,Short Blade,Ice Drill II,3,21,0,122,0,1,0,0,M-SB-027,Cherry Petal Dance I,644,M-SB-027,Weak Tool Steel:1|Aragami Bone Chip:1|Cold Ogre Fang:1
-M-SB-029,Melee,Short Blade,Ice Drill N,4,28,0,162,0,1,0,0,M-SB-028,Cherry Petal Dance II,2800,M-SB-028,Freezing Ogre Fang:1|Draconic Horn:1|Simian Larinx:1|Simian Armamaent:1
-M-SB-030,Melee,Short Blade,Ice Drill X,6,38,0,221,0,1,0,0,M-SB-029,Cherry Petal Dance III,4160,M-SB-029,Mistle:2|Wukong Mask:2|Simian Larynx:2|Lubrican:1
+M-SB-027,Melee,Short Blade,Ice Drill,1,12,0,71,0,1,0,0,-,,350,-,Weak Tool Steel:1|Aragami Bone Chip:1
+M-SB-028,Melee,Short Blade,Ice Drill II,3,21,0,122,0,1,0,0,M-SB-027,Cherry Petal Dance I,644,M-SB-027,Weak tool Steel:1|Aragami Bone Chip:1|Cold Ogre Fang:1
+M-SB-029,Melee,Short Blade,Ice Drill N,4,28,0,162,0,1,0,0,M-SB-028,Cherry Petal Dance II,2800,M-SB-028,Freezing Ogre Fang:1|Draconic Horn:1|Simian Larynx:1|Simian Armament:1
+M-SB-030,Melee,Short Blade,Ice Drill X,6,38,0,221,0,1,0,0,M-SB-029,Cherry Petal Dance III,4160,M-SB-029,mistle:2|Wukong Mask:2|Simian Larynx:2|Lubricant:1
 M-SB-031,Melee,Short Blade,Ice Drill V,7,45,0,266,0,1,0,0,M-SB-030,Cherry Petal Dance IV,7760,M-SB-030,Impure Oil:1|Wukong Redstone:1|Wukong Armor:1|Wukong Rumbler:2|Fine Lubricant:1
 M-SB-032,Melee,Short Blade,Freeze Drill,8,50,0,291,0,1,0,0,M-SB-031,"Cherry Petal Dance IV, Insight I",8800,M-SB-031,Cryogenic Alloy:1|Wukong Amethyst:1|Wukong Armor+:1|Wukong Power Bone:1|Basilisk Ice Horn:1
 M-SB-033,Melee,Short Blade,Freeze Drill II,10,63,0,370,0,1,0,0,M-SB-032,"Cherry Petal Dance IV, Insight II",13600,M-SB-032,Cryogenic Alloy:1|Wukong Amethyst:1|Wukong Armor+:1|Boreas Rumbler:1|Oracle Freeze Stone:1
@@ -39,31 +39,31 @@ M-SB-037,Melee,Short Blade,Iron Maiden II,2,43,0,65,0,0,0,0,M-SB-036,Daunting Mi
 M-SB-038,Melee,Short Blade,Iron Maiden N,3,58,0,88,0,0,0,0,M-SB-037,Daunting Might III,664,M-SB-037,Pixie Thorn:1|Pixie Shell:1|Blazing Mini-Barrel:1|Pixie Elastomer:1
 M-SB-039,Melee,Short Blade,Iron Maiden X,5,91,0,138,0,0,0,0,M-SB-038,Daunting Might IV,3360,M-SB-038,Pixie Spine:1|Pixie Elastomer:1|Pixie Shell:1|Pixie Thorn:1
 M-SB-040,Melee,Short Blade,Iron Maiden V,7,127,0,192,0,0,0,0,M-SB-039,Daunting Might V,7760,M-SB-039,Pixie Spine:2|Pixie Flame Shell:2|Voltaic Pixie Shell:2|Pixie Ice Shell:2|Mahogany:1
-M-SB-041,Melee,Short Blade,Iron Maiden III,10,176,0,266,0,0,0,0,M-SB-040,"Daunting Might V, Trouble Maker II",13600,M-SB-040,Phantom Horn:1|Serpent Blaze Horn:1|Pixie Gum:1|Pixie Rime Shell:2|Pixie Inferno Shell:1
+M-SB-041,Melee,Short Blade,Iron Maiden III,10,176,0,266,0,0,0,0,M-SB-040,"Daunting MIght V, Trouble Maker II",13600,M-SB-040,Phantom Horn:1|Serpent Blaze Horn:1|Pixie Gum:1|Pixie Rime Shell:2|Pixie Inferno Shell:1
 M-SB-042,Melee,Short Blade,Iron Maiden IV,13,201,0,304,0,0,0,0,M-SB-041,"Daunting Might V, Trouble Maker III",52000,M-SB-041,Phantom Lance:1|Serpent Blaze Horn:1|Pixie Gum:1|Pixie Storm Shell:1|Pixie Inferno Shell:1
-M-SB-043,Melee,Short Blade,Iron Maiden EX,14,208,0,314,0,0,0,0,M-SB-042,"Daunting Might V, Trouble Maker IV",96000,M-SB-042,Generic Compound Core:1
+M-SB-043,Melee,Short Blade,Iron Maiden EX,14,208,0,314,0,0,0,0,M-SB-042,"Daunting Might V, Trouble Maker IV",96000,M-SB-042,Generic COmpound Core:1
 M-SB-044,Melee,Short Blade,Burning Maiden,3,56,0,83,1,0,0,0,M-SB-036,Daunting Might III,664,M-SB-036,Pixie Thorn:1|Flaring Pixie Shell:1|Blazing Mini-Barrel:1
 M-SB-045,Melee,Short Blade,Burning Maiden II,4,75,0,111,1,0,0,0,M-SB-044,Daunting Might IV,2800,M-SB-044,Pixie Flame Shell:1|Pixie Thorn:1|Blazing Mini-Barrel:1|Pixie Elastomer:1
-M-SB-046,Melee,Short Blade,Iron Maiden Blaze N,6,102,0,151,1,0,0,0,M-SB-045,Daunting Might V,4160,M-SB-045,Pixie Flame Shell:1|Blaze Knight Redstone:1|Blazing Mini-Barrel:1|Pixie Elastomer:1|Ash:1
+M-SB-046,Melee,Short Blade,Iron Maiden Blz N,6,102,0,151,1,0,0,0,M-SB-045,Daunting Might V,4160,M-SB-045,Pixie Flame Shell:1|Blaze Knight Redstone:1|Blazing Mini-Barrel:1|Pixie Elastomer:1|Ash:1
 M-SB-047,Melee,Short Blade,Blazing Maiden,8,135,0,198,1,0,0,0,M-SB-046,"Daunting Might V, Trouble Maker I",8800,M-SB-046,Pixie Blaze Shell:1|Pixie Spine:1|Ares Armor:1|King Shock Absorber:1|Imploder:1
 M-SB-048,Melee,Short Blade,Blazing Maiden II,10,172,0,253,1,0,0,0,M-SB-047,"Daunting Might V, Trouble Maker II",13600,M-SB-047,Pixie Blaze Shell:1|Pixie Spine:1|Ares Alloy:1|Ares Armor:1|Imploder:1
-M-SB-049,Melee,Short Blade,Blazing Maiden N,13,196,0,288,1,0,0,0,M-SB-048,"Daunting Might V, Trouble Maker III",52000,M-SB-048,Pixie Inferno Shell:1|Pyro Barrel:1|Phantom Arm Gauntlet:1|Phantom Lance:1|Imploder:1
-M-SB-050,Melee,Short Blade,Blazing Maiden EX,14,202,0,298,1,0,0,0,M-SB-049,"Daunting Might V, Trouble Maker IV",96000,M-SB-049,Generic Compound Core:1
+M-SB-049,Melee,Short Blade,Blazing Maiden N,13,196,0,288,1,0,0,0,M-SB-048,"Daunting Might V, Trouble Maker III",52000,M-SB-048,Pixie Inferno Shell:1|Pyro Barrel:1|PHantom Arm Gauntlet:1|Phantom Lance:1|Imploder:1
+M-SB-050,Melee,Short Blade,Blazing Maiden EX,14,202,0,298,0,0,0,0,M-SB-049,"Daunting Might V, Trouble Maker IV",96000,M-SB-049,Generic Compound Core:1
 M-SB-051,Melee,Short Blade,Sparking Maiden,5,89,0,131,0,0,1,0,M-SB-038,Daunting Might IV,3360,M-SB-038,Voltaic Pixie Shell:1|Pixie Spine:1|Pixie Elastomer:1|Low-Volt Barrel:1
-M-SB-052,Melee,Short Blade,Sparking Maiden II,7,123,0,183,0,0,1,0,M-SB-051,Daunting Might V,7760,M-SB-051,Voltaic Pixie Shell:1|Pixie Spine:1|Pixie Elastomer:1|Low-Volt Barrel:1|Mahogany:1
-M-SB-053,Melee,Short Blade,Thundering Maiden,8,135,0,198,0,0,1,0,M-SB-052,"Daunting Might V, Trouble Maker I",8800,M-SB-052,Pixie Shock Shell:2|Pixie Spine:1|Anathema Raiment:1|Anathema Frame:1|Imploder:1
+M-SB-052,Melee,Short Blade,Sparking Maiden II,7,123,0,182,0,0,1,0,M-SB-051,Daunting Might V,7760,M-SB-051,Voltaic Pixie Shell:1|Pixie Spine:1|Pixie Elastomer:1|Low-Volt Barrel:1|Mahogany:1
+M-SB-053,Melee,Short Blade,Thundering Maiden,8,135,0,198,0,0,1,0,M-SB-052,"Daunting MIght V, Trouble Maker I",8800,M-SB-052,Pixie Shock Shell:2|Pixie Spine:1|Anathema Raiment:1|Anathema Frame:1|Imploder:1
 M-SB-054,Melee,Short Blade,Thundering Maiden II,9,153,0,226,0,0,1,0,M-SB-053,"Daunting Might V, Trouble Maker II",9600,M-SB-053,Pixie Spark Shell:2|Pixie Spine:2|Conqueror Armor:1|Detonator:1|Imploder:1
 M-SB-055,Melee,Short Blade,Thundering Maiden N,12,184,0,272,0,0,1,0,M-SB-054,"Daunting Might V, Trouble Maker III",40800,M-SB-054,Pixie Storm Shell:1|Pixie Carapace:1|Conqueror Armor:1|Conqueror Steel:1|Imploder:1
-M-SB-056,Melee,Short Blade,Thundering Maiden EX,14,202,0,298,0,0,1,0,M-SB-055,"Daunting Might V, Trouble Maker IV",96000,M-SB-055,Generic Compound Core:1
-M-SB-057,Melee,Short Blade,Iron Maiden Freeze,6,102,0,151,0,1,0,0,M-SB-039,Daunting Might V,4160,M-SB-039,Pixie Ice Shell:1|Pixie Spine:1|Pixie Elastomer:1|Cold Barrel:1|Coating Agent:1
-M-SB-058,Melee,Short Blade,Crystal Maiden,7,123,0,182,0,1,0,0,M-SB-057,"Daunting Might V, Trouble Maker I",7760,M-SB-057,Pixie Ice Shell:1|Pixie Spine:1|Fallen King Armor:1|King Shock Absorber:1|Imploder:1
-M-SB-059,Melee,Short Blade,Crystal Maiden II,11,178,0,263,0,1,0,0,M-SB-058,"Daunting Might V, Trouble Maker II",16000,M-SB-058,Pixie Glacier Shell:2|Pixie Carapace:2|Ice King Armor:1|Ares Alloy:1|Imploder:1
-M-SB-060,Melee,Short Blade,Crystal Maiden N,13,196,0,288,0,1,0,0,M-SB-059,"Daunting Might V, Trouble Maker III",52000,M-SB-059,Pixie Glacier Shell:2|Pixie Carapace:2|Freezing Barrel:1|Bahamut Tinsel:1|Imploder:1
-M-SB-061,Melee,Short Blade,Blizzard Maiden EX,14,202,0,298,0,1,0,0,M-SB-060,"Daunting Might V, Trouble Maker IV",96000,M-SB-060,Generic Compound Core:1
+M-SB-056,Melee,Short Blade,Thundering Maiden EX,14,202,0,0,0,0,1,0,M-SB-055,"Daunting Might V, Trouble Maker IV",96000,M-SB-055,Generic COmpound Core:1
+M-SB-057,Melee,Short Blade,Iron Maiden Frz,6,102,0,151,0,1,0,0,M-SB-039,Daunting Might V,4160,M-SB-039,Pixie Ice Shell:1|Pixie Spine:1|Pixie Elastomer:1|Cold Barrel:1|Coating Agent:1
+M-SB-058,Melee,Short Blade,Crystal Maiden,7,123,0,182,0,1,0,0,M-SB-057,"Daunting Might V, Troublemaker I",7760,M-SB-057,Pixie Ice Shell:1|Pixie Spine:1|Fallen King Armor:1|King Shock Absorber:1|Imploder:1
+M-SB-059,Melee,Short Blade,Crystal Maiden II,11,178,0,263,0,1,0,0,M-SB-058,"Daunting Might V, Troublemaker II",16000,M-SB-058,Pixie Glacier Shell:2|Pixie Carapace:2|Ice King Armor:1|Ares Alloy:1|Imploder:1
+M-SB-060,Melee,Short Blade,Crystal Maiden N,13,196,0,288,0,1,0,0,M-SB-059,"Daunting MIght V, Troublemaker III",52000,M-SB-059,Pixie Glacier Shell:2|Pixie Carapace:2|Freezing Barrel:1|Bahamut Tinsel:1|Imploder:1
+M-SB-061,Melee,Short Blade,Blizzard Maiden EX,14,202,0,298,0,1,0,0,M-SB-060,"Daunting MIght V, Troublemaker IV",96000,M-SB-060,Generic Compound Core:1
 M-SB-062,Melee,Short Blade,Poison Pickaxe,2,30,0,70,0,0,0,0,-,Toxic Power I,560,-,Avian Claw:1|Tainted Metal:1
 M-SB-063,Melee,Short Blade,Poison Pickaxe II,3,42,0,98,0,0,0,0,M-SB-062,Toxic Power II,664,M-SB-062,Avian Claw:1|Impure Jewel Steel:1|Tainted Metal:1|Poison Extract:1
 M-SB-064,Melee,Short Blade,Poison Pickaxe N,5,65,0,154,0,0,0,0,M-SB-063,Toxic Power III,3360,M-SB-063,Knight Armor:1|Knight Prickle:1|Poison Extract:1|Knight Redstone:1
-M-SB-065,Melee,Short Blade,Poison Pickaxe X,6,75,0,178,0,0,0,0,M-SB-064,Toxic Power IV,4160,M-SB-064,Raven Mask:1|Knight Needle:2|Plastic:1|Meteorite Silver:1|Mistle:1
+M-SB-065,Melee,Short Blade,Poison Pickaxe X,6,75,0,178,0,0,0,0,M-SB-064,Toxic Power IV,4160,M-SB-064,Raven Mask:1|Knight Needle:2|Plastic:1|Meteorite Sliver:1|Mistle:1
 M-SB-066,Melee,Short Blade,Cursed Pickaxe,8,99,0,234,0,0,0,0,M-SB-065,"Toxic Power IV, La Reine des Neiges I",8800,M-SB-065,Avian Talon:1|Knight Needle:1|Knight Redstone:1|Poison Metal:1|Yaksha Cop:1
 M-SB-067,Melee,Short Blade,Cursed Pickaxe II,11,131,0,310,0,0,0,0,M-SB-066,"Toxic Power IV, La Reine des Neiges II",16000,M-SB-066,Raven Spark Mask:1|Avian Talon:1|Knight Redstone:1|Knight Needle:2|Venom Metal:1
 M-SB-068,Melee,Short Blade,Cursed Pickaxe N,13,144,0,340,0,0,0,0,M-SB-067,"Toxic Power IV, La Reine des Neiges III",52000,M-SB-067,Prince's Pin:1|Avian Talon:1|Prince's Soul:1|Prince's Sanctum:1|Venom Metal:1
@@ -71,10 +71,10 @@ M-SB-069,Melee,Short Blade,Cursed Pickaxe EX,14,149,0,352,0,0,0,0,M-SB-068,"Toxi
 M-SB-070,Melee,Short Blade,Heat Drill,2,15,0,87,1,0,0,0,-,Cherry Petal Dance I,560,-,Ogre Fang:1|Weak Tool Steel:1|Blaze Stone:1
 M-SB-071,Melee,Short Blade,Heat Drill II,4,28,0,162,1,0,0,0,M-SB-070,Cherry Petal Dance II,2800,M-SB-070,Weak Tool Steel:1|Wyrm Armor:1|Wyrm Fin:1|Hot Barrel:1
 M-SB-072,Melee,Short Blade,Heat Drill N,6,38,0,221,1,0,0,0,M-SB-071,Cherry Petal Dance III,4160,M-SB-071,Wyrm Armor:2|Wyrm Horn:2|Tool Steel:1|King Armor+:1|Hot Barrel:1
-M-SB-073,Melee,Short Blade,Heat Drill X,7,45,0,266,1,0,0,0,M-SB-072,Cherry Petal Dance IV,7760,M-SB-072,Blaze Knight Prickle:1|Fine Lubricant:1|Blaze Knight Redstone:1|Blaze Ogre Tooth:1|Infernal Ogre Cowl:1
+M-SB-073,Melee,Short Blade,Heat Drill X,7,45,0,266,1,0,0,0,M-SB-072,Cherry Petal Dance IV,7760,M-SB-072,Blaze Knight Prickle:1|Fine Lubricant:1|Blaze Knight Redstone:1|Blaze OGre Tooth:1|Infernal OGre Cowl:1
 M-SB-074,Melee,Short Blade,Lava Drill,9,57,0,331,1,0,0,0,M-SB-073,"Cherry Petal Dance IV, Insight I",9600,M-SB-073,Wyrm Blaze Horn:2|Draconic Tallow:1|Wyrm Amethyst:1|Blaze Knight Needle:1|Blaze Knight Soft Steel:2
 M-SB-075,Melee,Short Blade,Lava Drill II,11,66,0,385,1,0,0,0,M-SB-074,"Cherry Petal Dance IV, Insight II",16000,M-SB-074,Inferno Barrel:2|Serpent Blaze Helm:1|Serpent Blaze Horn:1|Cinder Crystal:1|Oracle Blaze Stone:1
-M-SB-076,Melee,Short Blade,Lava Drill N,13,72,0,422,1,0,0,0,M-SB-075,"Cherry Petal Dance IV, Insight III",52000,M-SB-075,Phantom Armor:2|Serpent Blaze Helm:1|Phantom Horn:1|Flaming Crystal:1|Oracle Blaze Stone:1
+M-SB-076,Melee,Short Blade,Lava Drill N,13,72,0,422,1,0,0,0,M-SB-075,"Cherry Petal Dance IV, Insight III",52000,M-SB-075,PHantom Armor:2|Serpent Blaze Helm:1|PHantom Horn:1|Flaming Crystal:1|ORacle Blaze Stone:1
 M-SB-077,Melee,Short Blade,Lava Drill EX,14,75,0,437,1,0,0,0,M-SB-076,"Cherry Petal Dance IV, Insight IV",96000,M-SB-076,Generic Compound Core:1
 M-SB-078,Melee,Short Blade,Spark Drill,8,50,0,284,1,0,1,0,M-SB-073,"Cherry Petal Dance IV, Insight I",8800,M-SB-073,Chimera Spark Claw:1|Hanuman Mask:1|Simian Armor+:1|Hanuman Femur:2|Volt Generator:1
 M-SB-079,Melee,Short Blade,Spark Drill II,9,57,0,323,1,0,1,0,M-SB-078,"Cherry Petal Dance IV, Insight II",9600,M-SB-078,Spark Knight Armor+:2|Hanuman Mask:1|Hanuman Amethyst:1|Hanuman Femur:2|High Conductor:1
@@ -93,12 +93,12 @@ M-SB-091,Melee,Short Blade,Tigerclaw II,4,133,0,55,0,0,2,0,M-SB-090,Polished Off
 M-SB-092,Melee,Short Blade,Tigerclaw N,6,180,0,75,0,0,2,0,M-SB-091,Polished Offense III,4160,M-SB-091,Emperor Mane:1|Emperor Skull:1|Emperor Tusk:1|Generator:1|Spark Crystal:1
 M-SB-093,Melee,Short Blade,Royal Tigerclaw,7,218,0,91,0,0,2,0,M-SB-092,Polished Offense IV,7760,M-SB-092,Emperor Mane:1|Emperor Claw:1|Chimera Tusk:1|Chimera Spark Claw:1|Oracle Spark Stone:1
 M-SB-094,Melee,Short Blade,Royal Tigerclaw II,10,302,0,126,0,0,2,0,M-SB-093,"Polished Offense IV, Buildup I",13600,M-SB-093,Chimera Spark Fang:1|Chimera Femur:1|Imperial Claw:1|Volt Generator:1|Oracle Spark Stone:1
-M-SB-095,Melee,Short Blade,Royal Tigerclaw N,11,314,0,131,0,0,2,0,M-SB-094,"Polished Offense IV, Buildup II",16000,M-SB-094,Chimera Spark Claw:1|Chimera Spark Skull:1|Chimera Redstone:1|Imperial Claw:1|Emperor Claw:1
-M-SB-096,Melee,Short Blade,Royal Tigerclaw X,13,345,0,144,0,0,2,0,M-SB-095,"Polished Offense IV, Buildup III",52000,M-SB-095,Chimera Spark Skull:1|Chimera Storm Claw:1|Chimera Ametyst:1|Chimera Storm Fur:1|Oracle Spark Crystal
+M-SB-095,Melee,Short Blade,Royal Tigerclaw N,11,314,0,131,0,0,2,0,M-SB-094,"Polished Offense IV, Buildup II",16000,M-SB-094,Chimera Spark Claw:1|Chimera Spark Skull:1|Chimera Redstone:1|Imperial Claw:1|Emperor Fang:1
+M-SB-096,Melee,Short Blade,Royal Tigerclaw X,13,345,0,144,0,0,2,0,M-SB-095,"Polished Offense IV, Buildup III",52000,M-SB-095,Chimera Spark Skull:1|Chimera Storm Claw:1|Chimera Amethyst:1|Chimera Storm Fur:1|Oracle Spark Crystal:1
 M-SB-097,Melee,Short Blade,Royal Tigertail EX,14,357,0,149,0,0,2,0,M-SB-096,"Polished Offense IV, Buildup IV",96000,M-SB-096,Generic Compound Core:1
-M-SB-098,Melee,Short Blade,Queen Tigerclaw,6,183,0,78,0,1,0,0,M-SB-091,Polished Offense III,4160,M-SB-091,Royal Fang:1|Royal Wing:1|Chimera Tusk:1|Conductor:1|Freeze Crystal
+M-SB-098,Melee,Short Blade,Queen Tigerclaw,6,183,0,78,0,1,0,0,M-SB-091,Polished Offense III,4160,M-SB-091,Royal Fang:1|Royal Wing:1|Chimera Tusk:1|Conductor:1|Freeze Crystal:1
 M-SB-099,Melee,Short Blade,Queen Tigerclaw II,7,221,0,94,0,1,0,0,M-SB-098,Polished Offense IV,7760,M-SB-098,Royal Wing:1|Royal Fang:1|Chimera Tusk:1|Royal Filigree:1|Oracle Freeze Stone:1
-M-SB-100,Melee,Short Blade,Queen Tigerclaw N,9,275,0,117,0,1,0,0,M-SB-099,"Polished Offense IV, Buildup I",9600,M-SB-099,Royal Fang:1|Chimera Femur:1|Imperial Claw:1|High Conductor:1|Oracle Freeze Stone
+M-SB-100,Melee,Short Blade,Queen Tigerclaw N,9,275,0,117,0,1,0,0,M-SB-099,"Polished Offense IV, Buildup I",9600,M-SB-099,Royal Fang:1|Chimera Femur:1|Imperial Claw:1|High Conductor:1|Oracle Freeze Stone:1
 M-SB-101,Melee,Short Blade,Queen Tigerclaw X,11,319,0,136,0,1,0,0,M-SB-100,"Polished Offense IV, Buildup II",16000,M-SB-100,Royal Redstone:1|Empress Fang:1|Chimera Redstone:1|Imperial Claw:1|Emperor Fang:1
 M-SB-102,Melee,Short Blade,Queen Tigerclaw V,13,350,0,149,0,1,0,0,M-SB-101,"Polished Offense IV, Buildup III",52000,M-SB-101,Royal Frame:1|Royal Crystal Wing:1|Royal Amethyst:1|Emperor Incisor:1|Oracle Freeze Stone:1
 M-SB-103,Melee,Short Blade,Queen Tigerclaw EX,14,362,0,154,0,1,0,0,M-SB-102,"Polished Offense IV, Buildup IV",96000,M-SB-102,Generic Compound Core:1
@@ -107,18 +107,792 @@ M-SB-105,Melee,Short Blade,Paige II,4,0,0,188,0,0,0,0,M-SB-104,Best Works II,280
 M-SB-106,Melee,Short Blade,Paige N,5,0,0,222,0,0,0,0,M-SB-105,Best Works IV,3360,M-SB-105,Knight Needle:1|Knight Armor:1|Blaze Knight Prickle:1|Spark Knight Prickle:1|Duralumin Steel:1
 M-SB-107,Melee,Short Blade,Chevalier,7,0,0,308,0,0,0,0,M-SB-106,"Best Works IV, Polished Defense I",7760,M-SB-106,Spark Knight Iron:1|Blaze Knight Prickle:1|Spark Knight Armor:1|Blaze Knight Armor:1|Hardener:1
 M-SB-108,Melee,Short Blade,Chevalier II,10,0,0,429,0,0,0,0,M-SB-107,"Best Works IV, Polished Defense II",13600,M-SB-107,Fortifier:1|Knight Armor:1|Fine Lubricant:1|Prince's Soul:1|Prince's Pin:1
-M-SB-109,Melee,Short Blade,Chevalier N,12,0,0,461,0,0,0,0,M-SB-108,"Best Works IV, Polished Defense III",40800,M-SB-108,Knight Redstone:1|Blaze Knight Soft Steel:1|Spark Knight Steel:1|Prince's Pin:1|Prince's Soul
+M-SB-109,Melee,Short Blade,Chevalier N,12,0,0,461,0,0,0,0,M-SB-108,"Best Works IV, Polished Defense III",40800,M-SB-108,Knight Redstone:1|Blaze Knight Soft Steel:1|Spark Knight Steel:1|Prince's Pin:1|Prince's Soul:1
 M-SB-110,Melee,Short Blade,Chevalier EX,14,0,0,506,0,0,0,0,M-SB-109,"Best Works IV, Polished Defense IV",96000,M-SB-109,Generic Compound Core:1
 M-SB-111,Melee,Short Blade,Paige Spark,5,0,0,222,0,0,1,0,M-SB-105,Best Works III,3360,M-SB-105,Spark Knight Armor:1|Spark Knight Prickle:1|Spark Knight Iron:1|Hardener:1
 M-SB-112,Melee,Short Blade,Paige Spark II,6,0,0,256,0,0,1,0,M-SB-111,Best Works IV,4160,M-SB-111,Spark Knight Armor:1|Spark Knight Prickle:1|Magnetic Steel:1|Hardener:1|Knight Redstone:1
-M-SB-113,Melee,Short Blade,Sparking Chevalier,8,0,0,337,0,0,1,0,M-SB-112,"Best Works IV, Polished Defense I",8800,M-SB-112,Spark Knight Armor+:1|Spark Knight Needle:1|Spark Knight Redstone:1|Spark Knight Shield:1|Fine Lubricant:1
-M-SB-114,Melee,Short Blade,Sparking Chevalier II,9,0,0,384,0,0,1,0,M-SB-113,"Best Works IV, Polished Defense II",9600,M-SB-113,Spark Knight God Needle:2|Spark Knight Ambrosia:1|Spark Knight Armor+:1|Spark Knight Armor:1|Spark Knight Soft Steel:1
-M-SB-115,Melee,Short Blade,Sparking Chevalier N,12,0,0,461,0,0,1,0,M-SB-114,"Best Works IV, Polished Defense III",40800,M-SB-114,Fortifier:1|Spark Knight God Needle:1|Fine Lubricant:1|Prince's Spirit:1|Prince's Thorn:1
-M-SB-116,Melee,Short Blade,Sparking Chevalier X,13,0,0,489,0,0,1,0,M-SB-115,"Best Works IV, Polished Defense IV",52000,M-SB-115,Spark Knight Steel:1|Spark Knight God Needle:1|Prince's Soul:1|Prince's Pin:1|Oracle Spark Crystal:1
+M-SB-113,Melee,Short Blade,Sparking Chevalier,8,0,0,337,0,0,1,0,M-SB-112,"Best Works IV, Polished Defense I",8800,M-SB-112,Spark Knight Armor+:1|Spark Knight Redstone:1|Spark Knight Shield:1
+M-SB-114,Melee,Short Blade,Chevalier Spk II,9,0,0,384,0,0,1,0,M-SB-113,"Best Works IV, Polished Defense II",9600,M-SB-113,Spark Knight God Needle:2|Spark Knight Ambrosia:1|Spark Knight Armor+:1|Spark Knight Armor:1|Spark Knight Soft Steel:1
+M-SB-115,Melee,Short Blade,Chevalier Spk N,12,0,0,461,0,0,1,0,M-SB-114,"Best Works IV, Polished Defense III",40800,M-SB-114,Fortifier:1|Spark Knight God Needle:1|Fine Lubricant:1|Prince's Spirit:1|Prince's Thorn:1
+M-SB-116,Melee,Short Blade,Chevalier Spk X,13,0,0,489,0,0,1,0,M-SB-115,"Best Works IV, Polished Defense IV",52000,M-SB-115,Spark Knight Steel:1|Spark Knight God Needle:1|Prince's Soul:1|Prince's Pin:1|Oracle Spark Crystal:1
 M-SB-117,Melee,Short Blade,Sparking Chevalier EX,14,0,0,506,0,0,1,0,M-SB-116,"Best Works IV, Polished Defense IV",96000,M-SB-116,Generic Compound Core:1
 M-SB-118,Melee,Short Blade,Paige Blaze,5,0,0,222,1,0,0,0,M-SB-105,Best Works III,3360,M-SB-105,Blaze Knight Armor:1|Blaze Knight Prickle:1|Blaze Knight Shield:1|Hardener:1
 M-SB-119,Melee,Short Blade,Paige Blaze II,6,0,0,256,1,0,0,0,M-SB-118,Best Works IV,4160,M-SB-118,Blaze Knight Armor:1|Blaze Knight Prickle:1|Knight Armor:1|Knight Redstone:1|Blaze Crystal:1
-M-SB-120,Melee,Short Blade,Blazing Chevalier,8,0,0,337,1,0,0,0,M-SB-119,"Best Works IV, Polished Defense I",8800,M-SB-119,Blaze Knight Armor+:2|Blaze Knight Amethyst:1|Blaze Knight Soft Steel:2|Blaze Knight Redstone:1
-M-SB-121,Melee,Short Blade,Blazing Chevalier II,10,0,0,429,1,0,0,0,M-SB-120,"Best Works IV, Polished Defense II",13600,M-SB-120,Blaze Knight Needle:2|Fine Lubricant:1|Blaze Knight Amethyst:1|Blaze Knight Shield:2|Blaze Knight Soft Steel:1
-M-SB-122,Melee,Short Blade,Blazing Chevalier N,11,0,0,446,1,0,0,0,M-SB-121,"Best Works IV, Polished Defense III",16000,M-SB-121,Fortifier:1|Blaze Knight Lance:1|Blaze Knight Amethyst:1|Prince's Spirit:1|Prince's Thorn:1
+M-SB-120,Melee,Short Blade,Blazing Chevalier,8,0,0,337,1,0,0,0,M-SB-119,"Best Works IV, Polished Defense I",8800,M-SB-119,Blaze Knight Armor+:2|Blaze Knight Amethyst:1|Blaze Knight Needle:2|Blaze Knight Soft Steel:2|Blaze Knight Redstone:1
+M-SB-121,Melee,Short Blade,Chevalier Blz II,10,0,0,429,1,0,0,0,M-SB-120,"Best Works IV, Polished Defense II",13600,M-SB-120,Blaze Knight Needle:2|Fine Lubricant:1|Blaze Knight Amethyst:1|Blaze Knight Shield:2|Blaze Knight Soft Steel:1
+M-SB-122,Melee,Short Blade,Chevalier Blz N,11,0,0,446,1,0,0,0,M-SB-121,"Best Works IV, Polished Defense III",16000,M-SB-121,Fortifier:1|Blaze Knight Lance:1|Blaze Knight Ameethyst:1|Prince's Spirit:1|Prince's Thorn:1
 M-SB-123,Melee,Short Blade,Blazing Chevalier EX,14,0,0,506,1,0,0,0,M-SB-122,"Best Works IV, Polished Defense IV",96000,M-SB-122,Generic Compound Core:1
+M-SB-124,Melee,Short Blade,Cursed Blade,3,134,0,0,0,0,0,1,-,Full of Promise I,830,-,Yaksha Plate:1|Yaksha Fragment:1|Yaksha Helm:1
+M-SB-125,Melee,Short Blade,Cursed Blade II,4,188,0,0,0,0,0,1,M-SB-124,Full of Promise II,2800,M-SB-124,Yaksha Plate:1|Yaksha Fragment:1|Yaksha Helm:1|Yaksha Thread:1
+M-SB-126,Melee,Short Blade,Cursed Blade N,6,256,0,0,0,0,0,1,M-SB-125,Full of Promise III,4160,M-SB-125,Yaksha Plate:1|Yaksha Tile:1|Yaksha Helm:1|Yaksha Stock:1|Damascus Steel:1
+M-SB-127,Melee,Short Blade,Cursed Blade X,8,337,0,0,0,0,0,1,M-SB-126,Full of Promise IV,8800,M-SB-126,Yaksha Cop:3|Yaksha Tile:2|Yaksha Horn:2|Yaksha Talon:2|Yaksha Strand:2
+M-SB-128,Melee,Short Blade,Demon Blade,9,384,0,0,0,0,0,1,M-SB-127,"Full of Promise IV, Golden Flame I",9600,M-SB-127,Yaksha Spaulder:2|Yaksha Barrier:1|Yaksha Barrel:1|Yaksha Filament:1|Holy Jewel Steel:1
+M-SB-129,Melee,Short Blade,Demon Blade II,12,461,0,0,0,0,0,1,M-SB-128,"Full of Promise IV, Golden Flame II",40800,M-SB-128,Yaksha Shredder:2|Yaksha Tusk:2|Conqueror Steel:2|Ultra-Pure Mistle:1|Mana Orb:1
+M-SB-130,Melee,Short Blade,Demon Blade N,13,489,0,0,0,0,0,1,M-SB-129,"Full of Promise IV, Golden Flame III",52000,M-SB-129,Yaksha Shredder:2|Yaksha Spaulder:2|Conqueror Crown:2|Prince's Steel:1|Mana Orb:1
+M-SB-131,Melee,Short Blade,Demon Blade EX,14,506,0,0,0,0,0,1,M-SB-130,"Full of Promise IV, Golden Flame IV",96000,M-SB-130,Generic Compound Core:1
+M-SB-132,Melee,Short Blade,Gem Sword: Xi Shi,3,41,0,96,0,0,0,1,-,Harvester I,830,-,Silver:1|Impure Liniment:1|Vermillion Piece:1
+M-SB-133,Melee,Short Blade,Gem Sword: Xi Shi II,5,68,0,159,0,0,0,1,M-SB-132,Harvester II,3360,M-SB-132,Raven Wing:2|Draconic Redstone:2|Mana Stone:1|Angel Armor:1
+M-SB-134,Melee,Short Blade,Gem Sword: Zhaojun,6,78,0,183,0,0,0,1,M-SB-133,Harvester III,4160,M-SB-133,Hanuman Redstone:1|Mistle:1|Oil:1|Mahogany Branch:1|Fossil Tree:1
+M-SB-135,Melee,Short Blade,Gem Sword: Zhaojun II,7,94,0,221,0,0,0,1,M-SB-134,Harvester IV,7760,M-SB-134,Garuda Crown:1|Vermillion:1|Pure Damascus:1|Mithril Silver:1|Prince's Thorn:1
+M-SB-136,Melee,Short Blade,Gem Sword: Diao,9,117,0,275,0,0,0,1,M-SB-135,"Harvester IV, Gran Suerte I",9600,M-SB-135,Chaotic Lichen:1|Yin-Yang Carver:1|Mana Crystal:1|Prince's Thorn:1|Pure Oil:1
+M-SB-137,Melee,Short Blade,Gem Sword: Diao II,11,136,0,319,0,0,0,1,M-SB-136,"Harvester IV, Gran Suerte II",16000,M-SB-136,Yin-Yang Ingot:2|Yin-Yang Raiment:1|Yin-Yang Carver:1|Mana Crystal:1|Pure Soft Iron:1
+M-SB-138,Melee,Short Blade,Gem Sword: Diao N,13,149,0,350,0,0,0,1,M-SB-137,"Harvester IV, Gran Suerte III",52000,M-SB-137,Garuda Edge:1|Yin-Yang Crown:1|Yin-Yang Sickle:1|Yin-Yang Scarf:1|Ultra-Pure Mistle:1
+M-SB-139,Melee,Short Blade,Gem Sword: Diao EX,14,154,0,362,0,0,0,1,M-SB-138,"Harvester IV, Gran Suerte IV",96000,M-SB-138,Generic Compound Core:1
+M-SB-140,Melee,Short Blade,Rigoletto,4,113,0,75,0,0,0,1,-,Jambes d'Or I,3500,-,Goddess Plumage:1|Goddess Husk:1|Goddess Filigree:1|Goddess Redstone:1
+M-SB-141,Melee,Short Blade,Rigoletto II,5,140,0,93,0,0,0,1,M-SB-140,Jambes d'Or II,3360,M-SB-140,Goddess Plumage:1|Goddess Husk:1|Goddess Filigree:1|Goddess Toxin:1|Jewel Steel:1
+M-SB-142,Melee,Short Blade,Rigoletto N,6,162,0,108,0,0,0,1,M-SB-141,Jambes d'Or III,4160,M-SB-141,Goddess Plumage:1|Goddess Husk:1|Goddess Filigree:1|Goddess Toxin:1|Goddess Redstone:1
+M-SB-143,Melee,Short Blade,Rigoletto X,8,213,0,142,0,0,0,1,M-SB-142,Jambes d'Or IV,8800,M-SB-142,Goddess Quill:1|Goddess Rind:1|Diablo Eye:1|Diablo Plumage:1|Diablo Feather:1
+M-SB-144,Melee,Short Blade,Trovatore,10,271,0,181,0,0,0,1,M-SB-143,"Jambes d'Or IV, Rosa College I",13600,M-SB-143,Goddess Quill:2|Goddess Rind:2|Goddess Redstone:1|Diablo Wing:2|Diablo Cloak:1
+M-SB-145,Melee,Short Blade,Trovatore II,13,309,0,206,0,0,0,1,M-SB-144,"Jambes d'Or IV, Rosa College II",52000,M-SB-144,Goddess Quill:2|Goddess Crown:2|Goddess Bane:1|Diablo High Crown:1|Diablo Wing:1
+M-SB-146,Melee,Short Blade,Trovatore EX,14,320,0,213,0,0,0,1,M-SB-145,"Jambes d'Or IV, Rosa College III",96000,M-SB-145,Generic Compound Core:1
+M-SB-147,Melee,Short Blade,Toxic Pickaxe,4,73,0,109,0,0,0,0,-,Digitalis I,3500,-,Goddess Filigree:1|Goddess Husk:1|Tainted Metal:1|Ash:1
+M-SB-148,Melee,Short Blade,Toxic Pickaxe II,6,105,0,156,0,0,0,0,M-SB-147,Digitalis II,4160,M-SB-147,Goddess Filigree:1|Goddess Husk:1|Goddess Toxin:1|Jewel Steel:1|Draconic Redstone:1
+M-SB-149,Melee,Short Blade,Toxic Pickaxe N,7,127,0,188,0,0,0,0,M-SB-148,Digitalis III,7760,M-SB-148,Chaotic Claw:1|Goddess Redstone:1|Chaotic Moss:1|Meteorite Sliver:1|Soft Iron:1
+M-SB-150,Melee,Short Blade,Toxic Pickaxe X,9,158,0,234,0,0,0,0,M-SB-149,Digitalis IV,9600,M-SB-149,Goddess Crown:1|Goddess Rind:1|Goddess Venom:1|Pure Soft Iron:1|Witch Redstone:1
+M-SB-151,Melee,Short Blade,Despair Pickaxe,12,189,0,281,0,0,0,0,M-SB-150,"Digitalis IV, Splitting Wedge I",40800,M-SB-150,Abyssal Claw:1|Goddess Redstone:1|Chaotic Lichen:1|Holy Jewel Steel:1|Venom Metal:1
+M-SB-152,Melee,Short Blade,Despair Pickaxe II,13,201,0,299,0,0,0,0,M-SB-151,"Digitalis IV, Splitting Wedge II",52000,M-SB-151,Goddess Crown:1|Goddess Rind:2|Goddess Bane:1|Holy Jewel Steel:1|Adamantite:1
+M-SB-153,Melee,Short Blade,Despair Pickaxe EX,14,208,0,309,0,0,0,0,M-SB-152,"Digitalis IV, Splitting Wedge III",96000,M-SB-152,Generic Compound Core:1
+M-SB-154,Melee,Short Blade,Wild Sword: Yin,5,66,0,154,0,0,1,0,-,To the Luminous I,4200,-,Avian Limb:1|Avian Flesh:1|Jewel Steel:1|Quickener:1
+M-SB-155,Melee,Short Blade,Wild Sword: Yin II,6,78,0,183,0,0,1,0,M-SB-154,To the Luminous II,4160,M-SB-154,Raven Wing:1|Avian Talon:1|Raven Mask:1|Poison Metal:1|Avian Mask:1
+M-SB-156,Melee,Short Blade,Wild Sword: Yin N,7,94,0,221,0,0,1,0,M-SB-155,To the Luminous III,7760,M-SB-155,Avian Flyer:1|Quickener:1|Pure Jewel Steel:1|Conductor:1|Raven Wing:1
+M-SB-157,Melee,Short Blade,Wild Sword: Shaoyang,10,131,0,307,0,0,1,0,M-SB-156,To the Luminous IV,13600,M-SB-156,Raven Spark Wing:1|Raven Mask:1|Avian Sinew:1|Avian Talon:1|Venom Metal:1
+M-SB-158,Melee,Short Blade,Wild Sword: Shaoyang+,11,136,0,319,0,0,1,0,M-SB-157,"To the Luminous IV, Breakback I",16000,M-SB-157,Avian Flyer:1|Raven Spark Wing:1|Raven Spark Mask:1|Super Conductor:1|Holy Jewel Steel:1
+M-SB-159,Melee,Short Blade,Wild Sword: Shaoyang N,13,149,0,350,0,0,1,0,M-SB-158,"To the Luminous IV, Breakback II",52000,M-SB-158,Raven Storm Wing:1|Raven Storm Bone:1|Swiftener:1|Super Conductor:1|Super Poison Metal:1
+M-SB-160,Melee,Short Blade,Wild Sword: Shaoyang EX,14,154,0,362,0,0,1,0,M-SB-159,"To the Luminous IV, Breakback III",96000,M-SB-159,Generic Compound Core:1
+M-SB-161,Melee,Short Blade,Bestie Dolch,6,178,0,76,0,0,1,1,-,Main Dish I,5200,-,Emperor Skull:2|Emperor Mane:3|Emperor Claw:1|Emperor Fang:2|Damascus Steel:1
+M-SB-162,Melee,Short Blade,Bestie Dolch II,7,221,0,94,0,0,1,1,M-SB-161,Main Dish II,7760,M-SB-161,Emperor Skull:2|Emperor Wing:3|Emperor Fang:2|Emperor Claw:1|Pure Damascus:1
+M-SB-163,Melee,Short Blade,Bestie Dolch N,9,275,0,117,0,0,1,1,M-SB-162,Main Dish III,9600,M-SB-162,Emperor Mane:2|Imperial Wing:1|Imperial Claw:1|Emperor Redstone:1|Pure Damascus:1
+M-SB-164,Melee,Short Blade,Teufel Dolch,10,307,0,131,0,0,1,1,M-SB-163,"Main Dish III, Great Devourer I",13600,M-SB-163,Emperor Mane:2|Emperor wing:2|Imperial Claw:1|Imperial Crown:1|Orichalcum:1
+M-SB-165,Melee,Short Blade,Teufel Dolch II,12,330,0,141,0,0,1,1,M-SB-164,"Main Dish III, Great Devourer II",40800,M-SB-164,Emperor Mane:2|Emperor Claw:2|Thunder Ogre Horn:1|Imperial Crown:1|Orichalcum:1
+M-SB-166,Melee,Short Blade,Teufel Dolch N,13,350,0,149,0,0,1,1,M-SB-165,"Main Dish III, Great Devourer III",52000,M-SB-165,Emperor Pelt:3|Imperial Claw:2|Emperor Incisor:2|Emperor Amethyst:1|Mana Orb:2
+M-SB-167,Melee,Short Blade,Teufel Dolch EX,14,362,0,154,0,0,1,1,M-SB-166,"Main Dish III, Great Devourer IV",96000,M-SB-166,Generic Compound Core:1
+M-SB-168,Melee,Short Blade,Serpent Dagger,7,88,0,210,2,0,0,0,-,Major Step I,9700,-,Serpent Armor:3|Serpent Soft Iron:2|Serpent Fang:2|Serpent Horn:2|Serpent Cataphract:1
+M-SB-169,Melee,Short Blade,Serpent Dagger II,8,99,0,237,2,0,0,0,M-SB-168,Major Step II,8800,M-SB-168,Serpent Cataphract:2|Serpent Horn:1|Serpent Fang:1|Cinder Crystal:1|Serpent Armor:1
+M-SB-170,Melee,Short Blade,Serpent Dagger N,10,126,0,302,2,0,0,0,M-SB-169,Major Step III,13600,M-SB-169,Serpent Armor:1|Serpent Soft Iron:1|Serpent Blaze Fang:1|Serpent Blaze Horn:1|Orichalcum:1
+M-SB-171,Melee,Short Blade,Serpent Dagger X,11,131,0,314,2,0,0,0,M-SB-170,"Major Step III, Polished Evasion I",16000,M-SB-170,Serpent Soft Iron:1|Serpent Blaze Horn:1|Serpent Blaze Fang:1|Flaming Crystal:1|Adamantite:1
+M-SB-172,Melee,Short Blade,Serpent Dagger V,13,144,0,345,2,0,0,0,M-SB-171,"Major Step III, Polished Evasion II",52000,M-SB-171,Serpent Carapace:1|Serpent Soft Steel:1|Serpent Blaze Horn:1|Flaming Crystal:1|Serpent Ambrosia:1
+M-SB-173,Melee,Short Blade,Serpent Dagger EX,14,149,0,357,2,0,0,0,M-SB-172,"Major Step III, Polished Evasion III",96000,M-SB-172,Generic Compound Core:1
+M-SB-174,Melee,Short Blade,Phantom Dagger,10,126,0,302,1,0,0,1,M-SB-169,Major Step III,13600,M-SB-169,Phantom Armor:1|Phantom Cataphract:1|Phantom Horn:1|Phantom Helm:1|Seraphic Crystal:1
+M-SB-175,Melee,Short Blade,Phantom Dagger II,11,131,0,314,1,0,0,1,M-SB-174,"Major Step III, Polished Evasion I",16000,M-SB-174,Phantom Incisor:1|Phantom Armor:1|Phantom Helm:1|Phantom Ambrosia:1|Orichalcum:1
+M-SB-176,Melee,Short Blade,Phantom Dagger N,13,144,0,345,1,0,0,1,M-SB-175,"Major Step III, Polished Evasion II",52000,M-SB-175,Phantom Armor:1|Phantom Arm Gauntlet:1|Phantom Lance:1|Phantom Helm:1|Tungsten Superalloy:1
+M-SB-177,Melee,Short Blade,Phantom Dagger EX,14,149,0,357,1,0,0,1,M-SB-176,"Major Step III, Polished Evasion III",96000,M-SB-176,Generic Compound Core:1
+M-SB-178,Melee,Short Blade,Wild Sword: Laoyin,7,91,0,213,0,0,0,1,-,To the Luminous III,9700,-,Garuda Wing:1|Garuda Bone:1|Avian Cover:1|Avian Sinew:1|Swiftener:1
+M-SB-179,Melee,Short Blade,Wild Sword: Laoyin II,8,103,0,241,0,0,0,1,M-SB-178,To the Luminous IV,8800,M-SB-178,Garuda Blade:1|Garuda Talon:1|Helios Carver:1|Helios Halo:1|Venom Metal:1
+M-SB-180,Melee,Short Blade,Wild Sword: Laoyin N,9,117,0,275,0,0,0,1,M-SB-179,"To the Luminous IV, Breakback I",9600,M-SB-179,Garuda Wing:2|Swiftener:1|Yin-Yang Carver:1|Yin-Yang Sash:1|Holy Jewel Steel:1
+M-SB-181,Melee,Short Blade,Wild Sword: Laoyin X,12,141,0,330,0,0,0,1,M-SB-180,"To the Luminous IV, Breakback II",40800,M-SB-180,Phoenix Talon:1|Garuda Edge:1|Yin-Yang Carver:1|Yin-Yang Ingot:1|Ultra-Pure Mistle:1
+M-SB-182,Melee,Short Blade,Wild Sword: Laoyin EX,14,154,0,362,0,0,0,1,M-SB-181,"To the Luminous IV, Breakback III",96000,M-SB-181,Generic Compound Core:1
+M-SB-183,Melee,Short Blade,Traviata,7,182,0,122,0,0,0,0,-,Venom Leap II,9700,-,Witch Quill:1|Witch Wing:1|Goddess Husk:1|Goddess Venom:1|Goddess Filigree:1
+M-SB-184,Melee,Short Blade,Traviata II,8,206,0,138,0,0,0,0,M-SB-183,Venom Leap III,8800,M-SB-183,Witch Redstone:1|Witch Crown:1|Witch Wing:1|Witch Quill:1|Mana Crystal:1
+M-SB-185,Melee,Short Blade,Traviata N,10,262,0,176,0,0,0,0,M-SB-184,Venom Leap IV,13600,M-SB-184,Witch Feathering:1|Goddess Redstone:1|Goddess Rind:1|Witch Quill:1|Witch Crown:1
+M-SB-186,Melee,Short Blade,Traviata X,11,272,0,183,0,0,0,0,M-SB-185,"Venom Leap IV, Burst Aid I",16000,M-SB-185,Witch Amethyst:1|Witch Feathering:1|Withc Quill:1|Goddess Rind:1|Adamantite:1
+M-SB-187,Melee,Short Blade,Traviata V,13,299,0,201,0,0,0,0,M-SB-186,"Venom Leap IV, Burst Aid II",52000,M-SB-186,Witch Gown:1|Witch Gaze:1|Witch Diadem:1|Goddess Quill:1|Goddess Crown:1
+M-SB-188,Melee,Short Blade,Traviata EX,14,309,0,208,0,0,0,0,M-SB-187,"Venom Leap IV, Burst Aid III",96000,M-SB-187,Generic Compound Core:1
+M-SB-189,Melee,Short Blade,Scorching Knife,7,194,0,129,1,0,0,0,-,Disorder I,9700,-,Yaksha Stock:1|Yaksha Tile:1|Blaze Knight Armor:1|Blaze Knight Redstone:1|Infernal Ogre Cowl:1
+M-SB-190,Melee,Short Blade,Searing Knife,11,291,0,192,1,0,0,0,M-SB-189,Disorder II,16000,M-SB-189,Yaksha Talon:1|Yaksha Incisor:1|Blaze Knight Amethyst:1|Serpent Soft Iron:1|Serpent Cataphract:1
+M-SB-191,Melee,Short Blade,Searing Knife II,12,301,0,199,1,0,0,0,M-SB-190,Disorder III,40800,M-SB-190,Yaksha Tusk:1|Blaze Knight Lance:2|Blaze Knight Amethyst:1|Serpent Blaze Horn:1|Holy Serpent Guard:1
+M-SB-192,Melee,Short Blade,Wrought Iron,14,0,0,218,1,0,0,0,M-SB-191,Disorder IV,96000,M-SB-191,Generic Compound Core:1
+M-SB-193,Melee,Short Blade,Oracle Sword,10,0,0,0,0,0,0,0,-,Bayoneteer,17000,-,Oracle Blaze Stone:1|Oracle Freeze Stone:1|Oracle Spark Stone:1|Mithril Silver:1|Philosopher's Stone:1
+M-SB-194,Melee,Short Blade,Oracle Sword II,12,0,0,0,0,0,0,0,M-SB-193,"Bayoneteer, Low Calorie I",40800,M-SB-193,Oracle Blaze Stone:1|Oracle Freeze Crystal:1|Oracle Spark Crystal:1|Orichalcum:1|Ultra-Pure Mistle:1
+M-SB-195,Melee,Short Blade,Oracle Sword EX,14,0,0,0,0,0,0,0,M-SB-194,"Bayoneteer, Low Calorie II",96000,M-SB-194,Generic Compound Core:1
+M-SB-196,Melee,Short Blade,Azure Dragon Blade,10,411,0,0,0,1,0,1,-,Catch the Way I,17000,-,Pure Oil:1|Diablo Crown:1|Diablo Wing:1|Ice Wyrm Fang:1|Basilisk Ice Armor:2
+M-SB-197,Melee,Short Blade,Azure Dragon Blade II,12,451,0,0,0,1,0,1,M-SB-196,Catch The Way II,40800,M-SB-196,Ultra-Pure Oil:1|Diablo High Crown:1|Diablo Wing:1|Ice Wyrm Fang:1|Basilisk Arctic Armor:1
+M-SB-198,Melee,Short Blade,Azure Dragon Blade EX,14,495,0,0,0,1,0,1,M-SB-197,Catch the Way III,96000,M-SB-197,Generic Compound Core:1
+M-SB-199,Melee,Short Blade,Vermillion Bird Blade,10,411,0,0,1,0,0,1,-,Catch the Way I,17000,-,Pure Oil:1|Ares Alloy:1|King Sensor:1|Serpent Soft Iron:1|Serpent Blaze Helm:1
+M-SB-200,Melee,Short Blade,Vermillion Bird Blade II,12,451,0,0,1,0,0,1,M-SB-199,Catch the Way II,40800,M-SB-199,Ultra-Pure Oil:1|Ares Alloy:2|King Sensor:1|Flame Nail:1|Flame Shell:2
+M-SB-201,Melee,Short Blade,Vermillion Bird Blade EX,14,495,0,0,1,0,0,1,M-SB-199,Catch the Way III,96000,M-SB-199,Generic Compound Core:1
+M-SB-202,Melee,Short Blade,White Tiger Blade,10,411,0,0,0,0,1,1,-,Catch the Way I,17000,-,Pure Oil:1|Chimera Spark Fang:1|Volt Generator:1|Hanuman Femur:1|Howler Plumage:1
+M-SB-203,Melee,Short Blade,White Tiger Blade II,12,451,0,0,0,0,1,1,M-SB-202,Catch the Way II,40800,M-SB-202,Ultra-Pure Oil:1|Chimera Spark Claw:1|Volt Generator:1|Hanuman Femur:2|Hanuman Spark Armor:1
+M-SB-204,Melee,Short Blade,White Tiger Blade EX,14,495,0,0,0,0,1,1,M-SB-203,Catch the Way III,96000,M-SB-203,Generic Compound Core:1
+M-SB-205,Melee,Short Blade,Black Tortoise Blade,10,411,0,0,0,0,0,2,-,Catch the Way I,17000,-,Pure Oil:1|Imperial Claw:1|Emperor Redstone:1|Conqueror Armor:1|Conqueror Grease:1
+M-SB-206,Melee,Short Blade,Black Tortoise Blade II,12,451,0,0,0,0,0,2,M-SB-205,Catch the Way II,40800,M-SB-205,Ultra-Pure Oil:1|Simian Power armor:1|Basilisk Amethyst:1|Conqueror Steel:1|Conqueror Grease:1
+M-SB-207,Melee,Short Blade,Black Tortoise Blade EX,14,495,0,0,0,0,0,2,M-SB-206,Catch the Way III,96000,M-SB-206,Generic Compound Core:1
+M-SB-208,Melee,Short Blade,Rune Edge: Haglaz,10,62,0,362,0,0,1,0,-,Extra Length I,17000,-,Oracle spark Stone:1|Imperial Claw:1|Imperial Crown:1|Hanuman Femur:1|Hanuman Spark Armor:1
+M-SB-209,Melee,Short Blade,Rune Edge: Haglaz II,11,66,0,385,0,0,1,0,M-SB-208,Extra Length II,16000,M-SB-208,Thunder Ogre Horn:1|Imperial Crown:1|Hanuman Spark Armor:1|Hanuman Femur:2|Hanuman Mask:1
+M-SB-210,Melee,Short Blade,Rune Edge: Haglaz N,13,72,0,422,0,0,1,0,M-SB-209,"Extra Length II, Antibody I",52000,M-SB-209,emperor Incisor:1|Imperial Crown:1|Hanuman Forcefield:1|Hanuman Femur:2|hanuman Cowl:1
+M-SB-211,Melee,Short Blade,Rune Edge: Haglaz EX,14,75,0,437,0,0,1,0,M-SB-210,"Extra Length II, Antibody II",96000,M-SB-210,Generic Compound Core:1
+M-SB-212,Melee,Short Blade,Rune Edge: Kaunan,10,62,0,362,1,0,0,0,-,Extra Length I,17000,-,Oracle Blaze Stone:1|Serpent Soft Iron:1|Flaming Crystal:1|Phoenix Wing:1|Phoenix Bone:2
+M-SB-213,Melee,Short Blade,Rune Edge: Kaunan II,11,66,0,385,1,0,0,0,M-SB-212,Extra Length II,16000,M-SB-212,Serpent Blaze Horn:1|Serpent Blaze Fang:1|Flaming Crystal:1|Phoenix Claw:1|Garuda Blade:1
+M-SB-214,Melee,Short Blade,Rune Edge: Kaunan N,12,68,0,398,1,0,0,0,M-SB-213,"Extra Length II, Antibody I",40800,M-SB-213,Flame Tusk:1|Serpent Blaze Fang:1|Flaming Crystal:1|Phoenix Claw:1|Goddess Crown:1
+M-SB-215,Melee,Short Blade,Rune Edge: Kaunan EX,14,75,0,437,1,0,0,0,M-SB-214,"Extra Length II, Antibody II",96000,M-SB-214,Generic Compound Core:1
+M-SB-216,Melee,Short Blade,Rune Edge: Isaz,10,62,0,362,0,1,0,0,-,Extra Length I,17000,-,Oracle Freeze Stone:1|Royal Ice Wing:2|Empress Wreath:1|Boreas Rumbler:1|Ice King Armor:2
+M-SB-217,Melee,Short Blade,Rune Edge: Isaz II,11,66,0,385,0,1,0,0,M-SB-216,Extra Length II,16000,M-SB-216,Empress Fang:1|Empress Wreath:1|Wukong Armor+:1|Boreas Rumbler:2|Ice King Gun:1
+M-SB-218,Melee,Short Blade,Rune Edge: Isaz N,13,72,0,422,0,1,0,0,M-SB-217,"Extra Length II, Antibody I",52000,M-SB-217,Royal Frame:1|Empress Wreath:1|Wukong Power Armor:1|Boreas Rumbler:2|Ice King Armor:1
+M-SB-219,Melee,Short Blade,Rune Edge: Isaz EX,14,75,0,437,0,1,0,0,M-SB-218,"Extra Length II, Antibody II",96000,M-SB-218,Generic Compound Core:1
+M-SB-220,Melee,Short Blade,Rune Edge: Dagaz,10,62,0,362,0,0,0,1,-,Extra Length I,17000,-,Oracle Lucent Stone:1|Phantom Armor:2|Phantom Helm:1|Phantom Incisor:1|Phantom Ambrosia:1
+M-SB-221,Melee,Short Blade,Rune Edge: Dagaz II,12,68,0,398,0,0,0,1,M-SB-220,Extra Length II,40800,M-SB-220,Phantom Incisor:1|Yaksha Talon:1|Phantom Helm:1|Phantom Cataphract:1|Phantom Ambrosia:1
+M-SB-222,Melee,Short Blade,Rune Edge: Dagaz EX,14,75,0,437,0,0,0,1,M-SB-221,"Extra Length II, Antibody II",96000,M-SB-221,Generic Compound Core:1
+M-SB-223,Melee,Short Blade,Phantom Piercer,11,70,0,382,0,1,0,1,-,Ambush Mastery I,20000,-,Simian Pharynx:1|Hanuman Amethyst:1|Serpent Blaze Helm:1|Holy Serpent Guard:1|Serpent Ambrosia:1
+M-SB-224,Melee,Short Blade,Phantom Piercer II,12,73,0,398,0,1,0,1,M-SB-223,Ambush Mastery II,40800,M-SB-223,Boreas Rumbler:2|Wukong Amethyst:1|Phantom Cataphract:1|Phantom Incisor:1|Phantom Ambrosia:1
+M-SB-225,Melee,Short Blade,Phantom Piercer EX,14,80,0,437,0,1,0,1,M-SB-224,Ambush Mastery III,96000,M-SB-224,Generic Compound Core:1
+M-SB-226,Melee,Short Blade,Claudia,13,407,0,71,0,2,0,0,-,Liberator I,65000,-,Bahamut Helm:2|Bahamut Blue Mail:1|Bahamut Sky Fang:1|Boreal Stone:1|Oracle Freeze Crystal:1
+M-SB-227,Melee,Short Blade,Claudia EX,14,426,0,75,0,2,0,0,M-SB-226,Liberator II,96000,M-SB-226,Generic Compound Core:1
+M-SB-228,Melee,Short Blade,Wyvern Dagger,13,142,0,341,0,0,0,1,-,Major Step III,65000,-,Wyvern Soft Steel:1|Wyvern Gauntlet:1|Wyvern Horn:1|Wyvern Fang:1|Wyvern Ambrosia:1
+M-SB-229,Melee,Short Blade,Wyvern Dagger EX,14,149,0,347,0,0,0,1,M-SB-228,"Major step III, Polished Evasion III",96000,M-SB-228,Generic Compound Core:1
+M-SB-230,Melee,Short Blade,Superbia,14,360,0,153,0,0,0,2,-,"Great Devourer IV, Far East Champion",120000,-,Hades Crown:1|Hades Fang:1|Hades Wing:1|Hades Claw:1|Hades Redstone:1
+M-LB-001,Melee,Long Blade,Blade P,0,97,0,0,0,0,0,0,-,Blade Wielder I,350,-,Ogre Fang:1|Brittle Titanium:1
+M-LB-002,Melee,Long Blade,Blade,1,99,0,0,0,0,0,0,M-LB-001,Blade Wielder II,280,M-LB-001,Ogre Fang:1|Brittle Titanium:1
+M-LB-003,Melee,Long Blade,Blade II,4,225,0,0,0,0,0,0,M-LB-002,Blade Wielder V,2800,M-LB-002,Ogre Fang:1|Ogre Sharp Tail:1|King Steel:1|Titanium:1
+M-LB-004,Melee,Long Blade,Blade N,6,306,0,0,0,0,0,0,M-LB-003,Blade Wielder VI,4160,M-LB-003,Ogre Sharp Helm:1|Knight Needle:1|Knight Shield:1|Tungsten:1|Mithril Silver:1
+M-LB-005,Melee,Long Blade,Blade X,10,513,0,0,0,0,0,0,M-LB-004,"Blade Wielder VI, Long Blade MAster II",13600,M-LB-004,Ogre Halberd:1|Knight Armor:1|Ares Alloy:1|Ares Armor:1|Pure Soft Iron:1
+M-LB-006,Melee,Long Blade,Blade V,13,585,0,0,0,0,0,0,M-LB-005,"Blade Wielder VI, Long Blade Master III",52000,M-LB-005,Prince's Steel:1|Prince's Sand:1|Ares Alloy:1|Cemented Carbide:1|Pure Damascus:1
+M-LB-007,Melee,Long Blade,Blade EX,14,605,0,0,0,0,0,0,M-LB-006,"Blade Wielder VI, Long Blade Master IV",96000,M-LB-006,Generic Compound Core:1
+M-LB-008,Melee,Long Blade,Railblade,7,362,0,0,1,0,1,0,M-LB-004,Blade Wielder VI,7760,M-LB-004,Avian Tendon:1|Raven Wing:1|Spark Knight Prickle:1|Niobium:1|Chaotic Claw:1
+M-LB-009,Melee,Long Blade,Railblade II,8,395,0,0,1,0,1,0,M-LB-008,"Blade Wielder VI, Long Blade Master I",8800,M-LB-008,Anathema Raiment:1|Anathema Frame:1|High Conductor:1|Emperor Limb:1|Strong Magnet:1
+M-LB-010,Melee,Long Blade,Railblade N,10,503,0,0,1,0,1,0,M-LB-009,"Blade Wielder VI, Long Blade Master II",13600,M-LB-009,Helios Carver:1|Helios Sash:1|High Conductor:1|Cemented Carbide:1|Pure Silver:1
+M-LB-011,Melee,Long Blade,Railblade X,12,540,0,0,1,0,1,0,M-LB-010,"Blade Wielder VI, Long Blade Master III",40800,M-LB-010,Spark Knight God Needle:1|Spakr Knight Steel:1|High Conductor:1|Detonator:2|Oracle Spark Crystal:1
+M-LB-012,Melee,Long Blade,Railblade V,13,573,0,0,1,0,1,0,M-LB-011,"Blade Wielder VI, Long Blade Master IV",52000,M-LB-011,Spark Knight God Needle:1|Spark Knight Steel:1|Spark Knight Amethyst:1|Super Conductor:1|Oracle Spark Crystal:1
+M-LB-013,Melee,Long Blade,Railblade EX,14,593,0,0,1,0,1,0,M-LB-012,"Blade Wielder VI, Long Blade Master IV",96000,M-LB-012,Generic Compound Core:1
+M-LB-014,Melee,Long Blade,Chill Blade,2,126,0,0,0,1,0,0,M-LB-002,Blade Wielder III,448,M-LB-002,Draconic Scale:1|Draconic Fang:1|Brittle Tungsten:1
+M-LB-015,Melee,Long Blade,Chill Blade II,3,169,0,0,0,1,0,0,M-LB-014,Blade Wielder IV,664,M-LB-014,Cold Ogre Fang:1|Brittle Tungsten:1|Brittle Titanium:1
+M-LB-016,Melee,Long Blade,Chill Blade N,5,266,0,0,0,1,0,0,M-LB-015,Blade Wielder V,3360,M-LB-015,Draconic Carapace:1|Freezing Ogre Fang:1|Draconic Cannon:1|Freeze Crystal:1|Tungsten:1
+M-LB-017,Melee,Long Blade,Chill Blade X,6,306,0,0,0,1,0,0,M-LB-016,Blade Wielder VI,4160,M-LB-016,Royal Fang:1|Royal Wing:1|Titanium:1|Manganese:1|Ceramic Plate:1
+M-LB-018,Melee,Long Blade,Frigorific Blade,8,403,0,0,0,1,0,0,M-LB-017,"Blade Wielder VI, Long Blade Master I",8800,M-LB-017,Prince's Mail:1|Chaotic Lichen:1|Chaotic Eye:1|Oracle Freeze Stone:1|Meteorite:1
+M-LB-019,Melee,Long Blade,Frigorific Blade II,10,513,0,0,0,1,0,0,M-LB-018,"Blade wielder VI, Long Blade Master II",13600,M-LB-018,Prince's Sanctum:1|Elder's Horn:1|Ice King Grease:1|Ice King Armor:1|Toughened Ceramic:1
+M-LB-020,Melee,Long Blade,Frigorific Blade N,13,585,0,0,0,1,0,0,M-LB-019,"Blade Wielder VI, Long Blade Master III",52000,M-LB-019,Basilisk Rime Horn:1|Prince' Sand:1|Ice King Grease:1|Oracle Freeze Crystal:1|Tungsten Superalloy:1
+M-LB-021,Melee,Long Blade,Frigorific Blade EX,14,0,0,0,0,1,0,0,M-LB-020,"Blade Wielder VI, Long Blade Master IV",96000,M-LB-020,Generic Compound Core:1
+M-LB-022,Melee,Long Blade,Voltaic Blade,4,225,0,0,0,0,1,0,M-LB-002,Blade Wielder IV,2800,M-LB-002,Chimera Spark Fur:1|Knight Prickle:1|Nickel:1|Ceramic Plate:1
+M-LB-023,Melee,Long Blade,Voltaic Blade II,5,266,0,0,0,0,1,0,M-LB-022,Blade Wielder V,3360,M-LB-022,Raven Wing:1|Raven Mask:1|Voltaic Pixie Shell:1|Nickel:1|Manganese:1
+M-LB-024,Melee,Long Blade,Voltaic Blade N,6,306,0,0,0,0,1,0,M-LB-023,Blade Wielder VI,4160,M-LB-023,Avian Tendon:1|Quickener:1|Spark Ogre Spire:1|Spark Ogre Fang:1|Magnetic Steel:1
+M-LB-025,Melee,Long Blade,Voltaic Blade X,9,459,0,0,0,0,1,0,M-LB-024,"Blade Wielder VI, Long Blade Master I",9600,M-LB-024,Yin-Yang Ingot:1|Yin-Yang Carver:1|Yin-Yang Ambrosia:1|Cemented Carbide:1|Pure Silver:1
+M-LB-026,Melee,Long Blade,Voltaic Blade V,10,513,0,0,0,0,1,0,M-LB-025,"Blade Wielder VI, Long Blade Master II",13600,M-LB-025,Elder's Armor:1|Elder's Horn:1|yin-Yang sash:1|Yin-Yang Halo:1|Orichalcum:1
+M-LB-027,Melee,Long Blade,Voltaic Blade S,13,585,0,0,0,0,1,0,M-LB-026,"Blade Wielder VI, Long Blade Master III",52000,M-LB-026,Spark Knight God Needle:1|Spark Knight Steel:1|Volt Generator:1|High Conductor:1|Oracle Spark Crystal:2
+M-LB-028,Melee,Long Blade,Voltaic Blade EX,14,605,0,0,0,0,1,0,M-LB-027,"Blade Wielder VI, Long Blade Master IV",96000,M-LB-027,Generic Compound Core:1
+M-LB-029,Melee,Long Blade,Tail Sword: Silver,1,98,0,0,0,0,0,0,-,Mission Auxiliary I,350,-,Ogre Fang:1|Ogre Tail:1
+M-LB-030,Melee,Long Blade,Tail Sword: Silver II,2,125,0,0,0,0,0,0,M-LB-029,Mission Auxiliary II,448,M-LB-029,Draconic Fang:1|Ogre Fang:1|Ogre Helm:1|Angel Fang:1
+M-LB-031,Melee,Long Blade,Tail Sword: Silver N,3,167,0,0,0,0,0,0,M-LB-030,Mission Auxiliary III,664,M-LB-030,Chimera Fang:1|Chimera Claw:1|Ogre Fang:1
+M-LB-032,Melee,Long Blade,Tail Sword: Maple,5,263,0,0,1,0,0,0,M-LB-031,Mission Auxiliary IV,3360,M-LB-031,Wyrm Horn:1|Hot Barrel:1|Ogre Sharp Helm:1|Pixie Flame Shell:1|Blaze Ogre Mask:1
+M-LB-033,Melee,Long Blade,Tail Sword: Maple II,6,303,0,0,1,0,0,0,M-LB-032,"Mission Auxiliary IV, Survival Mastery I",4160,M-LB-032,Blaze Ogre Tooth:1|Blaze Ogre Mask:1|Ogre Sharp Helm:1|Wyrm Redstone:1|Ogre Sharp Tail:1
+M-LB-034,Melee,Long Blade,Tail Sword: Ura,8,391,0,0,1,1,0,0,M-LB-033,"Mission Auxiliary IV, Survival Mastery II",8800,M-LB-033,Garuda Talon:1|Shattering Ogre Fang:1|Blaze Ogre Fang:1|Garuda Blade:1|Basilisk Ice Fang:1
+M-LB-035,Melee,Long Blade,Tail Sword: Ura II,9,445,0,0,1,1,0,0,M-LB-034,"Mission Auxiliary IV, Survival Mastery III",9600,M-LB-034,Imperial Wing:1|Shattering Ogre Fang:1|Blaze Ogre Fang:1|Aragami Talon:1|Imperial Crown:1
+M-LB-036,Melee,Long Blade,Tail Sword: Ura N,11,517,0,0,1,1,0,0,M-LB-035,"Mission Auxiliary IV, Survival MAstery IV",16000,M-LB-035,Serpent Blaze Horn:1|Serpent Blaze Fang:1|Ogre Sharp Helm:1|Blaze Ogre Fang:1|Infernal Ogre Cowl:1
+M-LB-037,Melee,Long Blade,Tail Sword: Ura X,12,535,0,0,1,1,0,0,M-LB-036,"Mission Auxiliary IV, Survival Mastery IV",40800,M-LB-036,Phantom Cataphract:1|Infernal OGre Cowl:1|Blaze Ogre Fang:1|Artcic Ogre FangÃƒÆ’Ã‚Â­br>1x Ogre Sharp Fang:1
+M-LB-038,Melee,Long Blade,Tail Sword: Ura EX,14,599,0,0,1,1,0,0,M-LB-037,"Mission Auxiliary IV, Survival Mastery IV",96000,M-LB-037,Generic Compound Core:1
+M-LB-039,Melee,Long Blade,Tail Sword: Shuten,5,263,0,0,0,0,1,0,M-LB-031,Mission Auxiliary IV,3360,M-LB-031,Ogre Sharp Tail:1|Ogre Sharp Helm:1|Cinnabar:1|Generator:1|Aragami Claw:1
+M-LB-040,Melee,Long Blade,Tail Sword: Shuten II,6,303,0,0,0,0,1,0,M-LB-039,"Mission Auxiliary IV, Survival Mastery I",4160,M-LB-039,Spark Ogre Fang:1|Spark Ogre Spire:1|Spark Ogre Mask:1|Chimera Claw:1|Emperor Claw:1
+M-LB-041,Melee,Long Blade,Tail Sword: Shuten N,8,399,0,0,0,0,1,0,M-LB-040,"Mission Auxiliary IV, Survival Mastery II",8800,M-LB-040,Chimera Spark Claw:1|Thunder Ogre Fang:1|Thunder Ogre Cowl:1|Chimera Great Wing:1|Aragami Talon:1
+M-LB-042,Melee,Long Blade,Tail Sword: Shuten X,9,454,0,0,0,0,1,0,M-LB-041,"Mission Auxiliary IV, Survival Mastery III",9600,M-LB-041,Thunder Ogre Cowl:1|Spark Ogre Spire:1|Pixie Shock Shell:1|Sparking Barrel:1|Thunder Ogre Fang:1
+M-LB-043,Melee,Long Blade,Tail Sword: Shuten V,12,546,0,0,0,0,1,0,M-LB-042,"Mission Auxiliary IV, Survival Mastery IV",40800,M-LB-042,Thunder Ogre Tusk:1|Thunder Ogre Domino:1|Thunder Ogre Horn:1|Electro Barrel:1|Pixie Storm Shell:1
+M-LB-044,Melee,Long Blade,Tail Sword: Shuten EX,14,599,0,0,0,0,1,0,M-LB-043,"Mission Auxiliary IV, Survival Mastery IV",96000,M-LB-043,Generic Compound Core:1
+M-LB-045,Melee,Long Blade,Rebellion,1,101,0,0,0,0,0,0,-,Anger I,1000,-,
+M-LB-046,Melee,Long Blade,Rebellion II,4,230,0,0,0,0,0,0,M-LB-045,Anger II,2800,M-LB-045,King Armor:2|King Steel:1|Knight Prickle:1|Wild Barrel:1
+M-LB-047,Melee,Long Blade,Rebellion N,6,312,0,0,0,0,0,0,M-LB-046,Anger III,4160,M-LB-046,Prince's Dust:2|Prince's Iron:1|Prince's Spirit:1|King Feeler:1|Cinnabar:1
+M-LB-048,Melee,Long Blade,Rebellion X,7,376,0,0,0,0,0,0,M-LB-047,Anger IV,7760,M-LB-047,Prince's Dust:2|Prince's Iron:1|King Grease:1|King Pad:1|Cinnabar:1
+M-LB-049,Melee,Long Blade,Rebellion V,9,468,0,0,0,0,0,0,M-LB-048,"Anger IV, Fierce Combatant I",9600,M-LB-048,Yaksha Talon:2|Yaksha Incisor:1|Prince's Mail:1|Flame Nail:1|Witch Amethyst:1
+M-LB-050,Melee,Long Blade,Rebellion S,11,544,0,0,0,0,0,0,M-LB-049,"Anger IV, Fierce Combatant II",16000,M-LB-049,Flame Nail:2|Flame Glass:1|Flame Dynamo:1|Abyssal Horn:1|Pixie Inferno Shell:1
+M-LB-051,Melee,Long Blade,Rebellion EX,14,617,0,0,0,0,0,0,M-LB-050,"Anger IV, Fierce Combatant III",96000,M-LB-050,Generic Compound Core:1
+M-LB-052,Melee,Long Blade,Oblivion,2,118,0,0,0,0,0,1,-,Timid Wisdom I,560,-,Vermilion Piece:1|Lucent Stone:1|Impure Liniment:1
+M-LB-053,Melee,Long Blade,Oblivion II,4,221,0,0,0,0,0,1,M-LB-052,Timid Wisdom II,2800,M-LB-052,Goddess Toxin:1|Liniment:1|Vermilion Piece:1|Lucent Stone:1
+M-LB-054,Melee,Long Blade,Oblivion N,5,260,0,0,0,0,0,1,M-LB-053,Timid Wisdom III,3360,M-LB-053,Goddess Redstone:1|Knight Redstone:1|Liniment:1|Lucent Crystal:1
+M-LB-055,Melee,Long Blade,Oblivion X,6,300,0,0,0,0,0,1,M-LB-054,Timid Wisdom IV,4160,M-LB-054,Hanuman Redstone:1|Lucent Crystal:1|Liniment:1|Vermilon:1|Mahogany Branch:1
+M-LB-056,Melee,Long Blade,Oblivion V,8,395,0,0,0,0,0,1,M-LB-055,Timid Wisdom V,8800,M-LB-055,Chaotic Lichen:1|Garuda Crown:1|Vermilion:1|Diablo Eye:1|Prince's Soul:1
+M-LB-057,Melee,Long Blade,Oblivious,11,523,0,0,0,0,0,1,M-LB-056,"Timid Wisdom V, Sickness I",16000,M-LB-056,Hanuman Amethyst:1|Oracle Lucent Stone:1|Pure Soft Iron:1|Cemented Carbide:1|Mahogany:1
+M-LB-058,Melee,Long Blade,Oblivious II,13,573,0,0,0,0,0,1,M-LB-057,"Timid Wisdom V, Sickness II",52000,M-LB-057,Yin-Yang Scarf:1|Phoenix Crown:1|Cemented Carbide:1|Diablo Oculus:1|Prince's Soul:1
+M-LB-059,Melee,Long Blade,Oblivious EX,14,593,0,0,0,0,0,1,M-LB-058,"Timid Wisdom V, Sickness III",96000,M-LB-058,Generic Compound Core:1
+M-LB-060,Melee,Long Blade,Grasper,7,362,0,0,0,0,0,1,M-LB-055,"Timid Wisdom IV, Thousand Arms I",7760,M-LB-055,Garuda Crown:1|Vermilion:1|Damascus Steel:1|Ogre Sharp Tail:1|Prince's Thorn:1
+M-LB-061,Melee,Long Blade,Grasper II,8,395,0,0,0,0,0,1,M-LB-060,"Timid Wisdom IV, Thousand Arms II",8800,M-LB-060,Oracle Lucent Stone:1|Diablo Plague:1|Coating Agent:1|Sage Stone:1|Yaksha Strand:1
+M-LB-062,Melee,Long Blade,Grasper N,10,503,0,0,0,0,0,1,M-LB-061,"Timid Wisdom IV, Thousand Arms III",13600,M-LB-061,Helios Halo:1|Pixie Carapace:1|Helios Carver:2|Coating Agent:1|Oracle Lucent Stone:1
+M-LB-063,Melee,Long Blade,Realizer,12,540,0,0,0,0,0,1,M-LB-062,"Timid Wisdom IV, Thousand Arms IV",40800,M-LB-062,Oracle Lucent Crystal:1|Diablo Blight:1|Titanium Superalloy:1|Philosopher's Stone:1|Yaksha Tusk:1
+M-LB-064,Melee,Long Blade,Realizer II,13,573,0,0,0,0,0,1,M-LB-063,"Timid Wisdom IV, Thousand Arms IV",52000,M-LB-063,Invictus Corona:1|Emperor Incisor:1|Invictus Carver:1|Tungsten Superalloy:1|Oracle Lucent Crystal:1
+M-LB-065,Melee,Long Blade,Realizer EX,14,573,0,0,0,0,0,1,M-LB-064,"Timid wisdom IV, Thousand Arms IV",96000,M-LB-064,Generic Compound Core:1
+M-LB-066,Melee,Long Blade,Voltaic Chainsaw,2,121,0,0,0,0,1,0,-,Ironsides I,560,-,Weak Magnet:1|Ogre Fang:1|Angel Fang:1
+M-LB-067,Melee,Long Blade,Voltaic Chainsaw II,3,169,0,0,0,0,1,0,M-LB-066,Ironsides II,664,M-LB-066,Avian Claw:1|Impure Grease:1|Brittle Titanium:1
+M-LB-068,Melee,Long Blade,Voltaic Chainsaw N,4,225,0,0,0,0,1,0,M-LB-067,Ironsides III,2800,M-LB-067,Knight Pricle:1|Chimera Spakr Fur:1|Chimera Spark Skull:1|Tool Steel:1
+M-LB-069,Melee,Long Blade,Voltaic Chainsaw X,6,306,0,0,0,0,1,0,M-LB-068,Ironsides IV,4160,M-LB-068,Spark Knight Armor:1|Spark Knight Iron:1|Chimera Spark Skull:1|Nickel:1|Titanium:1
+M-LB-070,Melee,Long Blade,Tempest Chainsaw,8,403,0,0,0,0,1,0,M-LB-069,"Ironsides IV, Total Protection I",8800,M-LB-069,Hanuman Spark Armor:1|Hanuman Mask:1|Hanuman Plumage:1|Volt Generator:1|Oracle Spark Stone:1
+M-LB-071,Melee,Long Blade,Tempest Chainsaw II,9,459,0,0,0,0,1,0,M-LB-070,"Ironsides IV, Total PRotection II",9600,M-LB-070,Spark Knight Armor+:1|Howler Ambrosia:1|Howler Plumage:1|High Conductor:1
+M-LB-072,Melee,Long Blade,Tempest Chainsaw N,11,533,0,0,0,0,1,0,M-LB-071,"Ironsides IV, Total Protection III",16000,M-LB-071,Helios Carver:1|Ares Alloy:1|Ares Grease:1|Helios Ingot:1|Adamantite:1
+M-LB-073,Melee,Long Blade,Tempest Chainsaw EX,14,605,0,0,0,0,1,0,M-LB-072,"Ironsides IV, Total Protection IV",96000,M-LB-072,Generic Compound Core:1
+M-LB-074,Melee,Long Blade,Arctic Chainsaw,4,225,0,0,0,1,0,0,M-LB-067,Ironsides III,2800,M-LB-067,Wukong Armor:1|Wukong Mask:1|Freezing Ogre Fang:1|Ogre Sharp Tail:1
+M-LB-075,Melee,Long Blade,Arctic Chainsaw II,5,266,0,0,0,1,0,0,M-LB-074,Ironsides IV,3360,M-LB-074,Wukong Armor:1|Simian Armor+:1|Wukong Mask:1|Wukong Redstone:1|Freeze Crystal:1
+M-LB-076,Melee,Long Blade,Arctic Chainsaw N,6,306,0,0,0,1,0,0,M-LB-075,"Ironsides IV, Total Protection I",4160,M-LB-075,Royal Wing:1|Wukong Redstone:1|Fallen King Armor:1|Pluto Skull:1|Pluto Grease:1
+M-LB-077,Melee,Long Blade,Arctic Chainsaw X,7,369,0,0,0,1,0,0,M-LB-076,"Ironsides IV, Total Protection II",7760,M-LB-076,Royal Fang:1|Royal Wing:1|Royal Filigree:1|Royal Armor:1|Wukong ARmor+:1
+M-LB-078,Melee,Long Blade,Frozen Chainsaw,10,513,0,0,0,1,0,0,M-LB-077,"Ironsides IV, Total PRotection III",13600,M-LB-077,Lucifer Ingot:1|Lucifer Prong:1|Boreas Rumbler:1|Oracle Freeze Stone:1|Cyrogenic Alloy:1
+M-LB-079,Melee,Long Blade,Frozen Chainsaw II,11,533,0,0,0,1,0,0,M-LB-078,"Ironsides IV, Total Protection IV",16000,M-LB-078,Lucifer Ingot:1|Lucifer Oculus:1|Wukong Armor+:1|Hanuman Ambrosia:1|Adamantite:1
+M-LB-080,Melee,Long Blade,Frozen Chainsaw N,13,585,0,0,0,1,0,0,M-LB-079,"Ironsides IV, Total Protection IV",52000,M-LB-079,Ice King Armor:1|Pluto Skull:1|Ice King Grease:1|Arctic Ogre Fang:1|Oracle Freeze Crystal:1
+M-LB-081,Melee,Long Blade,Frozen Chainsaw EX,14,605,0,0,0,1,0,0,M-LB-080,"Ironsides IV, Total Protection IV",96000,M-LB-080,Generic Compound Core:1
+M-LB-082,Melee,Long Blade,Thunder Chainsaw,4,225,0,0,0,0,0,1,M-LB-067,Ironsides III,2800,M-LB-067,King Armor+:1|King Grease:1|Mithril Silver:1|Vermilion:1
+M-LB-083,Melee,Long Blade,Thunder Chainsaw II,5,266,0,0,0,0,0,1,M-LB-082,Ironsides IV,3360,M-LB-082,King Pad:1|King Grease:1|King Gun:1|Ignitor:1
+M-LB-084,Melee,Long Blade,Thunder Chainsaw N,7,369,0,0,0,0,0,1,M-LB-083,"Ironsides IV, Total Protection I",7760,M-LB-083,Chaotic Horn:1|Prince's Shield:1|Chaotic Tektite:1|Chaotic Claw:1|Draconic Cannon+:1
+M-LB-085,Melee,Long Blade,Thunder Chainsaw X,9,459,0,0,0,0,0,1,M-LB-084,"Ironsides IV, Total Protection II",9600,M-LB-084,Imperial Wing:1|Imperial Crown:1|Shattered God Arc:1|Prince's Mail:1|High Conductor:1
+M-LB-086,Melee,Long Blade,Thunder Chainsaw V,10,513,0,0,0,0,0,1,M-LB-085,"Ironsides IV, Total Protection III",13600,M-LB-085,Yin-Yang Carver:1|Yin-Yang Sash:1|Yin-Yang Ambrosia:1|Helios Ingot:1|Adamantite:1
+M-LB-087,Melee,Long Blade,Thunder Chainsaw S,13,585,0,0,0,0,0,1,M-LB-086,"Ironsides IV, Total Protection IV",52000,M-LB-086,Elder's Armor:1|Elder's Soul:1|Conqueror Armor:2|Conqueror Steel:1|Ultra-Pure Oil:1
+M-LB-088,Melee,Long Blade,Thunder Chainsaw EX,14,605,0,0,0,0,0,1,M-LB-087,"Ironsides IV, Total Protection IV",96000,M-LB-087,Generic Compound Core:1
+M-LB-089,Melee,Long Blade,Fin Edge,2,121,0,0,0,1,0,0,-,Oracle Rise I,560,-,Draconic Scale:1|Draconic Fin:1
+M-LB-090,Melee,Long Blade,Fin Edge II,3,169,0,0,0,1,0,0,M-LB-089,Oracle Rise II,664,M-LB-089,Draconic Fang:1|Draconic Fin:1|Draconic Horn:1
+M-LB-091,Melee,Long Blade,Fin Edge N,4,225,0,0,0,1,0,0,M-LB-090,Oracle Rise III,2800,M-LB-090,Draconic Horn:1|Draconic Carapace:1|Draconic Redstone:1|Draconic Fin:1
+M-LB-092,Melee,Long Blade,Fin Edge X,5,266,0,0,0,1,0,0,M-LB-091,Oracle Rise IV,3360,M-LB-091,Wyrm Armor:1|Draconic Horn:1|Draconic Redstone:1|Manganese:1|Wyrm Redstone:1
+M-LB-093,Melee,Long Blade,Frozen Fin Edge,6,306,0,0,0,1,0,0,M-LB-092,Oracle Rise V,4160,M-LB-092,Basilisk Armor:1|Draconic Fang:1|Basilisk Redstone:1|Basilisk Gun:1|Duralumin Steel:1
+M-LB-094,Melee,Long Blade,Frozen Fin Edge II,9,459,0,0,0,1,0,0,M-LB-093,"Oracle Rise V, Cecchino I",9600,M-LB-093,Ice Wyrm Fang:1|Ice Wyrm Gun:1|Basilisk Ice Armor:1|Draconic Carapace:1|Basilisk Amethyst:1
+M-LB-095,Melee,Long Blade,Frozen Fin Edge N,10,513,0,0,0,1,0,0,M-LB-094,"Oracle Rise V, Cecchino II",13600,M-LB-094,Basilisk Ice Horn:1|Ice Wyrm Fang:1|Basilisk Ice Armor:1|Draconic Carapace:1|Frigid Ambrosia:1
+M-LB-096,Melee,Long Blade,Frozen Fin Edge X,13,585,0,0,0,1,0,0,M-LB-095,"Oracle Rise V, Cecchino III",52000,M-LB-095,Basilisk Rime Horn:3|Basilisk Hematite:2|Basilisk Arctic Armor:2|Draconic Horn:2|Frigid Ambrosia:1
+M-LB-097,Melee,Long Blade,Frozen Fin Edge EX,14,605,0,0,0,1,0,0,M-LB-096,"Oracle Rise V, Cecchino IV",96000,M-LB-096,Generic Compound Core:1
+M-LB-098,Melee,Long Blade,Fiery Fin Edge,4,225,0,0,1,0,0,0,M-LB-090,Oracle Rise III,2800,M-LB-090,Wyrm Horn:1|Wyrm Armor:1|Wyrm Redstone:1|Wyrm Fin:1
+M-LB-099,Melee,Long Blade,Fiery Fin Edge II,5,266,0,0,1,0,0,0,M-LB-098,Oracle Rise IV,3360,M-LB-098,Wyrm Fin:1|Wyrm Armor:1|Wyrm Redstone:1|Wyrm Horn:1|Draconic Gun:1
+M-LB-100,Melee,Long Blade,Fiery Fin Edge N,7,369,0,0,1,0,0,0,M-LB-099,Oracle Rise V,7760,M-LB-099,Wyrm Blaze Horn:1|Draconic Carapace:1|Wyrm Blaze Fang:1|Wyrm Amethyst:1|Draconic Cannon:1
+M-LB-101,Melee,Long Blade,Singed Fin Edge,9,459,0,0,1,0,0,0,M-LB-100,"Oracle Rise V, Cecchino I",9600,M-LB-100,Blaze Wyrm Fang:2|Blaze Wyrm Gun:1|Wyrm Fire Armor:1|Draconic Carapace:1|Wyrm Amethyst:1
+M-LB-102,Melee,Long Blade,Singed Fin Edge N,10,513,0,0,1,0,0,0,M-LB-101,"Oracle Rise V, Cecchino II",13600,M-LB-101,Wyrm Blaze Horn:2|Blaze Wyrm Fang:2|Wyrm Fire Armor:2|Draconic Carapace:1|Scorched Ambrosia:1
+M-LB-103,Melee,Long Blade,Singed Fin Edge X,13,585,0,0,1,0,0,0,M-LB-102,"Oracle Rise V, Cecchino III",52000,M-LB-102,Wyrm Molten Horn:2|Blaze Wyrm Fang:2|Wyrm Blaze Armor:2|Wyrm Hematite:1|Scorched Ambrosia:2
+M-LB-104,Melee,Long Blade,Singed Fin Edge EX,14,605,0,0,1,0,0,0,M-LB-103,"Oracle Rise V, Checcino IV",96000,M-LB-103,Generic Compound Core:1
+M-LB-105,Melee,Long Blade,Tigertail,3,157,0,0,0,0,2,0,-,Polished Offense I,830,-,Chimera Fur:1|Chimera Skull:1|Chimera Wing:1
+M-LB-106,Melee,Long Blade,Tigertail II,4,221,0,0,0,0,2,0,M-LB-105,Polished Offense II,2800,M-LB-105,Chimera spark Fur:1|Chimera Spark Skull:1|Chimera Tusk:1|Generator:1
+M-LB-107,Melee,Long Blade,Tigertail N,6,300,0,0,0,0,2,0,M-LB-106,Polished Offense III,4160,M-LB-106,Emperor Mane:1|Chimera Spark Skull:1|Chimera Tusk:1|Generator:1|Spark Crystal:1
+M-LB-108,Melee,Long Blade,Tigertail X,8,395,0,0,0,0,2,0,M-LB-107,Polished Offense IV,8800,M-LB-107,Emperor Mane:1|Emperor Claw:1|Chimera Tusk:1|Chimera Great Wing:1|Oracle Spark Stone:1
+M-LB-109,Melee,Long Blade,Royal Tigertail,10,503,0,0,0,0,2,0,M-LB-108,"Polished Offense IV, Buildup I",13600,M-LB-108,Chimera Spark Claw:1|Chimera Femur:1|Imperial Claw:1|Volt Generator:1|Oracle Spark Stone:1
+M-LB-110,Melee,Long Blade,Royal Tigertail II,12,540,0,0,0,0,2,0,M-LB-109,"Polished Offense IV, Buildup II",40800,M-LB-109,Chimera Spark Fang:1|Chimera Spark Skull:1|Chimera Redstone:1|Emperor Mane:1|Emperor Fang:1
+M-LB-111,Melee,Long Blade,Royal Tigertail N,13,573,0,0,0,0,2,0,M-LB-110,"Polished Offense IV, Buildup III",52000,M-LB-110,Emperor Amethyst:1|Chimera Storm Claw:1|Chimera Amethyst:1|Chimera Storm Fur:1|Oracle Spark Crystal:1
+M-LB-112,Melee,Long Blade,Royal Tigertail EX,14,594,0,0,0,0,2,0,M-LB-111,"Polished Offense IV, Buildup IV",96000,M-LB-111,Generic Compound Core:1
+M-LB-113,Melee,Long Blade,Queen Tail,6,306,0,0,0,1,0,0,M-LB-106,Polished Offense III,4160,M-LB-106,Royal Filigree:1|Royal Wing:1|Chimera Tusk:1|Conductor:1|Freeze Crystal:1
+M-LB-114,Melee,Long Blade,Queen Tail II,7,369,0,0,0,1,0,0,M-LB-113,Polished Offense IV,7760,M-LB-113,Royal Fang:1|Royal Wing:1|Chimera Tusk:1|Royal Filigree:1|Oracle Freeze Stone:1
+M-LB-115,Melee,Long Blade,Queen Tail N,8,403,0,0,0,1,0,0,M-LB-114,"Polished Offense IV, Buildup I",8800,M-LB-114,Royal Ice Wing:1|Chimera Spark Claw:1|Emperor Limb:1|High Conductor:1|Oracle Freeze Stone:1
+M-LB-116,Melee,Long Blade,Queen Tail X,11,533,0,0,0,1,0,0,M-LB-115,"Polishd Offense IV, Buildup II",16000,M-LB-115,Royal Redstone:1|Royal Ice Armor:1|Chimera Redstone:1|Imperial Claw:1|Emperor Fang:1
+M-LB-117,Melee,Long Blade,Queen Tail S,13,585,0,0,0,1,0,0,M-LB-116,"Polished Offense IV, Buildup III",52000,M-LB-116,Royal Crystal Armor:1|Royal Crystal Wing:1|Royal Amethyst:1|Emperor Incisor:1|Oracle Freeze Crystal:1
+M-LB-118,Melee,Long Blade,Queen Tail EX,14,605,0,0,0,1,0,0,M-LB-117,"Polished Offense IV, Buildup IV",96000,M-LB-117,Generic Compound Core:1
+M-LB-119,Melee,Long Blade,Ice Katana,3,160,0,0,0,1,0,0,-,Artisan's Hand I,830,-,Knight Prickle:1|Cold Ogre Fang:1|Impure Jewel Steel:1|Impure Soft Iron:1
+M-LB-120,Melee,Long Blade,Ice Katana II,5,266,0,0,0,1,0,0,M-LB-119,Artisan's Hand II,3360,M-LB-119,Draconic Scale:1|Draconic Redstone:1|Knight Needle:1|Knight Redstone:1|Soft Iron:1
+M-LB-121,Melee,Long Blade,Ice Katana N,6,306,0,0,0,1,0,0,M-LB-120,Artisan's Hand III,4160,M-LB-120,Royal Fang:1|Royal Wing:1|Fallen King Armor:1|Pluto Skull:1|Freeze Crystal:1
+M-LB-122,Melee,Long Blade,Ice Katana X,7,369,0,0,0,1,0,0,M-LB-121,Artisan's Hand IV,7760,M-LB-121,Fallen King Armor:1|Basilisk Armor:1|Basilisk Gun:1|Basilisk Redstone:1|Meteorite:1
+M-LB-123,Melee,Long Blade,Glacier Katana,9,459,0,0,0,1,0,0,M-LB-122,"Artisan's Hand IV, Technical Power I",9600,M-LB-122,Ice King Armor:1|Ice King Grease:1|Ice Wyrm Fang:1|Frigid Ambrosia:1|Oracle Freeze Stone:1
+M-LB-124,Melee,Long Blade,Glacier Katana II,12,551,0,0,0,1,0,0,M-LB-123,"Artisan's Hand IV, Technical Power II",40800,M-LB-123,Basilisk Rime Horn:1|Basilisk Hematite:1|Ice King Armor:1|Ares Armor:1|Orichalcum:1
+M-LB-125,Melee,Long Blade,Glacier Katana N,13,585,0,0,0,1,0,0,M-LB-124,"Artisan's Hand IV, Technical Power III",52000,M-LB-124,Royal Frame:1|Royal Crystal Wing:1|Pluto Skull:1|Ice King Grease:1|Oracle Freeze Stone:1
+M-LB-126,Melee,Long Blade,Glacier Katana EX,14,605,0,0,0,1,0,0,M-LB-125,"Artisan's Hand IV, Technical Power IV",96000,M-LB-125,Generic Compound Core:1
+M-LB-127,Melee,Long Blade,Clemencor,3,163,0,0,0,1,0,0,-,Objective Master I,830,-,Chimera Fur:1|Angel Fang:1|Chimera Fang:1|Brittle Titanium:1
+M-LB-128,Melee,Long Blade,Clemencor II,4,230,0,0,0,1,0,0,M-LB-127,Objective Master II,2800,M-LB-127,Chimera Claw:1|Draconic Scale:1|Draconic horn:1|Draconic Fang:1
+M-LB-129,Melee,Long Blade,Clemencor N,6,312,0,0,0,1,0,0,M-LB-128,Objective Master III,4160,M-LB-128,Royal Wing:1|Royal Fang:1|Royal Filigree:1|Basilisk Armor:1|Basilisk Redstone:1
+M-LB-130,Melee,Long Blade,Clemencor X,9,468,0,0,0,1,0,0,M-LB-129,Objective Master IV,9600,M-LB-129,Ice King Armor:1|Ice King Grease:1|Boreas Rumbler:2|Wukong ARmor+:2|Pixie Rime Shell:1
+M-LB-131,Melee,Long Blade,Clemencor V,11,544,0,0,0,1,0,0,M-LB-131,Objective Master IV,16000,M-LB-131,Empress Fang:1|Royal Ice Armor:1|Ice Wyrm Fang:1|Basilisk Ice Horn:1|Frigid Ambrosia:1
+M-LB-132,Melee,Long Blade,Clemencor EX,14,617,0,0,0,1,0,0,M-LB-131,Objective Master IV,96000,M-LB-131,Generic Compound Core:1
+M-LB-133,Melee,Long Blade,Fire Katana,4,214,0,0,1,0,0,0,-,Artisan's Hand II,3500,-,Wyrm Horn:1|Wyrm Redstone:1|Knight Armor:1|Meteorite Sliver:1
+M-LB-134,Melee,Long Blade,Fire Katana II,6,306,0,0,1,0,0,0,M-LB-133,Artisan's Hand III,4160,M-LB-133,Blaze Knight Armor:1|Chaotic Horn:1|Blaze Knight Redstone:1|Blaze Knight Prickle:1|Soft Iron:1
+M-LB-135,Melee,Long Blade,Fire Katana N,8,403,0,0,1,0,0,0,M-LB-134,Artisan's Hand IV,8800,M-LB-134,Blaze Knight Armor+:1|Blaze Knight Soft Steel:1|Blaze Knight Amethyst:1|Pure Soft Iron:1|Meteorite Sliver:1
+M-LB-136,Melee,Long Blade,Fire Katana X,9,459,0,0,1,0,0,0,M-LB-135,"Artisan's Hand IV, Technical Power II",9600,M-LB-135,Helios Carver:1|Blaze Knight Needle:1|Helios Raiment:1|Holy Jewel Steel:1|Oracle Blaze Stone:1
+M-LB-137,Melee,Long Blade,Fire Katana V,11,533,0,0,1,0,0,0,M-LB-136,"Artisan's Hand IV, Technical Power III",16000,M-LB-136,Blaze Wyrm Fang:1|Blaze Knight Lance:1|Serpent Blaze Horn:1|Flaming Crystal:1|Orichalcum:1
+M-LB-138,Melee,Long Blade,Fire Katana EX,13,605,0,0,1,0,0,0,M-LB-137,"Artisan's Hand IV, Technical Power IV",96000,M-LB-137,Generic Compound Core:1
+M-LB-139,Melee,Long Blade,Bolt Katana,5,257,0,0,0,0,1,0,-,Artisan's Hand II,4200,-,Spark Knight Armor:1|Hardener:1|Knight Armor:1|Jewel Steel:1
+M-LB-140,Melee,Long Blade,Bolt Katana II,6,306,0,0,0,0,1,0,M-LB-139,Artisan's Hand III,4160,M-LB-139,Chaotic Claw:1|Chaotic Tektite:1|Spark Knight Iron:1|Soft Iron:1|Spark Ogre Spire:1
+M-LB-141,Melee,Long Blade,Bolt Katana N,8,403,0,0,0,0,1,0,M-LB-140,Artisan's Hand IV,8800,M-LB-140,Spark Knight Armor+:1|Hanuman Mask:1|Volt Generator:1|Pure Jewel Steel:1|Pixie Shock Shell:1
+M-LB-142,Melee,Long Blade,Bolt Katana X,11,533,0,0,0,0,1,0,M-LB-141,"Artisan's Hand IV, Technical Power II",16000,M-LB-141,Spark Knight God Needle:1|Spark Knight Soft Steel:1|Spark Knight Ambrosia:1|Super Conductor:1|Holy Jewel Steel:1
+M-LB-143,Melee,Long Blade,Bolt Katana V,13,585,0,0,0,0,1,0,M-LB-142,"Artisan's Hand IV, Technical Power III",52000,M-LB-142,Spark Knight Cuirass:1|Spark Knight Steel:1|Chimera Storm Claw:1|Chimera Amethyst:1|Orichalcum:1
+M-LB-144,Melee,Long Blade,Bolt Katana EX,14,605,0,0,0,0,1,0,M-LB-143,"Artisan's Hand IV, Technical Power IV",96000,M-LB-143,Generic Compound Core:1
+M-LB-145,Melee,Long Blade,Poli'ahu,6,292,0,0,0,2,0,0,-,Cycling Rate I,5200,-,Royal Filigree:2|Royal Armor:1|Royal Wing:1|Basilisk Armor:1|Basilisk Gun:2
+M-LB-146,Melee,Long Blade,Poli'ahu II,8,395,0,0,0,2,0,0,M-LB-145,Cycling Rate II,8800,M-LB-145,Royal Crown:2|Royal Bone:1|Royal Redstone:1|Basilisk Ice Horn:1|Pixie Rime Shell:2
+M-LB-147,Melee,Long Blade,Skadi,9,450,0,0,0,2,0,0,M-LB-146,Cycling Rate III,9600,M-LB-146,Royal Crown:2|Royal Bone:1|Royal Fang:1|Basilisk Amethyst:1|Pixie Rime Shell:2
+M-LB-148,Melee,Long Blade,Skadi II,12,540,0,0,0,1,0,0,M-LB-147,"Cycling Rate III, Triple Point I",40800,M-LB-147,Royal Ice Armor:1|Royal Bone:1|Royal Redstone:1|Arctic Barrel:1|Lucifer Keep:2
+M-LB-149,Melee,Long Blade,Skadi EX,14,593,0,0,0,1,0,0,M-LB-148,"Cycling Rate III, Triple Point II",96000,M-LB-148,Generic Compound Core:1
+M-LB-150,Melee,Long Blade,Schwarz Blut,6,295,0,0,0,0,1,1,-,Main Dish I,5200,-,Emperor Skull:2|Emperor Wing:3|Emperor Claw:2|Emperor Fang:1|Damascus Steel:1
+M-LB-151,Melee,Long Blade,Schwarz Blut II,7,365,0,0,0,0,1,1,M-LB-150,Main Dish II,7760,M-LB-150,Emperor Skull:2|Emperor Wing:2|Emperor Fang:2|Emperor Claw:1|Pure Damascus:1
+M-LB-152,Melee,Long Blade,Schwarz Blut N,8,399,0,0,0,0,1,1,M-LB-152,Main Dish III,8800,M-LB-152,Emperor Mane:3|Emperor Limb:2|Emperor Fang:2|Emperor Redstone:1|Volt Generator:2
+M-LB-153,Melee,Long Blade,Finsternis,10,508,0,0,0,0,1,1,M-LB-150,"Main Dish III, Great Devourer I",13600,M-LB-150,Emperor Mane:3|Imperial Wing:2|Imperial Claw:1|Imperial Crown:1|Orichalcum:1
+M-LB-154,Melee,Long Blade,Finsternis II,11,528,0,0,0,0,1,1,M-LB-153,"Main Dish III, Great Devourer II",16000,M-LB-153,Emperor Redstone:1|Imperial Wing:2|Imperial Claw:1|Imperial Crown:1|Orichalcum:1
+M-LB-155,Melee,Long Blade,Finsternis N,13,579,0,0,0,0,1,1,M-LB-154,"Main Dish III, Great Devourer III",52000,M-LB-154,Emperor Pelt:3|Imperial Claw:2|Emperor Incisor:2|Emperor Amethyst:1|Mana Orb:2
+M-LB-156,Melee,Long Blade,Finsternis EX,14,599,0,0,0,0,1,1,M-LB-155,"Main Dish III, Great Devourer IV",96000,M-LB-155,Generic Compound Core:1
+M-LB-157,Melee,Long Blade,Deus Blade Takiri,6,298,0,0,0,0,0,1,-,Break Pocket I,5200,-,Shattered God Arc:1|Prince's Dust:1|Prince's Mail:1|Prince's Thorn:1|Prince's Spirit:1
+M-LB-158,Melee,Long Blade,Deus Blade Takiri II,7,369,0,0,0,0,0,1,M-LB-157,Break Pocket II,7760,M-LB-157,Shattered God Arc:1|Prince's Dust:1|Prince's Thorn:1|Prince's Iron:1|Prince's Spirit:1
+M-LB-159,Melee,Long Blade,Deus Blade Takiri N,9,459,0,0,0,0,0,1,M-LB-158,Break Pocket III,9600,M-LB-158,Shattered God Arc:1|Prince's Thorn:1|Prince's Mail:1|Diablo Plumage:1|Anathema Shooter:1
+M-LB-160,Melee,Long Blade,Deus Blade Takiri X,12,551,0,0,0,0,0,1,M-LB-159,"Break Pocket III, Skilled Hand I",40800,M-LB-159,Shattered God Arc:2|Prince's Pin:2|Prince's Steel:2|Prince's Sand:1|Prince's Soul:1
+M-LB-161,Melee,Long Blade,Deus Blade Takiri V,13,585,0,0,0,0,0,1,M-LB-160,"Break Pocket III, Skilled Hand II",52000,M-LB-160,Shattered God Arc:3|Prince's Pin:2|Prince's Soul:2|Regina's Stone:1|Elder's Soul:1
+M-LB-162,Melee,Long Blade,Deus Blade Takiri EX,14,605,0,0,0,0,0,1,M-LB-161,"Break Pocket III, Skilled Hand III",96000,M-LB-161,Generic Compound Core:1
+M-LB-163,Melee,Long Blade,Serpent Blade,7,349,0,0,2,0,0,0,-,Major Step I,9700,-,Serpent Armor:3|Serpent Soft Iron:2|Serpent Fang:2|Serpent Horn:2|Serpent Cataphract:1
+M-LB-164,Melee,Long Blade,Serpent Blade II,8,395,0,0,2,0,0,0,M-LB-163,Major Step II,8800,M-LB-163,Serpent Armor:1|Serpent Soft Iron:1|Cinder Crystal:1|Serpent Horn:1|Serpent Helm:1
+M-LB-165,Melee,Long Blade,Serpent Blade N,10,503,0,0,2,0,0,0,M-LB-164,Major Step III,13600,M-LB-164,Serpent Soft Iron:1|Serpent Blaze Horn:1|Serpent Blaze Fang:1|Flaming Crystal:1|Serpent Armor:1
+M-LB-166,Melee,Long Blade,Serpent Blade X,11,523,0,0,2,0,0,0,M-LB-165,"Major Step III, Polished Evasion I",16000,M-LB-165,Serpent Blaze Horn:1|Serpent Blaze Fang:1|Holy Serpent Guard:1|Serpent Ambrosia:1|Serpent Soft Iron:1
+M-LB-167,Melee,Long Blade,Serpent Blade V,13,573,0,0,2,0,0,0,M-LB-166,"Major Step III, Polished Evasion II",52000,M-LB-166,Serpent Soft Steel:1|Serpent Carapace:1|Serpent Blaze Fang:1|Flaming Crystal:1|Serpent Ambrosia:1
+M-LB-168,Melee,Long Blade,Serpent Blade EX,14,593,0,0,2,0,0,0,M-LB-167,"Major Step III, Polished Evasion III",96000,M-LB-167,Generic Compound Core:1
+M-LB-169,Melee,Long Blade,Phantom Blade,10,503,0,0,1,0,0,1,M-LB-164,Major Step III,13600,M-LB-164,Phantom Armor:1|Phantom Cataphract:1|Phantom Horn:1|Phantom Helm:1|Seraphic Crystal:1
+M-LB-170,Melee,Long Blade,Phantom Blade II,11,523,0,0,1,0,0,1,M-LB-169,"Major Step III, Polished Evasion I",16000,M-LB-169,Phantom Horn:1|Phantom Incisor:1|Phantom Cataphract:1|Phantom Ambrosia:1|Serpent Armor:1
+M-LB-171,Melee,Long Blade,Phantom Blade N,13,573,0,0,1,0,0,1,M-LB-170,"Major Step III, Polished Evasion II",52000,M-LB-170,Phantom Arm Gauntlet:1|Phantom Lance:1|Phantom Helm:1|Phantom Ambrosia:1|Deific Crystal:1
+M-LB-172,Melee,Long Blade,Phantom Blade EX,14,593,0,0,1,0,0,1,M-LB-171,"Major Step III, Polished Evasion III",96000,M-LB-171,Generic Compound Core:1
+M-LB-173,Melee,Long Blade,Blood Surge,7,353,0,0,0,1,1,0,-,Commanding Officer I,9700,-,Serpent Armor:2|Serpent Horn:1|Serpent Fang:1|Cinder Crystal:1|Serpent Soft Iron:1
+M-LB-174,Melee,Long Blade,Blood Surge II,9,454,0,0,0,1,1,0,M-LB-173,Commanding Officer II,9600,M-LB-173,Holy Serpent Guard:1|Royal Ice Wing:1|Royal Redstone:1|Cinder Crystal:1|Serpent Helm:1
+M-LB-175,Melee,Long Blade,Blood Surge N,10,508,0,0,0,1,1,0,M-LB-174,Commanding Officer III,13600,M-LB-174,Phantom Armor:2|Phantom Horn:2|Phantom Incisor:2|Seraphic Crystal:1|Phantom Ambrosia:1
+M-LB-176,Melee,Long Blade,Blood Surge X,12,546,0,0,0,1,1,0,M-LB-175,Commanding Officer IV,40800,M-LB-175,Yin-Yang Halo:1|Royal ice Wing:1|Royal Redstone:1|Chimera Spark Claw:1|Chimera Redstone:1
+M-LB-177,Melee,Long Blade,Blood Surge V,13,579,0,0,0,1,1,0,M-LB-176,Commanding Officer IV,52000,M-LB-176,Phantom Armor:1|Phantom Lance:1|Phantom Arm Gauntlet:1|Deific Crystal:1|Phantom Ambrosia:1
+M-LB-178,Melee,Long Blade,Blood Surge EX,14,599,0,0,0,1,1,0,M-LB-177,Commanding Officer IV,96000,M-LB-177,Generic Compound Core:1
+M-LB-179,Melee,Long Blade,Venom Blade,7,353,0,0,0,0,0,0,-,Belladonna I,9700,-,Draconic Horn:1|King Shock Absorber:1|Wyrm Blaze Horn:1|Witch Wing:1|Venom Metal:1
+M-LB-180,Melee,Long Blade,Enticement Blade,9,454,0,0,0,0,0,0,M-LB-179,Belladonna II,9600,M-LB-179,Draconic Horn:1|Ares Alloy:1|Wyrm Blaze Horn:1|Witch Wing:1|Witch Redstone:1
+M-LB-181,Melee,Long Blade,Enticement Blade II,12,546,0,0,0,0,0,0,M-LB-180,Belladonna III,40800,M-LB-180,Draconic Horn:1|Wyrm Fin:1|Wyrm Blaze Horn:1|Goddess Venom:1|Super Poison Metal:1
+M-LB-182,Melee,Long Blade,Rattlesnake,14,599,0,0,0,0,0,0,M-LB-181,Belladonna IV,96000,M-LB-181,Generic Compound Core:1
+M-LB-183,Melee,Long Blade,Animato,7,356,0,0,0,0,0,1,-,Dunamis I,9700,-,Helios Circlet:1|Helios Sash:1|Helios Steel:1|Helios Armor:1|Pure Jewel Steel:1
+M-LB-184,Melee,Long Blade,Animato II,9,459,0,0,0,0,0,1,M-LB-183,Dunamis II,9600,M-LB-183,Yin-Yang Ingot:1|Helios Carver:1|Yin-Yang Ambrosia:1|Yin-Yang Raiment:1|Yin-Yang Sash:1
+M-LB-185,Melee,Long Blade,Animato N,10,513,0,0,0,0,0,1,M-LB-184,Dunamis III,13600,M-LB-184,Helios Raiment:1|Helios Ambrosia:1|Helios Ingot:1|Helios Carver:1|Helios Crystal:1
+M-LB-186,Melee,Long Blade,Grandioso,12,551,0,0,0,0,0,1,M-LB-185,"Dunamis III, Disease Treatment I",40800,M-LB-185,Invictus Guard:1|Invictus Carver:1|Invictus Corona:1|Helios Ambrosia:1|Invictus Crystal:1
+M-LB-187,Melee,Long Blade,Grandioso EX,14,605,0,0,0,0,0,1,M-LB-186,"Dunamis III, Disease Treatment III",96000,M-LB-186,Generic Compound Core:1
+M-LB-188,Melee,Long Blade,Con Fuoco,7,356,0,0,1,0,0,0,-,Dunamis I,9700,-,Helios Circlet:1|Helios Sash:1|Helios Steel:1|Helios Armor:1|Pure Jewel Steel:1
+M-LB-189,Melee,Long Blade,Con Fuoco II,8,403,0,0,1,0,0,0,M-LB-188,Dunamis II,8800,M-LB-188,Helios Carver:1|Helios Raiment:1|Helios Steel:1|Helios halo:1|Helios Crystal:1
+M-LB-190,Melee,Long Blade,Con Fuoco N,9,459,0,0,1,0,0,0,M-LB-189,Dunamis III,9600,M-LB-189,Helios Raiment:1|Helios Halo:1|Helios Steel:1|Yin-Yang Carver:1|Helios Crystal:1
+M-LB-191,Melee,Long Blade,Fervore,11,533,0,0,1,0,0,0,M-LB-190,"Dunamis III, Disease Treatment I",16000,M-LB-190,Yin-Yang Raiment:1|Yin-Yang Ambrosia:1|Yin-Yang Ingot:1|Helios Carver:1|Helios Crystal:1
+M-LB-192,Melee,Long Blade,Fervore II,13,585,0,0,1,0,0,0,M-LB-191,"Dunamis III, Disease Treatment II",52000,M-LB-191,Invictus Corona:1|Yin-Yang Sickle:1|Helios Ambrosia:1|Invictus Carver:1|Invictus Crystal:1
+M-LB-193,Melee,Long Blade,Fervore EX,14,605,0,0,1,0,0,0,M-LB-192,"Dunamis III, Disease Treatment III",96000,M-LB-192,Generic COmpound Core:1
+M-LB-194,Melee,Long Blade,Avenger,7,364,0,0,1,0,0,0,-,New-Type Training I,9700,-,Garuda Bone:2|Garuda Blade:2|Garuda Wing:2|Garuda Talon:2|Witch Crown:1
+M-LB-195,Melee,Long Blade,Avenger II,9,468,0,0,1,0,0,0,M-LB-194,New-Type Training II,9600,M-LB-194,Blaze Knight Soft Steel:2|Blaze Knight Needle:1|Wyrm Blaze Horn:1|Blaze Wyrm Fang:1|Draconic Horn:1
+M-LB-196,Melee,Long Blade,Avenger N,11,544,0,0,1,0,0,0,M-LB-195,New-Type Training III,16000,M-LB-195,Ares Alloy:2|King Sensor:1|Phoenix Bone:2|Phoenix Claw:1|Scorched Ambrosia:1
+M-LB-197,Melee,Long Blade,Avenger X,12,562,0,0,1,0,0,0,M-LB-196,New-Type Training IV,40800,M-LB-196,Blaze Knight Lance:1|Blaze Knight Soft Steel:1|Wyrm Blaze Horn:1|Wyrm Fire Armor:1
+M-LB-198,Melee,Long Blade,Avenger V,13,597,0,0,1,0,0,0,M-LB-197,New-Type Training IV,52000,M-LB-197,Ares Alloy:1|Blaze Knight Amethyst:1|Garuda Edge:1|Phoenix Talon:1|Wyrm Hematite:1
+M-LB-199,Melee,Long Blade,Avenger EX,14,617,0,0,1,0,0,0,M-LB-198,New-Type Training IV,96000,M-LB-198,Generic Compound Core:1
+M-LB-200,Melee,Long Blade,Curse Katana,10,666,0,0,0,0,0,0,-,Malediction I,17000,-,Yaksha Spaulder:1|Yaksha Barrier:1|Witch Feathering:1|Witch Eye:1|Sage Stone:1
+M-LB-201,Melee,Long Blade,Curse Katana II,11,765,0,0,0,0,0,0,M-LB-200,Malediction II,16000,M-LB-200,Yaksha Barrel:1|Yaksha Filament:1|Witch Feathering:1|Witch Amethyst:1|Philosopher's Stone:1
+M-LB-202,Melee,Long Blade,Curse Katana EX,14,838,0,0,0,0,0,0,M-LB-201,Malediction III,96000,M-LB-201,Generic Compound Core:1
+M-LB-203,Melee,Long Blade,Vidofnir Mech,10,492,0,0,1,0,1,0,-,Ace,17000,-,Oracle Blaze Stone:1|Serpent Blaze Fang:1|Scorched Ambrosia:1|Phoenix Bone:1|Phoenix Claw:1
+M-LB-204,Melee,Long Blade,Vidofnir Mech II,12,540,0,0,1,0,1,0,M-LB-203,"Ace, Activation I",40800,M-LB-203,Oracle Blaze Stone:1|Flame Tusk:1|Scorched Ambrosia:1|Phoenix Wing:1|Phoenix Claw:1
+M-LB-205,Melee,Long Blade,Vidofnir Mech EX,14,593,0,0,1,0,1,0,M-LB-204,"Ace, Activation II",96000,M-LB-204,Generic Compound Core:1
+M-LB-206,Melee,Long Blade,Behemoth Mech,10,492,0,0,0,1,1,0,-,Ace,17000,-,Oracle Freeze Stone:1|Spark Knight Armor+:1|Spark Knight God Needle:1|Conqueror Armor:1|Conqueror Grease:1
+M-LB-207,Melee,Long Blade,Behemoth Mech II,12,540,0,0,0,1,1,0,M-LB-206,"Ace, Activation I",40800,M-LB-206,Oracle Freeze Crystal:1|Spark Knight Cuirass:1|Spark Knight Steel:1|Conqueror Crown:1|Conqueror Grease:1
+M-LB-208,Melee,Long Blade,Behemoth Mech Ex,14,593,0,0,0,1,1,0,M-LB-207,"Ace, Activation II",96000,M-LB-207,Generic Compound Core:1
+M-LB-209,Melee,Long Blade,Phoenix Mech,10,492,0,0,1,0,0,1,-,Ace,17000,-,Oracle Blaze Stone:1|Blaze Knight Armor+:1|Blaze Knight Needle:1|Ogre Sharp Fang:1|Serpent Blaze Helm:1
+M-LB-210,Melee,Long Blade,Phoenix Mech II,12,540,0,0,1,0,0,1,M-LB-209,"Ace, Activation I",40800,M-LB-209,Oracle Blaze Stone:1|Flame Shell:1|Flame Tusk:1|Flame Carapace:1|Serpent Blaze Helm:1
+M-LB-211,Melee,Long Blade,Phoenix Mech EX,14,593,0,0,1,0,0,1,M-LB-210,"Ace, Activation II",96000,M-LB-210,Generic Compound Core:1
+M-LB-212,Melee,Long Blade,Leviathan Mech,10,492,0,0,0,1,0,1,-,Ace,17000,-,Oracle Freeze Stone:1|Royal Ice Wing:1|Empress Wreath:1|Pluto Skull:1|Ice King Grease:1
+M-LB-213,Melee,Long Blade,Leviathan Mech II,12,540,0,0,0,1,0,1,M-LB-212,"Ace, Activation I",17000,M-LB-212,Oracle Freeze Crystal:1|Royal Ice Armor:1|Royal Redstone:1|Pluto Skull:1|Ice King Grease:1
+M-LB-214,Melee,Long Blade,Leviathan Mech EX,14,593,0,0,0,1,0,1,M-LB-213,"Ace, Activation II",96000,M-LB-213,Generic Compound Core:1
+M-LB-215,Melee,Long Blade,Excalibur,10,492,0,0,0,0,0,2,-,Defensive Type,17000,-,Mana Crystal:1|Phantom Armor:1|Phantom Horn:1|Seraphic Crystal:1|Phantom Ambrosia:1
+M-LB-216,Melee,Long Blade,Excalibur II,11,523,0,0,0,0,0,2,M-LB-215,"Defensive Type, Hard Fighter I",16000,M-LB-215,Mana Crystal:2|Phantom Incisor:1|Phantom Cataphract:1|Seraphic Crystal:1|Phantom Ambrosia:1
+M-LB-217,Melee,Long Blade,Excalibur N,13,573,0,0,0,0,0,2,M-LB-216,"defensive Type, Hard Fighter II",52000,M-LB-216,Mana Orb:1|Phantom Arm Gauntlet:1|Phantom Lance:1|Deific Crystal:1|Phantom Ambrosia:1
+M-LB-218,Melee,Long Blade,Excalibur EX,14,593,0,0,0,0,0,2,M-LB-217,"Defensive Type, Hard Fighter III",96000,M-LB-217,Generic Compound Core:1
+M-LB-219,Melee,Long Blade,Caladbolg,10,492,0,0,0,0,2,0,-,Defensive Type,17000,-,Mana Crystal:1|Spark Knight Armor+:2|Spark Knight Amethyst:1|Hanuman Femur:2|Hanuman amethyst:1
+M-LB-220,Melee,Long Blade,Caladbolg II,11,523,0,0,0,0,2,0,M-LB-219,"Defensive Type, Hard Fighter I",16000,M-LB-219,Mana Crystal:2|Spark Knight God Needle:1|Spark Knight Amethyst:1|Hanuman Spark Armor:1|Hanuman Amethyst:1
+M-LB-221,Melee,Long Blade,Caladbolg N,13,573,0,0,0,0,2,0,M-LB-220,"Defensive Type, Hard Fighter II",52000,M-LB-220,Mana Orb:1|Spark Knight Steel:1|Spark Knight Amethyst:1|Hanuman Forcefield:1|Hanuman Hematite:1
+M-LB-222,Melee,Long Blade,Caladbolg EX,14,593,0,0,0,0,2,0,M-LB-221,"Defensive Type, Hard Fighter III",96000,M-LB-221,Generic Compound Core:1
+M-LB-223,Melee,Long Blade,Claimh Solais,10,492,0,0,2,0,0,0,-,Defensive Type,17000,-,Mana Crystal:1|Serpent Soft Iron:1|Flaming Crystal:1|Blaze Wyrm Fang:1|Wyrm Amethyst:1
+M-LB-224,Melee,Long Blade,Claimh Solais II,11,523,0,0,2,0,0,0,M-LB-223,"Defensive Type, Hard Fighter I",16000,M-LB-223,Mana Crystal:2|Serpent Blaze Horn:1|Flaming Crystal:1|Blaze Wyrm Fang:1|Wyrm amethyst:1
+M-LB-225,Melee,Long Blade,Claimh Solais N,13,573,0,0,2,0,0,0,M-LB-224,"Defensive Type, Hard Fighter II",52000,M-LB-224,Mana Orb:1|Serpent Soft Steel:1|Flaming Crystal:1|Scorched Ambrosia:1|Wyrm hematite:1
+M-LB-226,Melee,Long Blade,Claimh Solais EX,14,593,0,0,2,0,0,0,M-LB-225,"Defensive Type, Hard Fighter III",96000,M-LB-225,Generic Compound Core:1
+M-LB-227,Melee,Long Blade,Fragarach,10,492,0,0,0,1,0,0,-,Defensive Type,17000,-,Mana Crystal:1|Empress Fang:1|Royal Redstone:1|Boreas Rumbler:1|Wukong Amethyst:1
+M-LB-228,Melee,Long Blade,Fragarach II,11,523,0,0,0,2,0,0,M-LB-227,"Defensive Type, Hard Fighter I",16000,M-LB-227,Mana Crystal:2|Empress Wreath:1|Royal Redstone:1|Hanuman Ambrosia:1|Wukong Amethyst:1
+M-LB-229,Melee,Long Blade,Fragarach N,13,573,0,0,0,2,0,0,M-LB-228,"Defensive Type, Hard Fighter II",52000,M-LB-228,Mana Orb:1|Royal Crystal Wing:1|Royal Amethyst:1|Wukong Cowl:1|Wukong Hematite:1
+M-LB-230,Melee,Long Blade,Fragarach EX,14,593,0,0,0,2,0,0,M-LB-229,"Defensive Type, Hard Fighter III",96000,M-LB-229,Generic Compound Core:1
+M-LB-231,Melee,Long Blade,Maestoso,10,492,0,0,0,0,0,2,-,Dunamis I,17000,-,Elder's Wing:3|Elder's Armor:3|Elder's Oculus:2|Elder's Horn:2|Elder's Chain:2
+M-LB-232,Melee,Long Blade,Maestoso II,11,523,0,0,0,0,0,2,M-LB-231,Dunamis III,16000,M-LB-231,Elder's Wing:3|Elder's Armor:3|Elder's Oculus:2|Elder's Horn:2|Elder's Soul:3
+M-LB-233,Melee,Long Blade,Maestoso N,12,540,0,0,0,0,0,2,M-LB-232,"Dunamis III, Disease Treatment I",40800,M-LB-232,Elder's Armor:3|Elder's Wing:3|Elder's horn:2|Elder's Chain:2|Elder's Soul:3
+M-LB-234,Melee,Long Blade,Maestoso EX,14,593,0,0,0,0,0,2,M-LB-233,"Dunamis III, Disease Treatment III",96000,M-LB-233,Generic Compound Core:1
+M-LB-235,Melee,Long Blade,Graveblade: Shadow,10,0,512,0,0,0,0,0,-,Patron Saint I,17000,-,Draconic Fang:1|abyssal Crystal:1|Phantom Horn:1|Holy Jewel Steel:1|Oracle Lucent Stone:1
+M-LB-236,Melee,Long Blade,Graveblade: Shadow II,12,0,562,0,0,0,0,0,M-LB-235,Patron Saint II,40800,M-LB-235,Simian Pharynx:1|Simian Power Armor:1|Abyssal Crystal:1|Ultra-Pure Mistle:1|Oracle Lucent Crystal:1
+M-LB-237,Melee,Long Blade,Graveblade: Shadow EX,14,0,617,0,0,0,0,0,M-LB-236,Patron Saint III,96000,M-LB-236,Generic Compound Core:1
+M-LB-238,Melee,Long Blade,GE Chocolate,10,512,0,0,0,0,0,0,-,Energy Bar I,17000,-,Prince's Sand:1|Phoenix Wing:2|Goddess Rind:2|Pure Oil:1|Titanium Alloy:2
+M-LB-239,Melee,Long Blade,GE Chocolate II,12,562,0,0,0,0,0,0,M-LB-238,Energy Bar II,40800,M-LB-238,Prince's Sand:1|Phoenix Talon:2|Goddess Quill:2|Ultra-Pure Oil:1|Titanium Superalloy:2
+M-LB-240,Melee,Long Blade,GE Chocolate EX,14,617,0,0,0,0,0,0,M-LB-239,Energy Bar III,96000,M-LB-239,Generic Compound Core:1
+M-LB-241,Melee,Long Blade,Yi Angam,11,519,0,0,0,0,0,0,-,Shutout,20000,-,Flame Shell:2|Flame Tusk:2|Flame Nail:2|Flame Glass:1|Flame Dynamo:1
+M-LB-242,Melee,Long Blade,Vesh Vara,12,540,0,0,0,0,0,0,M-LB-241,"Shutout, Corrosion I",40800,M-LB-241,Flame Carapace:3|Flame Tusk:2|Flame Sickle:2|Flame Glass:1|Flame Cortex:1
+M-LB-243,Melee,Long Blade,Vesh Vara EX,14,593,0,0,0,0,0,0,M-LB-242,"Shutout, Corrosion II",96000,M-LB-242,Generic Compound Core:1
+M-LB-244,Melee,Long Blade,Safety Chainsaw,11,524,0,0,1,0,0,0,-,Devoted Care I,20000,-,Holy Serpent Guard:1|Serpent Blaze Horn:1|Simian Drum:1|Simian Fragment:1|Pure Silver:1
+M-LB-245,Melee,Long Blade,Safety Chainsaw II,13,579,0,0,1,0,0,0,M-LB-244,Devoted Care II,52000,M-LB-244,Serpent Carapace:1|Serpent Soft Steel:1|Hanuman Forcefield:1|Hanuman Cowl:1|Titanium Superalloy:1
+M-LB-246,Melee,Long Blade,Carezzare,14,599,0,0,1,0,0,0,M-LB-245,Devoted Care III,96000,M-LB-245,Generic Compound Core:1
+M-LB-247,Melee,Long Blade,Wyvern Blade,13,567,0,0,0,0,0,2,-,Major Step III,65000,-,Wyvern Soft Steel:1|Wyvern Helm:1|Wyvern Fang:1|Wyvern Stone:1|Dire Crystal:1
+M-LB-248,Melee,Long Blade,Wyvern Blade EX,14,593,0,0,0,0,0,2,M-LB-247,"Major Step III, Polished Evasion III",96000,M-LB-247,Generic Compound Core:1
+M-LB-249,Melee,Long Blade,Dictator,13,578,0,0,0,1,0,0,-,Liberator I,65000,-,bahamut Helm:1|Bahamut Blue Mail:1|Bahamut Sky Fang:1|Boreal Stone:1|Oracle Freeze Crystal:1
+M-LB-250,Melee,Long Blade,Dictator EX,14,605,0,0,0,1,0,0,M-LB-249,Liberator II,96000,M-LB-249,Generic Compound Core:1
+M-LB-251,Melee,Long Blade,Koenigsberg,14,577,0,0,0,1,1,1,-,Apsara,120000,-,Cronus Crown:1
+M-LB-252,Melee,Long Blade,Avaritia,14,595,0,0,0,0,0,0,-,"Great Devourer IV, Far East Champion",120000,-,Hades Crown:1|Hades Fang:1|Hades Wing:1|Hades Claw:1|Hades Redstone:1
+M-BB-001,Melee,Buster Blade,Bonebreaker,1,17,95,0,0,0,0,0,-,Oregano I,350,-,Aragami Bone Chip:1|Angel Shell:1|Weak Tool Steel:1
+M-BB-002,Melee,Buster Blade,Bonebreaker II,2,21,121,0,0,0,0,0,M-BB-001,Oregano II,448,M-BB-001,Simian Larynx:1|Impure Soft Iron:1|Ogre Helm:1
+M-BB-003,Melee,Buster Blade,Bonebreaker N,4,38,216,0,0,0,0,0,M-BB-002,Oregano III,2800,M-BB-002,Chimera Spark Skull:1|King Armor:1|Jewel Steel:1|Poison Metal:1
+M-BB-004,Melee,Buster Blade,Bonebreaker X,6,51,294,0,0,0,0,0,M-BB-003,Oregano IV,4160,M-BB-003,Hanuman Mesh:1|Simian Armor+:1|Hanuman Redstone:1|Soft Iron:1
+M-BB-005,Melee,Buster Blade,Skullbreaker,8,68,387,0,0,0,0,0,M-BB-004,"Oregano IV, Freakout I",8800,M-BB-004,Chaotic Moss:1|Chaotic Horn:1|Chaotic Tektite:1|Chaotic Lichen:1|Pure Jewel Steel:1
+M-BB-006,Melee,Buster Blade,Skullbreaker II,10,86,492,0,0,0,0,0,M-BB-005,"Oregano IV, Freakout II",13600,M-BB-005,Lucifer Ingot:1|Lucifer Prong:1|Lucifer Asteria:1|Adamantite:1|Holy Jewel Steel:1
+M-BB-007,Melee,Buster Blade,Skullbreaker N,12,93,529,0,0,0,0,0,M-BB-006,"Oregano IV, Freakout III",40800,M-BB-006,Detonator:2|Conqueror Steel:2|Conqueror Jade:2|Conqueror Crown:1|Titanium Superalloy:1
+M-BB-008,Melee,Buster Blade,Skullbreaker EX,14,102,581,0,0,0,0,0,M-BB-007,"Oregano IV, Freakout IV",96000,M-BB-007,Generic Compound Core:1
+M-BB-009,Melee,Buster Blade,Claymore P,0,46,69,0,0,0,0,0,-,Cleaver I,350,-,Ogre Tail:1|Brittle Titanium:1
+M-BB-010,Melee,Buster Blade,Claymore,1,48,71,0,0,0,0,0,M-BB-009,Cleaver II,280,M-BB-009,Pixie Shell:1|Brittle Titanium:1
+M-BB-011,Melee,Buster Blade,Claymore II,4,108,162,0,0,0,0,0,M-BB-010,Cleaver V,2800,M-BB-010,Titanium:1|Impure Oil:1|Chimera Spark Fur:1|Wild Barrel:1
+M-BB-012,Melee,Buster Blade,Claymore N,6,147,220,0,0,0,0,0,M-BB-011,Cleaver VI,4160,M-BB-011,Blaze Knight Armor:1|Blaze Knight Shield:1|Nickel:1|Tungsten:1|Draconic Redstone:1
+M-BB-013,Melee,Buster Blade,Claymore X,10,246,369,0,0,0,0,0,M-BB-012,"Cleaver IV, Buster Blade Master II",13600,M-BB-012,Prince's Pin:1|Prince's Sanctum:1|Nickel Chromoly:1|Tungsten Alloy:1|Draconic Horn:1
+M-BB-014,Melee,Buster Blade,Claymore V,13,281,421,0,0,0,0,0,M-BB-013,"Cleaver VI, Buster Blade Master III",52000,M-BB-013,Titanium Superalloy:1|Ultra-pure Oil:1|Emperor Pelt:1|Emperor Incisor:1|Cryo Barrel:1
+M-BB-015,Melee,Buster Blade,Claymore EX,14,291,436,0,0,0,0,0,M-BB-014,"Cleaver VI, Buster Blade Master IV",96000,M-BB-014,Generic Compound Core:1
+M-BB-016,Melee,Buster Blade,Flesh Claymore,2,60,91,0,0,0,1,0,M-BB-010,Cleaver III,448,M-BB-010,Sensor:1|Ogre Helm:1
+M-BB-017,Melee,Buster Blade,Flesh Claymore II,3,81,122,0,0,0,1,0,M-BB-016,Cleaver IV,664,M-BB-016,Sensor:1|Angel Shell:1
+M-BB-018,Melee,Buster Blade,Flesh Claymore N,5,127,191,0,0,0,1,0,M-BB-017,Cleaver V,3360,M-BB-017,Spark Ogre Spire:1|Spark Ogre Mask:1|Rough Barrel:1|King Grease:1
+M-BB-019,Melee,Buster Blade,Flesh Claymore X,6,147,220,0,0,0,1,0,M-BB-018,Cleaver VI,4160,M-BB-018,Spark Ogre Spire:1|Prince's Iron:1|Spark Ogre Mask:1|Prince's Shield:1|Draconic Redstone:1
+M-BB-020,Melee,Buster Blade,Demon Claymore,7,177,266,0,0,0,1,0,M-BB-019,"Cleaver VI, Buster Blade Master I",7760,M-BB-019,Chaotic Horn:1|Diablo Eye:1|High-Speed Steel:1|Tungsten Alloy:1|Sage Stone:1
+M-BB-021,Melee,Buster Blade,Demon Claymore II,10,246,369,0,0,0,1,0,M-BB-020,"Cleaver VI, Buster Blade Master II",13600,M-BB-020,Spark Knight Soft Steel:1|Spark Knight God Needle:1|Spark Knight Ambrosia:1|Cemented Carbide:1|Adamantite:1
+M-BB-022,Melee,Buster Blade,Demon Claymore N,12,265,397,0,0,0,1,0,M-BB-021,"Cleaver VI, Buster Blade Master III",40800,M-BB-021,Raven Spark Bone:1|Chimera Spark Claw:1|Spark Knight Cuirass:1|Volt Generator:1|Cemented Carbide:1
+M-BB-023,Melee,Buster Blade,Demon Claymore EX,14,291,436,0,0,0,1,0,M-BB-022,"Cleaver VI, Buster Blade Master IV",96000,M-BB-022,Generic Compound Core:1
+M-BB-024,Melee,Buster Blade,Sacred Claymore,5,127,191,0,0,0,0,1,M-BB-011,Cleaver VI,3360,M-BB-011,Chaotic Horn:1|Chaotic Moss:1|Mithril Silver:1|Damascus Steel:1
+M-BB-025,Melee,Buster Blade,Sacred Claymore II,7,177,266,0,0,0,0,1,M-BB-024,"Cleaver VI, Buster Blade Master I",7760,M-BB-024,Pure Jewel Steel:1|Titanium Alloy:1|Helios Slash:1|Helios Steel:1|Yaksha Thread:1
+M-BB-026,Melee,Buster Blade,Sacred Claymore N,9,220,330,0,0,0,0,1,M-BB-025,"Cleaver VI, Buster Blade Master II",9600,M-BB-025,Yin-Yang Carver:1|Lucifer Prong:1|Helios Raiment:1|Yin-Yang Sash:1|Helios Steel:1
+M-BB-027,Melee,Buster Blade,Sacred Claymore X,10,246,0,0,0,0,0,1,M-BB-026,"Cleaver VI, Buster Blade Master III",13600,M-BB-026,Helios Raiment:1|Yin-Yang Ingot:1|Helios Ambrosia:1|Yin-Yang Sash:1|Orichalcum:1
+M-BB-028,Melee,Buster Blade,Sacred Claymore V,12,265,397,0,0,0,0,1,M-BB-027,"Cleaver VI, Buster Blade Master IV",40800,M-BB-027,Invictus Guard:1|Helios Ingot:1|Helios Ambrosia:1|Philosopher's Stone:1|Orichalcum:1
+M-BB-029,Melee,Buster Blade,Sacred Claymore EX,14,291,436,0,0,0,0,1,M-BB-028,"Cleaver VI, Buster Blade Master IV",96000,M-BB-028,Generic Compound Core:1
+M-BB-030,Melee,Buster Blade,Heatcracker,2,20,119,0,1,0,0,0,-,Matchless Jewel I,560,-,Simian Trunk:1|Duralumin:1|Plastic:1
+M-BB-031,Melee,Buster Blade,Heatcracker II,3,28,166,0,1,0,0,0,M-BB-030,Matchless Jewel II,664,M-BB-030,Plastic:1|Brittle Tungsten:1|Blaze Stone:1
+M-BB-032,Melee,Buster Blade,Heatcracker N,4,38,221,0,1,0,0,0,M-BB-031,Matchless Jewel III,2800,M-BB-031,Knight Armor:1|Knight Shield:1|Damascus Steel:1|Blaze Crystal:1
+M-BB-033,Melee,Buster Blade,Heatcracker X,5,45,261,0,1,0,0,0,M-BB-032,Matchless Jewel IV,3360,M-BB-032,Blaze Knight Armor:1|Blaze Knight Shield:1|Blaze Knight Redstone:1|Blaze Ogre Tooth:1|Blaze Crystal:1
+M-BB-034,Melee,Buster Blade,Firecracker,6,51,301,0,1,0,0,0,M-BB-033,"Matchless Jewel IV, Furinkazan I",4160,M-BB-033,Hot Barrel:1|Blaze Knight Shield:1|Blaze Ogre Tooth:1|Blaze Ogre Mask:1|Plastic:1
+M-BB-035,Melee,Buster Blade,Firecracker II,7,62,363,0,1,0,0,0,M-BB-034,"Matchless Jewel IV, Furinkazan II",7760,M-BB-034,Simian Power Armor:1|Wyrm Amethyst:1|Wyrm Blaze Horn:1|Pure Soft Iron:1|Aragami Claw:1
+M-BB-036,Melee,Buster Blade,Firecracker N,10,86,505,0,1,0,0,0,M-BB-035,"Matchless Jewel IV, Furinkazan III",13600,M-BB-035,Phantom Armor:1|Phantom Horn:1|Phantom Cataphract:1|Serpent Blaze Helm:1|Holy Serpent Guard:1
+M-BB-037,Melee,Buster Blade,Firecracker X,13,98,576,0,1,0,0,0,M-BB-036,"Matchless Jewel IV, Furinkazan IV",52000,M-BB-036,Serpent Carapace:1|Serpent Soft Steel:1|Holy Serpent Guard:1|Phantom Helm:1|Phantom Cataphract:1
+M-BB-038,Melee,Buster Blade,Firecracker EX,14,102,596,0,1,0,0,0,M-BB-037,"Matchless Jewel IV, Furinkazan IV",96000,M-BB-037,Generic Compound Core:1
+M-BB-039,Melee,Buster Blade,Kongou Club,2,0,139,0,0,0,0,0,-,Advice I,560,-,Simian Fragment:1|Simian Trunk:1|Simian Armament:1
+M-BB-040,Melee,Buster Blade,Kongou Staff II,3,0,194,0,0,0,0,0,M-BB-039,Advice II,664,M-BB-039,Simian Fragment:1|Simian Trunk:1|Simian Armament:1|Simian Tail:1
+M-BB-041,Melee,Buster Blade,Kongou Staff N,5,0,306,0,0,0,0,0,M-BB-040,Advice III,3360,M-BB-040,Simian Armor+:1|Simian Drum:1|Simian Great Tail:1|Simian Fragment:1|Simian Redstone:1
+M-BB-042,Melee,Buster Blade,Kongou Smasher,6,0,353,0,0,0,0,0,M-BB-041,Advice IV,4160,M-BB-041,Simian Armor+:1|Simian Drum:1|Simian Great Tail:1|Simian Larynx:1|Simian Redstone:1
+M-BB-043,Melee,Buster Blade,Kongou Smasher II,8,0,464,0,0,0,0,0,M-BB-042,Advice V,8800,M-BB-042,Simian Power Armor:2|Simian Drum:2|Simian Power Tail:2|Simian Pharynx:2|Simian Redstone:1
+M-BB-044,Melee,Buster Blade,Guardian Smasher,9,0,529,0,0,0,0,0,M-BB-043,Advice VI,9600,M-BB-043,Simian Power Armor:3|Hanuman Femur:2|Simian Drum:2|Simian Pharynx:2|Simian Redstone:1
+M-BB-045,Melee,Buster Blade,Guardian Smasher II,11,0,614,0,0,0,0,0,M-BB-044,Advice VI,16000,M-BB-044,Simian Power Tail:2|Simian Fragment:2|Simian Drum:2|Simian Pharynx:1|Simian Redstone:1
+M-BB-046,Melee,Buster Blade,Guardian Smasher N,13,0,674,0,0,0,0,0,M-BB-045,Advice VI,52000,M-BB-045,Hanuman Forcefield:3|Ultra-pure Mistle:2|Simian Drum:2|Simian Pharynx:1|Hanuman Cowl:1
+M-BB-047,Melee,Buster Blade,Guardian Smasher EX,14,0,697,0,0,0,0,0,M-BB-046,Advice VI,96000,M-BB-046,Generic Compound Core:1
+M-BB-048,Melee,Buster Blade,Sawblade,2,42,98,0,0,0,0,0,-,Adversary I,560,-,Weak Tool Steel:1|Pixie Shell:1|Angel Shell:1
+M-BB-049,Melee,Buster Blade,Sawblade II,4,78,184,0,0,0,0,0,M-BB-048,Adversary II,2800,M-BB-048,Avian Limb:1|Avian Talon:1|Avian Mask:1|Pixie Elastomer:1
+M-BB-050,Melee,Buster Blade,Sharp Sawblade,5,92,217,0,0,0,0,0,M-BB-049,Adversary III,3360,M-BB-049,Fallen King Armor:1|Raven Wing:1|Pluto Gun:1|Pluto Grease:1|Avian Tendon:1
+M-BB-051,Melee,Buster Blade,Sharp Sawblade II,6,106,250,0,0,0,0,1,M-BB-050,Adversary IV,4160,M-BB-050,Chaotic Moss:1|Chaotic Claw:1|Chaotic Gun:1|Damascus Steel:1|Jewel Steel:1
+M-BB-052,Melee,Buster Blade,Foxblade,8,140,329,0,0,0,0,1,M-BB-051,"Adversary IV, Keen Eyes I",8800,M-BB-051,Chaotic Horn:1|Chaotic Gun:1|Royal Ice Wing:1|Royal Fang:1|Draconic Cannon+:1
+M-BB-053,Melee,Buster Blade,Foxblade II,9,160,375,0,0,0,0,1,M-BB-052,"Adversary IV, Keen Eyes II",9600,M-BB-052,Yin-Yang Sash:1|Pixie Gum:1|Witch Quill:1|Witch Crown:1|Pixie Carapace:1
+M-BB-054,Melee,Buster Blade,Foxblade N,11,186,435,0,0,0,0,1,M-BB-053,"Adversary IV, Keen Eyes III",16000,M-BB-053,Abyssal Horn:1|Abyssal Claw:1|Lucifer Lichen:1|Chaotic Toxin:1|Orichalcum:1
+M-BB-055,Melee,Buster Blade,Foxblade X,13,204,477,0,0,0,0,1,M-BB-054,"Adversary IV, Keen Eyes IV",52000,M-BB-054,Lucifer Prong:1|Lucifer Poison:1|Yin-Yang Sickle:1|Yin-Yang Scaft:1|Orichalcum:1
+M-BB-056,Melee,Buster Blade,Foxblade EX,14,211,494,0,0,0,0,1,M-BB-055,"Adversary IV, Keen Eyes IV",96000,M-BB-055,Generic Compound Core:1
+M-BB-057,Melee,Buster Blade,Ice Splitter,3,59,138,0,0,1,0,0,M-BB-048,Adversary II,664,M-BB-048,Avian Wing:1|Avian Claw:1|Cold Ogre Fang:1|Pixie Elastomer:1
+M-BB-058,Melee,Buster Blade,Ice Splitter II,4,78,184,0,0,1,0,0,M-BB-057,Adversary III,2800,M-BB-057,Draconic Fin:1|Draconic Fang:1|Freezing Ogre Fang:1|Cinnabar:1
+M-BB-059,Melee,Buster Blade,Ice Splitter N,6,106,250,0,0,1,0,0,M-BB-058,Adversary IV,4160,M-BB-058,Chaotic Moss:1|Chaotic Claw:1|Chaotic horn:1|Damascus Steel:1|Freeze Crystal:1
+M-BB-060,Melee,Buster Blade,Iceberg Splitter,8,140,329,0,0,1,0,0,M-BB-059,"Adversary IV, Keen Eyes I",8800,M-BB-059,Chaotic Lichen:1|Lucifer Ingot:1|Royal Ice Wing:1|Royal Fang:1|Pixie Rime Shell:1
+M-BB-061,Melee,Buster Blade,Iceberg Splitter II,10,179,419,0,0,1,0,0,M-BB-060,"Adversary IV, Keen Eyes II",13600,M-BB-060,Lucifer Shooter:1|Lucifer Ingot:1|Lucifer Asteria:1|Freezing Barrel:1|Pixie Rime Shell:1
+M-BB-062,Melee,Buster Blade,Iceberg Splitter N,12,192,450,0,0,1,0,0,M-BB-061,"ADversary IV, Keen Eyes III",40800,M-BB-061,Lucifer Prong:1|Lucifer Ingot:1|Lucifer Lichen:1|Lucifer Poison:1|Orichalcum:1
+M-BB-063,Melee,Buster Blade,Iceberg Splitter X,13,204,477,0,0,1,0,0,M-BB-062,"Adversary IV, Keen Eyes IV",52000,M-BB-062,Lucifer Ingot:1|Lucifer Asteria:1|Yin-yAng Sickle:1|Yin-Yang CrownÃƒÆ’Ã‚Â­br>1x Orichalcum:1
+M-BB-064,Melee,Buster Blade,Iceberg Splitter EX,14,211,494,0,0,1,0,0,M-BB-063,"Adversary IV, KEen Eyes IV",96000,M-BB-063,Generic Compound Core:1
+M-BB-065,Melee,Buster Blade,Guardblade: Red,3,183,0,0,0,0,0,1,-,Aspiration I,830,-,Yaksha Helm:1|Yaksha Plate:1|Yaksha Fragment:1
+M-BB-066,Melee,Buster Blade,Guardblade: Red II,4,257,0,0,0,0,0,1,M-BB-065,Aspiration II,2800,M-BB-065,Yaksha Fragment:1|Yaksha Thread:1|Yaksha Plate:1|Yaksha Helm:1
+M-BB-067,Melee,Buster Blade,Guardblade: Cherry,6,349,0,0,0,0,0,1,M-BB-066,Aspiration III,4060,M-BB-066,Yaksha Thread:1|Yaksha Stock:1|Yaksha Plate:1|Yaksha Helm:1|Yaksha Tile:1
+M-BB-068,Melee,Buster Blade,Guardblade: Cherry II,8,459,0,0,0,0,0,1,M-BB-067,Aspiration IV,8800,M-BB-067,Yaksha Horn:2|Yaksha Cop:2|Yaksha Incisor:2|Yaksha Talon:2|Yaksha Stock:2
+M-BB-069,Melee,Buster Blade,Guardblade: Violet,9,523,0,0,0,0,0,1,M-BB-068,"Aspiration IV, Lift Up I",9600,M-BB-068,Yaksha Barrier:2|Yaksha Spaulder:2|Yaksha Incisor:2|Yaksha Barrel:1|Yaksha Talon:1
+M-BB-070,Melee,Buster Blade,Guardblade: Violet II,12,628,0,0,0,0,0,1,M-BB-069,"Aspiration IV, Lift Up II",40800,M-BB-069,Yaksha Shredder:2|Yaksha Spaulder:2|Yaksha Tusk:2|Yaksha Filament:1|Toughened Ceramic:1
+M-BB-071,Melee,Buster Blade,Guardblade: Wing,13,667,0,0,0,0,0,1,M-BB-070,"Aspiration IV, Lift Up III",52000,M-BB-070,Yaksha Shredder:3|Yaksha Spaulder:2|Yaksha Tower Helm:2|Yaksha Filament:2|Pure Damascus:1
+M-BB-072,Melee,Buster Blade,Guardblade: Wing EX,14,690,0,0,0,0,0,1,M-BB-071,"Aspiration IV, Lift Up IV",96000,M-BB-071,Generic Compound Core:1
+M-BB-073,Melee,Buster Blade,Tiger Sword,3,94,94,0,0,0,2,0,-,Polished Offense I,830,-,Chimera Fur:1|Chimera Skull:1|Chimera Wing:1|Chimera Fang:1
+M-BB-074,Melee,Buster Blade,Tiger Sword II,4,132,132,0,0,0,2,0,M-BB-073,Polished offense II,2800,M-BB-073,Chimera Spark Fur:1|Chimera Spark Skull:1|Chimera Wing:1|Chimera Tusk:1
+M-BB-075,Melee,Buster Blade,Tiger Sword N,6,180,180,0,0,0,2,0,M-BB-074,Polished Offense III,4160,M-BB-074,Chimera Spark Fur:1|Chimera Spark Skull:1|Chimera Wing:1|Chimera Tusk:1|Generator:1
+M-BB-076,Melee,Buster Blade,Tiger Sword X,8,237,237,0,0,0,2,0,M-BB-075,Polished Offense IV,8800,M-BB-075,Chimera Spark Fur:1|Chimera Spark Skull:1|Chimera Great Wing:1|Chimera Tusk:1|Emperor Limb:1
+M-BB-077,Melee,Buster Blade,Tiger Sword: King,9,270,270,0,0,0,2,0,M-BB-076,"Polished Offense IV, Buildup I",9600,M-BB-076,Chimera Spark Fur:2|Chimera Spark Skull:2|Chimera Spark Wing:2|Chimera Tusk:1|Chimera spark Claw:1
+M-BB-078,Melee,Buster Blade,Tiger Sword: King II,12,324,324,0,0,0,2,0,M-BB-077,"Polished Offense IV, Buildup II",40800,M-BB-077,Chimera Spark Fur:3|Chimera Spark Skull:3|Chimera Spark Claw:3|Chimera Spark Wing:2|Volt Generator:1
+M-BB-079,Melee,Buster Blade,Tiger Sword: King N,13,344,344,0,0,0,2,0,M-BB-078,"Polished Offense IV, Buildup III",52000,M-BB-078,Chimera Storm Fur:2|Chimera Spark Skull:2|Chimera Femur:2|Chimera Storm Claw:2|Chimera Amethyst:1
+M-BB-080,Melee,Buster Blade,Tiger Sword: King EX,14,356,356,0,0,0,2,0,M-BB-079,"Polished Offense IV, Buildup IV",96000,M-BB-079,Generic Compound Core:1
+M-BB-081,Melee,Buster Blade,Tiger Sword: Queen,6,184,184,0,0,1,0,0,M-BB-074,Polished Offense III,4160,M-BB-074,Royal Fang:1|Royal Filigree:1|Conductor:1|Royal Wing:1|Royal Armor:1
+M-BB-082,Melee,Buster Blade,Tiger Sword: Queen II,8,242,242,0,0,1,0,0,M-BB-081,Polished Offense IV,8800,M-BB-081,Royal Ice Wing:1|Royal Crown:1|Royal Bone:1|Royal Fang:1|Royal Ice Armor:1
+M-BB-083,Melee,Buster Blade,Tiger Sword: Queen N,10,308,308,0,0,1,0,0,M-BB-082,"Polished Offense IV, Buildup II",13600,M-BB-082,Empress Wreath:1|Empress Fang:1|Royal Redstone:1|Royal Ice Wing:1|Oracle Freeze Stone:1
+M-BB-084,Melee,Buster Blade,Tiger Sword: Queen X,11,320,320,0,0,1,0,0,M-BB-083,"Polished Offense IV, Buildup III",16000,M-BB-083,Empress Wreath:2|Empress Fang:2|Royal Redstone:2|Royal Ice Wing:1|High Conductor:1
+M-BB-085,Melee,Buster Blade,Tiger Sword: Queen EX,14,363,363,0,0,1,0,0,M-BB-084,"Polished Offense IV, Buildup IV",96000,M-BB-084,Generic Compound Core:1
+M-BB-086,Melee,Buster Blade,Destro-Panther,3,96,96,0,1,0,0,0,-,Energy Surge I,830,-,King Skull:1|King Gun:1|King Steel:1
+M-BB-087,Melee,Buster Blade,Destro-Panther II,4,135,135,0,1,0,0,0,M-BB-086,Energy Surge II,2800,M-BB-086,King Cranium:1|King Gun:1|King Armor+:1|King Pad:1
+M-BB-088,Melee,Buster Blade,Destro-Panther N,5,159,159,0,1,0,0,0,M-BB-087,Energy surge III,3360,M-BB-087,King Cranium:1|Ignitor:1|King Armor+:1|King Pad:1|King Grease:1
+M-BB-089,Melee,Buster Blade,Destro-Panther X,6,184,184,0,1,0,0,0,M-BB-088,Energy Surge IV,4160,M-BB-088,King Cranium:1|King Feeler:1|King Armor+:1|King Pad:1|Ignitor:1
+M-BB-090,Melee,Buster Blade,Thermo-Leopard,9,275,275,0,1,0,0,0,M-BB-089,Energy Surge V,9600,M-BB-089,Ares Armor:1|Anathema Raiment:1|Ares Gun:1|King Cranium:1|King Sensor:1
+M-BB-091,Melee,Buster Blade,Thermo-Leopard II,10,308,308,0,1,0,0,0,M-BB-090,"Energy Surge V, Cicada Chorus II",13600,M-BB-090,Ares Armor:2|Anathema Raiment:1|Conqueror Gun:1|King Cranium:1|King Sensor:1
+M-BB-092,Melee,Buster Blade,Thermo-Leopard N,11,320,320,0,1,0,0,0,M-BB-091,"Energy Surge V, Cicada Chorus III",16000,M-BB-091,Ares Armor:2|Anathema Raiment:1|Conqueror Gun:1|Ares Grease:1|King Sensor:1
+M-BB-093,Melee,Buster Blade,Thermo-Leopard EX,14,363,363,0,1,0,0,0,M-BB-092,"Energy Surge V, Cidaca Chorus IV",96000,M-BB-092,Generic Compound Core:1
+M-BB-094,Melee,Buster Blade,Lightning Digger,7,221,221,0,0,0,1,0,M-BB-089,Energy Surge V,7760,M-BB-089,Anathema Filigree:1|Anathema Gun:1|Anathema Armor:1|King Nephrite:1|Detonator:1
+M-BB-095,Melee,Buster Blade,Lightning Digger II,8,242,242,0,0,0,1,0,M-BB-094,"Energy surge V, Cicada Chorus I",8800,M-BB-094,Anathema Crown:1|Anathema Shooter:1|King Nephrite:1|Anathema Frame:1|Detonator:1
+M-BB-096,Melee,Buster Blade,Lightning Digger N,10,308,308,0,0,0,1,0,M-BB-095,"Energy Surge V, Cicada Chorus II",13600,M-BB-095,Anathema Crown:2|Conqueror Gun:2|Conqueror Armor:1|Conqueror Jade:1|Anathema Frame:1
+M-BB-097,Melee,Buster Blade,Lightning Digger X,12,331,331,0,0,0,1,0,M-BB-096,"Energy surge V, Cicada Chorus III",40800,M-BB-096,Conqueror Crown:2|Conqueror Armor:2|Conqueror Gun:1|Conqueror Steel:1|Conqueror Grease:1
+M-BB-098,Melee,Buster Blade,Lightning Digger V,13,351,351,0,0,0,1,0,M-BB-097,"Energy Surge V, Cicada Chorus IV",52000,M-BB-097,Conqueror Crown:2|Conqueror Armor:3|Conqueror Jade:1|Conqueror Steel:1|Conqueror Grease:1
+M-BB-099,Melee,Buster Blade,Lightning Digger EX,14,363,363,0,0,0,1,0,M-BB-098,"Energy Surge V, Cicada Chorus IV",96000,M-BB-098,Generic Compound Core:1
+M-BB-100,Melee,Buster Blade,Cryo-Hetzer,5,159,159,0,0,1,0,0,M-BB-087,Energy Surge III,3360,M-BB-087,Pluto Skull:1|Pluto Gun:1|Fallen King Armor:1|Freeze Crystal:1|Ignitor:1
+M-BB-101,Melee,Buster Blade,Cryo-Hetzer II,6,184,184,0,0,1,0,0,M-BB-100,Energy surge IV,4160,M-BB-100,Pluto Skull:1|Pluto Gun:1|Fallen King Armor:1|Freeze Crystal:1|Pluto Grease:1
+M-BB-102,Melee,Buster Blade,Cryo-Hetzer N,7,221,221,0,0,1,0,0,M-BB-101,Energy Surge V,7760,M-BB-101,Pluto Skull:1|Pluto Gun:1|Fallen King Armor:1|Detonator:1|Pluto Grease:1
+M-BB-103,Melee,Buster Blade,Cryo-Hetzer X,8,242,242,0,0,1,0,0,M-BB-102,"Energy Surge V, Cicada Chorus I",8800,M-BB-102,Pluto Skull:2|Pluto Frost Gun:2|Pluto Ice Armor:1|King Shock Absorber:1|Pluto Grease:1
+M-BB-104,Melee,Buster Blade,Cryo-Hetzer V,10,308,308,0,0,1,0,0,M-BB-103,"energy Surge V, Cicada Chorus II",13600,M-BB-103,Pluto Skull:3|Ice King Gun:2|Ares Alloy:2|Detonator:1|Ice King Armor:1
+M-BB-105,Melee,Buster Blade,Cryo-Hetzer S,11,320,320,0,0,1,0,0,M-BB-104,"Energy Surge V, Cicada Chorus III",16000,M-BB-104,Ares Armor:3|Conqueror Armor:2|Ice King Grease:1|Ice King Gun:2|Ares Alloy:1
+M-BB-106,Melee,Buster Blade,Cryo-Hetzer EX,14,363,363,0,0,1,0,0,M-BB-105,"Energy Surge V, Cicada Chorus IV",96000,M-BB-105,Generic Compound Core:1
+M-BB-107,Melee,Buster Blade,Kongou Ice Club,4,0,246,0,0,1,0,0,-,Advice I,3500,-,Wukong Mask:1|Wukong Armor:1|Wukong Rumbler:1|Wukong Redstone:1
+M-BB-108,Melee,Buster Blade,Kongou Staff Frz II,5,0,306,0,0,1,0,0,M-BB-107,Advice II,3360,M-BB-107,Wukong Mask:1|Wukong Armor:1|Wukong Redstone:1|Wukong Rumbler:1|Simian Trunk:1
+M-BB-109,Melee,Buster Blade,Kongou Staff Frz N,6,0,353,0,0,1,0,0,-,Advice III,4160,-,Wukong Mask:1|Wukong Armor:1|Wukong Redstone:1|Wukong Rumbler:1|Freeze Crystal:1
+M-BB-110,Melee,Buster Blade,Kongou Staff Frz X,7,0,425,0,0,1,0,0,M-BB-109,Advice IV,7760,M-BB-109,Wukong Mask:1|Wukong Armor+:1|Wukong Power Bone:1|Wukong Amethyst:1|Pure Mistle:1
+M-BB-111,Melee,Buster Blade,Guardian Chill,9,0,529,0,0,1,0,0,M-BB-110,Advice V,9600,M-BB-110,Wukong Mask:2|Wukong Armor+:1|Boreas Rumbler:1|Wukong Amethyst:1|Oracle Freeze Stone:1
+M-BB-112,Melee,Buster Blade,Guardian Chill II,11,0,614,0,0,1,0,0,M-BB-111,Advice VI,16000,M-BB-111,Wukong Mask:2|Wukong Armor+:2|Boreas Rumbler:1|Wukong Amethyst:2|Hanuman Ambrosia:1
+M-BB-113,Melee,Buster Blade,Guardian Chill N,13,0,674,0,0,1,0,0,M-BB-112,Advice VI,52000,M-BB-112,Wukong Cowl:3|Wukong Power Armor:2|Boreas Rumbler:1|Wukong Hematic:2|Hanuman Ambrosia:1
+M-BB-114,Melee,Buster Blade,Guardian Chill EX,14,0,697,0,0,1,0,0,M-BB-113,Advice VI,96000,M-BB-113,Generic Compound Core:1
+M-BB-115,Melee,Buster Blade,Yaegaki,5,120,179,0,0,0,0,2,-,Reassurance I,4200,-,Lucent Crystal:1|Mahogany Branch:1|Vermilion:1|Angel Armor:1|Impure Jewel Steel:1
+M-BB-116,Melee,Buster Blade,Yaegaki II,6,143,213,0,0,0,0,2,M-BB-115,Reassurance II,4160,M-BB-115,Hanuman Redstone:1|Oil:1|Damascus Steel:1|Anathema Gun:1|Anathema Armor:1
+M-BB-117,Melee,Buster Blade,Tsumugari,8,188,280,0,0,0,0,2,M-BB-116,Reassurance III,8800,M-BB-116,Helios Raiment:1|Helios Steel:1|Diablo Plumage:1|Helios Carver:1|Helios Sash:1
+M-BB-118,Melee,Buster Blade,Kusanagi,9,215,319,0,0,0,0,2,M-BB-117,Reassurance IV,9600,M-BB-117,Phoenix Crown:1|Phoenix Claw:1|Helios Crystal:1|Oracle Lucent Stone:1|Mahogany:1
+M-BB-119,Melee,Buster Blade,Murakumo,10,240,357,0,0,0,0,2,M-BB-118,"Reassurance IV, Team Tactics I",13600,M-BB-118,Yin-Yang Ingot:1|Yin-Yang Carver:1|Yin-Yang Sash:1|Yin-Yang Halo:1|Orichalcum:1
+M-BB-120,Melee,Buster Blade,Murakumo II,13,274,407,0,0,0,0,2,M-BB-119,"Reassurance IV, Team Tactics II",52000,M-BB-119,Invictus Carver:1|Invictus Corona:1|Elder's Horn:1|Ultra-Pure Mistle:1|Oracle Lucent Stone:1
+M-BB-121,Melee,Buster Blade,Murakumo EX,14,283,421,0,0,0,0,2,M-BB-120,"Reassurance IV, Team Tactics III",96000,M-BB-120,Generic Compound Core:1
+M-BB-122,Melee,Buster Blade,Twin Antennae,5,90,210,0,0,0,0,1,-,Mighty Force I,4200,-,Chaotic Gun:1|Chaotic Moss:1|Chaotic Tektite:1|Chaotic horn:1|Chaotic Toxin:1
+M-BB-123,Melee,Buster Blade,Twin Antennae II,6,106,250,0,0,0,0,1,M-BB-122,Mighty Force II,4160,M-BB-122,Chaotic Gun:1|Chaotic Moss:1|Chaotic tektite:1|Chaotic horn:1|Chaotic Claw:1
+M-BB-124,Melee,Buster Blade,Twin Antennae N,7,128,301,0,0,0,0,1,M-BB-123,Mighty Force III,7760,M-BB-123,Chaotic Claw:1|Chaotic Gun:1|Chaotic Eye:1|Chaotic Toxin:1|Chaotic Tektite:1
+M-BB-125,Melee,Buster Blade,Twin Antennae X,8,140,329,0,0,0,0,1,M-BB-124,Mighty Force IV,8800,M-BB-124,Chaotic Claw:1|Chaotic Gun:1|Chaotic Eye:1|Chaotic Lichen:1|Chaotic Spark Gun:1
+M-BB-126,Melee,Buster Blade,Holy Antennae,10,179,419,0,0,0,0,1,M-BB-125,"Mighty Force IV, Big Eater I",13600,M-BB-125,Abyssal Bone:1|Abyssal Horn:1|Lucifer Lichen:1|Chaotic Eye:1|Abyssal Claw:1
+M-BB-127,Melee,Buster Blade,Holy Antennae II,12,192,450,0,0,0,0,1,M-BB-126,"Mighty Force IV, Big Eater II",40800,M-BB-126,Abyssal Bone:1|Abyssal Horn:1|Oracle Lucent Crystal:1|Chaotic Eye:1|Chaotic Toxin:1
+M-BB-128,Melee,Buster Blade,Holy Antennae N,13,204,477,0,0,0,0,1,M-BB-127,"Mighty Force IV, Big Eater III",52000,M-BB-127,Abyssal Bone:1|Abyssal Horn:1|Titanium Superalloy:1|Chaotic Eye:1|Abyssal Crystal:1
+M-BB-129,Melee,Buster Blade,Holy Antennae EX,14,211,494,0,0,0,0,1,M-BB-128,"Mighty Force IV, Big Eater IV",96000,M-BB-128,Generic Compound Core:1
+M-BB-130,Melee,Buster Blade,Twin Antennae Spk,8,140,329,0,0,0,1,0,M-BB-124,Mighty Force IV,8800,M-BB-124,Chaotic Spark Gun:1|Chaotic Lichen:1|Chaotic Claw:1|Chaotic Eye:1|Chaotic Tektite:1
+M-BB-131,Melee,Buster Blade,Twin Antennae Spk II,10,179,419,0,0,0,1,0,M-BB-130,"Mighty Force IV, Big Eater II",13600,M-BB-130,Lucifer Shooter:1|Lucifer Lichen:1|Abyssal Claw:1|Chaotic Eye:1|Lucifer Poison:1
+M-BB-132,Melee,Buster Blade,Twin Antennae Spk N,11,186,435,0,0,0,1,0,M-BB-131,"Mighty Force IV, Big Eater III",16000,M-BB-131,Lucifer Shooter:1|Lucifer Lichen:2|Abyssal Claw:1|Lucifer Oculus:1|Lucifer Poison:1
+M-BB-133,Melee,Buster Blade,Twin Antennae Spk EX,14,211,494,0,0,0,1,0,M-BB-132,"Mighty Force IV, Big Eater IV",96000,M-BB-132,Generic Compound Core:1
+M-BB-134,Melee,Buster Blade,Gross Beil,6,243,104,0,0,0,1,1,-,Main Dish I,5200,-,Emperor Skull:3|Emperor Mane:2|Emperor Claw:1|Emperor Fang:2|Damascus Steel:1
+M-BB-135,Melee,Buster Blade,Gross Beil II,7,301,128,0,0,0,1,1,M-BB-134,Main Dish II,7760,M-BB-134,Emperor Skull:3|Emperor Wing:2|Emperor Fang:2|Emperor Claw:1|Pure Damascus:1
+M-BB-136,Melee,Buster Blade,Gross Beil N,9,375,160,0,0,0,1,1,M-BB-135,Main Dish III,9600,M-BB-135,Emperor Mane:3|Imperial Wing:3|Imperial Claw:1|Emperor Redstone:1|Pure Damascus:2
+M-BB-137,Melee,Buster Blade,Riesig Beil,10,419,179,0,0,0,1,1,M-BB-136,"Main Dish III, Great Devourer I",13600,M-BB-136,Emperor Mane:3|Imperial Wing:3|Imperial Claw:1|Imperial Crown:1|Orichalcum:1
+M-BB-138,Melee,Buster Blade,Riesig Beil II,11,435,186,0,0,0,1,1,M-BB-137,"Main Dish III, Great Devourer II",16000,M-BB-137,Emperor Redstone:1|Imperial Wing:1|Imperial Claw:2|Imperial Crown:1|Orichalcum:1
+M-BB-139,Melee,Buster Blade,Riesig Beil N,13,477,204,0,0,0,1,1,M-BB-138,"Main Dish III, Great Devourer III",52000,M-BB-138,Emperor Pelt:3|Imperial Claw:2|Emperor Incisor:2|Emperor Amethyst:1|Mana Orb:2
+M-BB-140,Melee,Buster Blade,Riesig Beil EX,14,494,211,0,0,0,1,1,M-BB-139,"Main Dish III, Great Devourer IV",96000,M-BB-139,Generic Compound Core:1
+M-BB-141,Melee,Buster Blade,Kongou Crusher,7,0,411,0,0,0,0,1,-,Advice II,9700,-,Hanuman Mesh:2|Simian Armor+:2|Simian Fragment:2|Hanuman Redstone:1|Simian Power Tail:1
+M-BB-142,Melee,Buster Blade,Kongou Crusher II,9,0,529,0,0,0,0,1,M-BB-141,Advice III,9600,M-BB-141,Hanuman Mask:1|Hanuman Spark Armor:1|Hanuman Femur:1|Howler Plumage:1|Oracle Freeze Stone:1
+M-BB-143,Melee,Buster Blade,Guardian Crusher,11,0,614,0,0,0,0,1,M-BB-142,Advice IV,16000,M-BB-142,Hanuman Mask:1|Hanuman Spark Armor:1|Hanuman Femur:1|Howler Ambrosia:1|Oracle Freeze Stone:1
+M-BB-144,Melee,Buster Blade,Guardian Crusher II,13,0,674,0,0,0,0,1,M-BB-143,Advice V,52000,M-BB-143,Hanuman Cowl:1|Hanuman Forcefield:2|Hanuman Hematite:1|Howler Plumage:2|Ultra-Pure Mistle:1
+M-BB-145,Melee,Buster Blade,Guardian Crusher EX,14,0,697,0,0,0,0,1,M-BB-144,Advice VI,96000,M-BB-144,Generic Compound Core:1
+M-BB-146,Melee,Buster Blade,Evil One,7,124,295,0,0,1,0,0,-,Brute Hand I,9700,-,Draconic Horn:2|Basilisk Redstone:1|Titanium Alloy:2|Garuda Blade:2|Wukong Armor+:2
+M-BB-147,Melee,Buster Blade,Evil One II,9,160,380,0,0,1,0,0,M-BB-146,Brute Hand II,9600,M-BB-146,Yin-Yang Ingot:2|Yin-Yang Carver:1|Yin-Yang Sash:1|Yin-Yang Halo:1|Draconic Horn:1
+M-BB-148,Melee,Buster Blade,Evil One N,11,186,442,0,0,1,0,0,M-BB-147,Brute Hand III,16000,M-BB-147,Helios Ingot:2|Aragami Talon:2|Draconic Horn:2|Helios Raiment:1|Helios Crystal:1
+M-BB-149,Melee,Buster Blade,Evil One X,12,192,456,0,0,1,0,0,M-BB-148,Brute Hand IV,40800,M-BB-148,Abyssal Horn:1|Hanuman Mask:1|Zinjifrah:1|Basilisk Ice Armor:1|Basilisk Amethyst:1
+M-BB-150,Melee,Buster Blade,Evil One EX,14,211,501,0,0,1,0,0,M-BB-149,Bruta Hand IV,96000,M-BB-149,Generic Compound Core:1
+M-BB-151,Melee,Buster Blade,Straight Claymore,7,124,295,0,0,0,1,0,-,Solo Endeavor I,9700,-,Simian Fragment:1|Raven Wing:1|Serpent Soft Iron:1|Basilisk Redstone:1
+M-BB-152,Melee,Buster Blade,Straight Claymore II,9,160,380,0,0,0,1,0,M-BB-151,Solo Endeavor II,9600,M-BB-151,Howler Plumage:1|Raven Mask:1|Serpent Soft Iron:1|Draconic Tallow:1|Wyrm Amethyst:1
+M-BB-153,Melee,Buster Blade,Ruin Claymore,11,186,442,0,0,0,1,0,M-BB-152,Solo Endeavor III,16000,M-BB-152,Howler Plumage:1|Raven Spark Gun:1|Holy Serpent Guard:1|Draconic Horn:1|Draconic Amethyst:1
+M-BB-154,Melee,Buster Blade,Ruin Claymore II,13,204,484,0,0,0,1,0,M-BB-153,Solo Endeavor IV,52000,M-BB-153,Hanuman Cowl:1|Raven Storm Blade:1|Serpent Soft Steel:1|Hanuman Hematite:1|Basilisk Hematite:1
+M-BB-155,Melee,Buster Blade,Dispeller,14,211,501,0,0,0,1,0,M-BB-154,Solo Endeavor IV,96000,M-BB-154,Generic Compound Core:1
+M-BB-156,Melee,Buster Blade,Serpent Warblade,7,210,210,0,2,0,0,0,-,Major Step I,9700,-,Serpent Armor:1|Serpent Soft Iron:1|Serpent Horn:1|Serpent Helm:1|Serpent Fang:1
+M-BB-157,Melee,Buster Blade,Serpent Warblade II,8,237,237,0,2,0,0,0,M-BB-156,Major Step II,8800,M-BB-156,Serpent Armor:1|Serpent Soft Iron:2|Serpent Horn:1|Serpent Helm:1|Refractory Alloy:1
+M-BB-158,Melee,Buster Blade,Serpent Warblade N,9,270,270,0,2,0,0,0,M-BB-157,Major Step III,9600,M-BB-157,Holy Serpent Guard:2|Serpent Blaze Helm:1|Serpent Blade Horn:1|Flaming Crystal:1|Serpent Armor:2
+M-BB-159,Melee,Buster Blade,Serpent Warblade X,11,314,314,0,2,0,0,0,M-BB-158,"Major Step III, Polished Evasion I",16000,M-BB-158,Serpent Blaze Horn:1|Serpent Blade Fang:1|Holy Serpent Guard:2|Serpent Ambrosia:1|Serpent Armor:1
+M-BB-160,Melee,Buster Blade,Serpent Warblade V,13,344,344,0,2,0,0,0,M-BB-159,"Major Step III, Polished Evasion II",52000,M-BB-159,Serpent Blaze Helm:1|Serpent Carapace:2|Flaming Crystal:1|Holy Serpent Guard:1|Serpent Soft Steel:1
+M-BB-161,Melee,Buster Blade,Serpent Warblade EX,14,356,356,0,2,0,0,0,M-BB-160,"Major Step III, Polished Evasion III",96000,M-BB-160,Generic Compound Core:1
+M-BB-162,Melee,Buster Blade,Phantom Warblade,10,302,302,0,1,0,0,1,M-BB-158,Major Step III,13600,M-BB-158,Phantom Armor:1|Phantom Cataphract:1|Phantom Helm:1|Seraphic Crystal:1|Phantom Horn:1
+M-BB-163,Melee,Buster Blade,Phantom Warblade II,12,324,324,0,1,0,0,1,M-BB-162,"Major Step III, Polished Evasion I",40800,M-BB-162,Phantom Helm:2|Seraphic Crystal:1|Phantom Incisor:1|Phantom Cataphract:1|Inferno Barrel:2
+M-BB-164,Melee,Buster Blade,Phantom Warblade V,13,344,344,0,1,0,0,1,M-BB-163,"Major Step III, Polished Evasion II",52000,M-BB-163,Phantom Ambrosia:1|Deific Crystal:1|Phantom Incisor:1|Phantom Lance:1|Phantom Arm Gauntlet:1
+M-BB-165,Melee,Buster Blade,Phantom Warblade EX,14,356,356,0,1,0,0,1,M-BB-164,"Major Step III, Polished Evasion III",96000,M-BB-164,Generic Compound Core:1
+M-BB-166,Melee,Buster Blade,Overmetal,10,0,800,0,0,0,0,0,-,Massive Bomb I,17000,-,Conqueror Gun:1|Anathema Frame:1|Conqueror Jade:1|Pure Damascus:1|Tool Steel:1
+M-BB-167,Melee,Buster Blade,Overmetal II,11,0,896,0,0,0,0,0,M-BB-166,Massive Bomb II,16000,M-BB-166,Anathema Frame:1|Conqueror Gun:1|Conqueror Jade:1|Orichalcum:1|Refractory Alloy:1
+M-BB-168,Melee,Buster Blade,Overmetal EX,14,0,999,0,0,0,0,0,M-BB-167,Massive Bomb III,96000,M-BB-167,Generic Compound Core:1
+M-BB-169,Melee,Buster Blade,Inferno Slayer,10,404,169,0,1,0,0,1,-,Guard Support I,17000,-,Mana Crystal:1|Pure Mistle:1|Serpent Ambrosia:1|Flaming Crystal:1|Serpent Blaze Helm:1
+M-BB-170,Melee,Buster Blade,Inferno Slayer II,11,429,179,0,1,0,0,1,M-BB-169,Guard Support II,16000,M-BB-169,Mana Crystal:2|Serpent Blaze Fang:1|Serpent Ambrosia:1|Flaming Crystal:1|Serpent Blaze Helm:1
+M-BB-171,Melee,Buster Blade,Inferno Slayer N,13,470,197,0,1,0,0,1,M-BB-170,"Guard Support II, Trickster I",52000,M-BB-170,Mana Orb:1|Serpent Carapace:1|Serpent Soft Steel:1|Serpent Ambrosia:1|Flaming Crystal:1
+M-BB-172,Melee,Buster Blade,Inferno Slayer EX,14,487,203,0,1,0,0,1,M-BB-171,"Guard Support II, Trickster II",96000,M-BB-171,Generic Compound Core:1
+M-BB-173,Melee,Buster Blade,Icefire Slayer,10,404,169,0,1,1,0,0,-,Guard Support I,17000,-,Mana Crystal:1|Royal Ice Wing:1|Empress Wreath:1|Phoenix Bone:1|Phoenix Claw:1
+M-BB-174,Melee,Buster Blade,Icefire Slayer II,11,429,179,0,1,1,0,0,M-BB-173,Guard Support II,16000,M-BB-173,Mana Crystal:2|Empress Fang:1|Royal Redstone:1|Phoenix Crown:1|Phoenix Claw:1
+M-BB-175,Melee,Buster Blade,Icefire Slayer N,13,470,197,0,1,1,0,0,M-BB-174,"Guard Support II, Trickster I",52000,M-BB-174,Mana Orb:1|Royal Crystal Armor:1|Royal Amethyst:1|Garuda Edge:1|Phoenix Talon:1
+M-BB-176,Melee,Buster Blade,Icefire Slayer EX,14,487,203,0,1,1,0,0,M-BB-175,"Guard Support II, Trickster II",96000,M-BB-175,Generic Compound Core:1
+M-BB-177,Melee,Buster Blade,Thunder Slayer,10,404,169,0,0,0,1,1,-,Guard Support I,17000,-,Mana Crystal:1|Phantom Armor:1|Phantom Helm:1|Conqueror Armor:1|Conqueror Grease:1
+M-BB-178,Melee,Buster Blade,Thunder Slayer II,11,429,179,0,0,0,1,1,M-BB-177,Guard Support II,16000,M-BB-177,Mana Crystal:2|Phantom Incisor:1|Phantom Ambrosia:1|Anathema Crown:1|Conqueror Grease:1
+M-BB-179,Melee,Buster Blade,Thunder Slayer N,13,470,197,0,0,0,1,1,M-BB-178,"Guard Support II, Trickster I",52000,M-BB-178,Mana Orb:1|Phantom Arm Gauntlet:1|Deific Crystal:1|Conqueror Crown:1|Conqueror Grease:1
+M-BB-180,Melee,Buster Blade,Thunder Slayer EX,14,487,203,0,0,0,1,1,M-BB-179,"Guard Support II, Trickster II",96000,M-BB-179,Generic Compound Core:1
+M-BB-181,Melee,Buster Blade,Zero Slayer,10,404,169,0,0,1,0,1,-,Guard Support I,17000,-,Mana Crystal:1|Diablo Wing:1|Diablo Oculus:1|Boreas Rumbler:1|Ice King Armor:1
+M-BB-182,Melee,Buster Blade,Zero Slayer II,11,429,179,0,0,1,0,1,M-BB-181,Guard Support II,16000,M-BB-181,Mana Crystal:2|Diablo Crown:1|Diablo Amethyst:1|Boreas Rumbler:1|Ares Alloy:1
+M-BB-183,Melee,Buster Blade,Zero Slayer N,13,470,197,0,0,1,0,1,M-BB-182,"Guard Support II, Trickster I",52000,M-BB-182,Mana Orb:1|Diablo High Crown:1|Diablo Hematite:1|Wukong Hematite:1|Ice King Grease:1
+M-BB-184,Melee,Buster Blade,Zero Slayer EX,14,487,203,0,0,1,0,1,M-BB-183,"Guard Support II, Trickster II",96000,M-BB-183,Generic Compound Core:1
+M-BB-185,Melee,Buster Blade,Forbidden Fireblade,10,175,410,0,1,0,0,0,-,Stratagem,17000,-,Philosopher's Stone:1|Pure Mistle:1|Serpent Ambrosia:1|Phantom Armor:1|Phantom Cataphract:1
+M-BB-186,Melee,Buster Blade,Forbidden Fireblade II,12,192,450,0,1,0,0,0,M-BB-185,"Stratagem, Special Guard I",40800,M-BB-185,Oracle Blaze Stone:1|Flame Sickle:1|Flame Cortex:1|Flaming Crystal:1|Holy Serpent Guard:1
+M-BB-187,Melee,Buster Blade,Forbidden Fireblade EX,14,211,494,0,1,0,0,0,M-BB-186,"Strategem, Special Guard II",96000,M-BB-186,Generic Compound Core:1
+M-BB-188,Melee,Buster Blade,Forbidden Holyblade,10,175,410,0,0,0,0,1,-,Stratagem,17000,-,Philosopher's Stone:1|Phantom Armor:1|Phantom Horn:1|Phantom Helm:1|Phantom Ambrosia:1
+M-BB-189,Melee,Buster Blade,Forbidden Holyblade II,12,192,450,0,0,0,0,1,M-BB-188,"Stratagem, Special Guard I",40800,M-BB-188,Oracle Lucent Crystal:1|Witch Feathering:1|Witch Amethyst:1|Seraphic Crystal:1|Phantom Cataphract:1
+M-BB-190,Melee,Buster Blade,Forbidden Holyblade EX,14,211,494,0,0,0,0,1,M-BB-189,"Stratagem, Special Guard II",96000,M-BB-189,Generic Compound Core:1
+M-BB-191,Melee,Buster Blade,Forbidden Iceblade,10,175,410,0,0,1,0,0,-,Stratagem,17000,-,Philosopher's Stone:1|Royal Icewing:1|Empress Wreath:1|Boreas Rumbler:1|Ice King Armor:1
+M-BB-192,Melee,Buster Blade,Forbidden Iceblade II,12,192,450,0,0,1,0,0,M-BB-191,"Stratagem, Special Guard I",40800,M-BB-191,Oracle Freeze Crystal:1|Royal Bone:1|Royal Redstone:1|wukong Amethyst:1|Ice King Grease:1
+M-BB-193,Melee,Buster Blade,Forbidden Iceblade EX,14,211,494,0,0,1,0,0,M-BB-192,"Stratagem, Special Guard II",96000,M-BB-192,Generic Compound Core:1
+M-BB-194,Melee,Buster Blade,Forbidden Boltblade,10,175,410,0,0,0,1,0,-,Stratagem,17000,-,Philosopher's Stone:1|Chimera Spark Fang:1|Volt Generator:1|Hanuman Femur:1|Howler Plumage:1
+M-BB-195,Melee,Buster Blade,Forbidden Boltblade II,12,192,450,0,0,0,1,0,M-BB-194,"Stratagem, Special Guard I",40800,M-BB-194,Oracle Spark Crystal:1|Chimera Spark Claw:1|Chimera Redstone:1|Hanuman Spark Armor:1|Hanuman Amethyst:1
+M-BB-196,Melee,Buster Blade,Forbidden Boltblade EX,14,211,494,0,0,0,1,0,M-BB-195,"Strategem, Special Guard II",96000,M-BB-195,Generic Compound Core:1
+M-BB-197,Melee,Buster Blade,Valkyria,10,175,416,0,0,0,0,1,-,Tout Le Monde I,17000,-,Abyssal Gun:1|Goddess Crown:1|Titanium Alloy:1|Goddess Quill:1|Adamantite:1
+M-BB-198,Melee,Buster Blade,Valkyria II,12,192,456,0,0,0,0,1,M-BB-197,Tout Le Monde II,40800,M-BB-197,Regina's Stone:1|Prince's Steel:1|Orichalcum:1|Goddess Quill:1|Philisopher's Stone:1
+M-BB-199,Melee,Buster Blade,Valkyria N,13,204,484,0,0,0,0,1,M-BB-198,Tout Le Monde III,52000,M-BB-198,Yin-Yang Crown:1|Prince's Soul:1|Holy Jewel Steel:1|Goddess Crown:1|Mana Orb:1
+M-BB-200,Melee,Buster Blade,Valkyria EX,14,211,501,0,0,0,0,1,M-BB-199,Tout Le Monde IV,96000,M-BB-199,Generic Compound Core:1
+M-BB-201,Melee,Buster Blade,Mass Hammer,11,324,324,0,0,0,0,0,-,High Power I,20000,-,Spark Knight God Needle:1|Diablo Plague:1|Elder's Soul:1|Pure Silver:1|Oracle Lucent Stone:1
+M-BB-202,Melee,Buster Blade,Mass Hammer II,12,337,337,0,0,0,0,0,M-BB-201,High Power II,40800,M-BB-201,Spark Knight Steel:1|Diablo Blight:1|Elder's Soul:1|Tungsten Superalloy:1|Oracle Lucent Crystal:1
+M-BB-203,Melee,Buster Blade,Blauer Riese,14,370,370,0,0,0,0,0,M-BB-202,High Power III,96000,M-BB-202,Generic Compound Core:1
+M-BB-204,Melee,Buster Blade,Alstroemeria,12,184,440,0,1,0,1,0,-,Goddess of Mercy,51000,-,Grace Asylum:2|Grace Starmetal:2|Grace Spire:2|Grace Jelly:2|Draconic Amethyst:1
+M-BB-205,Melee,Buster Blade,Alstroemeria II,13,197,470,0,1,0,1,0,M-BB-204,"Goddess of Mercy, Goddess of War I",52000,M-BB-204,Grace Asylum:3|Grace Starmetal:2|Grace Spire:2|Refractor:2|Draconic Amethyst:1
+M-BB-206,Melee,Buster Blade,Alstroemeria EX,14,203,487,0,1,0,1,0,M-BB-205,"Goddess of MErcy, Goddess of War II",96000,M-BB-205,Generic Compound Core:1
+M-BB-207,Melee,Buster Blade,Belsol,13,555,97,0,0,2,0,0,-,Liberator I,65000,-,Bahamut Helm:1|Bahamut Blue Mail:1|Boreal Stone:1|Bahamut Sky Fang:1|Bahamut Manifer:1
+M-BB-208,Melee,Buster Blade,Belsol EX,14,581,102,0,0,2,0,0,M-BB-207,Liberator II,96000,M-BB-207,Generic Compound Core:1
+M-BB-209,Melee,Buster Blade,Wyvern Warblade,13,340,340,0,0,0,0,2,-,Major Step III,65000,-,Wyvern Helm:1|Dire Crystal:1|Wyvern Fang:1|Wyvern Gauntlet:1|Wyvern Stone:1
+M-BB-210,Melee,Buster Blade,Wyvern Warblade EX,14,356,356,0,0,0,0,2,M-BB-209,"Major Step III, Polished Evasion III",96000,M-BB-209,Generic Compound Core:1
+M-BB-211,Melee,Buster Blade,Invidia,14,491,209,0,0,0,0,2,-,"Great Devourer IV, Far East Champion",120000,-,Hades Crown:1|Hades Mane:1|Hades Wing:1|Hades Claw:1|Hades Redstone:1
+M-BH-001,Melee,Boost Hammer,Pitohui Mallet,1,0,108,0,0,0,0,0,-,Deathflower I,350,-,Angel Shell:1|Imploder:1|Angel Fang:1
+M-BH-002,Melee,Boost Hammer,Pitohui Mallet II,4,0,244,0,0,0,0,0,M-BH-001,Deathflower II,2800,M-BH-001,Angel Armor:1|Rough Barrel:1|Angel Fang:2|Poison Metal:1
+M-BH-003,Melee,Boost Hammer,Paraponera Mallet,5,0,288,0,0,0,0,0,M-BH-002,Deathflower III,3360,M-BH-002,Angel Armor:2|Rough Barrel:1|Angel Fang:3|Imploder:1
+M-BH-004,Melee,Boost Hammer,Paraponera Mallet II,7,0,401,0,0,0,0,0,M-BH-003,Death Flower IV,7760,M-BH-003,Angel Armor:2|Detector:1|Angel Fang:3|Imploder:1|Mahogany:1
+M-BH-005,Melee,Boost Hammer,Slow Loris Mallet,9,0,499,0,0,0,0,0,M-BH-004,"Deathflower IV, Calamitous Deed I",9600,M-BH-004,Angel Armor:2|Savage Barrel:2|Angel Fang:1|Imploder:1|Tungsten Alloy:2
+M-BH-006,Melee,Boost Hammer,Slow Loris Mallet II,12,0,599,0,0,0,0,0,M-BH-005,"Deathflower IV, Calamitous Deed II",40800,M-BH-005,Angel Bastion:2|Perceiver:1|Angel Incisor:1|Witch Eye:1|Detonator:1
+M-BH-007,Melee,Boost Hammer,Slow Loris Mallet N,13,0,636,0,0,0,0,0,M-BH-006,"Deathflower IV, Calamitous Deed III",52000,M-BH-006,Angel Bastion:2|Perceiver:1|Angel Incisor:2|Witch Gown:1|Witch Diadem:1
+M-BH-008,Melee,Boost Hammer,Slow Loris Mallet EX,14,0,658,0,0,0,0,0,M-BH-007,"Deathflower IV, Calamitous Deed IV",96000,M-BH-007,Generic Compound Core:1
+M-BH-009,Melee,Boost Hammer,Botulinum Mallet,0,0,183,0,1,0,0,0,M-BH-001,Deathflower II,664,M-BH-001,Angel Shell:1|Wild Barrel:1|Blazing Mini-Barrel:1|Imploder:1
+M-BH-010,Melee,Boost Hammer,Botulinum Mallet II,4,0,244,0,1,0,0,0,M-BH-009,Deathflower III,2800,M-BH-009,Lucifer Shell:1|Rough Barrel:1|Hot Barrel:1|Imploder:1
+M-BH-011,Melee,Boost Hammer,Botulinum Mallet N,5,0,288,0,1,0,0,0,M-BH-010,Deathflower IV,3360,M-BH-010,Lucifer Shell:1|Rough Barrel:1|Hot Barrel:1|Imploder:1|Poison Metal:1
+M-BH-012,Melee,Boost Hammer,Anisatum Mallet,7,0,401,0,1,0,0,0,M-BH-011,"Deathflower IV, Calamitous Deed I",7760,M-BH-011,Lucifer Shell:2|Rough Barrel:1|Hot Barrel:1|Imploder:1|Mahogany:1
+M-BH-013,Melee,Boost Hammer,Anisatum Mallet II,8,0,438,0,1,0,0,0,M-BH-012,"Deathflower IV, Calamitous Deed II",8800,M-BH-012,Lucifer Shell:2|Sensor:1|Hot Barrel:1|Imploder:1|Mahogany:2
+M-BH-014,Melee,Boost Hammer,Anisatum Mallet N,10,0,557,0,1,0,0,0,M-BH-013,"Deathflower IV, Calamitous Deed III",13600,M-BH-013,Lucifer Carapace:2|Savage Barrel:1|Inferno Barrel:1|Imploder:1|High-Speed Steel:1
+M-BH-015,Melee,Boost Hammer,Yew Mallet,11,0,579,0,1,0,0,0,M-BH-014,"Deathflower IV, Calamitous Deed IV",16000,M-BH-014,Lucifer Carapace:3|Savage Barrel:3|Inferno Barrel:2|Imploder:2|Venom Metal:2
+M-BH-016,Melee,Boost Hammer,Yew Mallet EX,14,0,658,0,1,0,0,0,M-BH-015,"Deathflower IV, Calamitous Deed IV",96000,M-BH-015,Generic Compound Core:1
+M-BH-017,Melee,Boost Hammer,Irukandji Mallet,5,0,288,0,0,1,0,0,M-BH-002,Deathflower III,3360,M-BH-002,Lucifer Shell:1|Rough Barrel:1|Cold Barrel:1|Imploder:1
+M-BH-018,Melee,Boost Hammer,Irukandji Mallet II,7,0,401,0,0,1,0,0,M-BH-017,Deathflower IV,7760,M-BH-017,Lucifer Shell:2|Rough Barrel:1|Freezing Barrel:1|Imploder:1|Coating Agent:1
+M-BH-019,Melee,Boost Hammer,Gaboon Mallet,8,0,438,0,0,1,0,0,M-BH-018,"Deathflower IV, Calamitous Deed I",8800,M-BH-018,Lucifer Shell:2|Rough Barrel:2|Freezing Barrel:1|Imploder:1|Mahogany:1
+M-BH-020,Melee,Boost Hammer,Gaboon Mallet II,10,0,557,0,0,1,0,0,M-BH-019,"Deathflower IV, Calamitous Deed II",13600,M-BH-019,Lucifer Carapace:2|Savage Barrel:1|Freezing Barrel:1|Imploder:1|Cryogenic Alloy:1
+M-BH-021,Melee,Boost Hammer,Gaboon Chain Mallet,12,0,599,0,0,1,0,0,M-BH-020,"Deathflower IV, Calamitous Deed III",40800,M-BH-020,Lucifer Carapace:2|Savage Barrel:2|Arctic Barrel:1|Wukong Power Bone:1|Venom Metal:1
+M-BH-022,Melee,Boost Hammer,Gaboon Chain Mallet II,13,0,636,0,0,1,0,0,M-BH-021,"Deathflower IV, Calamitous Deed IV",52000,M-BH-021,Lucifer Keep:3|Perceiverl:1|Cyro Barrel:1|Yin-Yang Scarft:1|Super Poison Metal:1
+M-BH-023,Melee,Boost Hammer,Gaboon Chain Mallet EX,14,0,658,0,0,1,0,0,M-BH-022,"Deathflower IV, Calamitous Deed IV",96000,M-BH-022,Generic Compound Core:1
+M-BH-024,Melee,Boost Hammer,Conus Mallet,5,0,288,0,0,0,1,0,M-BH-002,Deathflower III,3360,M-BH-002,Lucifer Shell:1|Rough Barrel:1|Low-Volt Barrel:1|Imploder:1
+M-BH-025,Melee,Boost Hammer,Conus Mallet II,6,0,332,0,0,0,1,0,M-BH-024,Deathflower IV,4160,M-BH-024,Lucifer Shell:1|Rough Barrel:2|Low-Volt Barrel:1|Imploder:1|Poison Metal:1
+M-BH-026,Melee,Boost Hammer,Belcher Mallet,7,0,401,0,0,0,1,0,M-BH-025,"Deathflower IV, Calamitous Deed I",7760,M-BH-025,Lucifer Shell:2|Rough Barrel:2|Sparking Barrel:1|Imploder:1|Mahogany:1
+M-BH-027,Melee,Boost Hammer,Belcher Mallet II,10,0,557,0,0,0,1,0,M-BH-026,"Deathflower IV, Calamitous Deed II",13600,M-BH-026,Lucifer Carapace:2|Savage Barrel:3|Volt Barrel:1|Imploder:1|High-speed Steel:1
+M-BH-028,Melee,Boost Hammer,Boomslang Mallet,11,0,579,0,0,0,1,0,M-BH-027,"Deathflower IV, Calamitous Deed III",16000,M-BH-027,Perceiver:2|Volt Barrel:2|Imploder:1|Tungsten Alloy:1
+M-BH-029,Melee,Boost Hammer,Boomslash Mallet EX,14,0,658,0,0,0,1,0,M-BH-028,"Deathflower IV, Calamitous Deed IV",96000,M-BH-028,Generic Compound Core:1
+M-BH-030,Melee,Boost Hammer,Hammer P,0,0,109,0,0,0,0,0,-,Hammerer I,350,-,Aragami Bone Chip:1|Angel Fang:1|Weak Tool Steel:1
+M-BH-031,Melee,Boost Hammer,Hammer,1,0,111,0,0,0,0,0,M-BH-030,Hammerer II,280,M-BH-030,Pixie Shell:1|Impure Soft Iron:1
+M-BH-032,Melee,Boost Hammer,Hammer II,4,0,252,0,0,0,0,0,M-BH-031,Hammerer IV,2800,M-BH-031,Simian Armor+:1|Jewel Steel:1|Poison Metal:1
+M-BH-033,Melee,Boost Hammer,Hammer N,6,0,343,0,0,0,0,0,M-BH-032,Hammerer V,4160,M-BH-032,Simian Armor+:2|Emperor Wing:1|Jewel Steel:2|Witch Filigree:1|Hardener:1
+M-BH-034,Melee,Boost Hammer,Hammer X,10,0,575,0,0,0,0,0,M-BH-033,"Hammerer V, Hammer Master II",13600,M-BH-033,Helios Raiment:2|Helios Carver:2|Helios Steel:1|Nectar:1|Holy Jewel Steel:1
+M-BH-035,Melee,Boost Hammer,Hammer V,13,0,655,0,0,0,0,0,M-BH-034,"Hammerer V, Hammer Master III",52000,M-BH-034,Invictus Corona:2|Helios Carver:3|Helios Ingot:2|Adamantite:1|Holy Jewel Steel:1
+M-BH-036,Melee,Boost Hammer,Hammer EX,14,0,678,0,0,0,0,0,M-BH-035,"Hammerer V, Hammer Master IV",96000,M-BH-035,Generic Compound Core:1
+M-BH-037,Melee,Boost Hammer,Blitz Hammer,3,0,189,0,0,0,1,0,M-BH-031,Hammerer III,664,M-BH-031,Chimera Fang:2|Chimera Fur:2|Chimera Skull:1
+M-BH-038,Melee,Boost Hammer,Blitz Hammer II,4,0,252,0,0,0,1,0,M-BH-037,Hammerer IV,2800,M-BH-037,King Skull:1|Chimera Spark Fur:2|Chimera Wing:1|Mistle:1
+M-BH-039,Melee,Boost Hammer,Blitz Hammer N,5,0,297,0,0,0,1,0,M-BH-038,Hammerer V,3360,M-BH-038,King Skull:2|Chimera Spark Fur:2|Chimera Wing:1|Spark Ogre Fang:1|Ignitor:1
+M-BH-040,Melee,Boost Hammer,Storm Hammer,6,0,343,0,0,0,1,0,M-BH-039,"Hammerer V, Hammer Master I",4160,M-BH-039,Spark Ogre Mask:2|Chimera Spark Fur:3|Chimera Claw:1|Anathema Gun:1|Anathema Armor:1
+M-BH-041,Melee,Boost Hammer,Storm Hammer II,8,0,451,0,0,0,1,0,M-BH-040,"Hammerer V, Hammer Master II",8800,M-BH-040,Anathema Raiment:3|Anathema Crown:2|King Nephrite:1|Anathema Frame:1|Lucifer Starstone:1
+M-BH-042,Melee,Boost Hammer,Storm Hammer N,10,0,575,0,0,0,1,0,M-BH-041,"Hammerer V, Hammer Master III",13600,M-BH-041,Elders Armor:3|Elder's Wing:3|Elder's Oculus:2|Elder's Horn:2|Thunder Ogre Cowl:2
+M-BH-043,Melee,Boost Hammer,Storm Hammer X,12,0,617,0,0,0,1,0,M-BH-042,"Hammerer V, Hammer Master IV",40800,M-BH-042,Elder's Horn:3|Elder's Wing:3|Elder's Oculus:3|Elder's Armor:2|Elder's Soul:3
+M-BH-044,Melee,Boost Hammer,Storm Hammer EX,14,0,678,0,0,0,1,0,M-BH-043,"Hammerer V, Hammer Master IV",96000,M-BH-043,Generic Compound Core:1
+M-BH-045,Melee,Boost Hammer,Gun Hammer,5,0,297,0,1,0,0,0,M-BH-032,Hammerer V,3360,M-BH-032,Wyrm Armor:2|Blaze Knight Shield:1|Blaze Ogre Tooth:2|Blaze Ogre Mask:1|Plastic:1
+M-BH-046,Melee,Boost Hammer,Gun Hammer II,6,0,343,0,1,0,0,0,M-BH-045,"Hammerer V, Hammer Master I",4160,M-BH-045,Hot Barrel:1|Blaze Knight Shield:2|Blaze Ogre Tooth:3|Blaze Ogre Mask:1|Draconic Gun:1
+M-BH-047,Melee,Boost Hammer,Gun Hammer N,9,0,514,0,1,0,0,0,M-BH-046,"Hammerer V, Hammer Master II",9600,M-BH-046,Blaze Wyrm Fang:1|Ares Alloy:2|Detonator:2|Oracle Blaze Stone:1|Venom Metal:1
+M-BH-048,Melee,Boost Hammer,Gun Hammer X,11,0,597,0,1,0,0,0,M-BH-047,"Hammerer V, Hammer Master III",16000,M-BH-047,Phantom Armor:3|Phantom Horn:1|Phantom Cataphract:1|Serpent Blaze Helm:1|Holy Serpent Guard:1
+M-BH-049,Melee,Boost Hammer,Gun Hammer V,13,0,655,0,1,0,0,0,M-BH-048,"Hammerer V, Hammer Master IV",52000,M-BH-048,Phantom Armor:3|Phantom Lance:2|Phantom Arm Gauntlet:2|Serpent Blaze Helm:1|Flaming Crystal:1
+M-BH-050,Melee,Boost Hammer,Gun Hammer EX,14,0,678,0,1,0,0,0,M-BH-049,"Hammerer V, Hammer Master IV",96000,M-BH-049,Generic Compound Core:1
+M-BH-051,Melee,Boost Hammer,Fee Dragee,2,0,135,0,0,0,0,1,-,Nonagression I,560,-,Brittle Titanium:1|Mana Stone Chip:2
+M-BH-052,Melee,Boost Hammer,Fee Dragee II,3,0,189,0,0,0,0,1,M-BH-051,Nonagression II,664,M-BH-051,Brittle Titanium:1|Mana Stone Chip:2|Simian Armament:2
+M-BH-053,Melee,Boost Hammer,Fee Dragee N,4,0,252,0,0,0,0,1,M-BH-052,Nonagresion III,2800,M-BH-052,Simian Armor+:1|Aragami Bone Chip:1|Mana Stone Chip:1|Ash:1
+M-BH-054,Melee,Boost Hammer,Fee Dragee X,7,0,413,0,0,0,0,1,M-BH-053,Nonagression IV,7760,M-BH-053,Chimera Spark Skull:2|Goddess Plumage:3|Ash:1|Oracle Lucent Stone:2|Sage Stone:1
+M-BH-055,Melee,Boost Hammer,De Dragee,9,0,514,0,0,0,0,1,M-BH-054,"Nonagression IV, Shield Rise I",9600,M-BH-054,Chimera Spark Skull:3|Goddess Quill:3|Prince's Steel:2|Oracle Spark Stone:3|Titanium Alloy:1
+M-BH-056,Melee,Boost Hammer,De Dragee II,11,0,597,0,0,0,0,1,M-BH-055,"Nonagression IV, Shield Rise II",16000,M-BH-055,Anathema Crown:1|Conqueror Gun:2|Conqueror Armor:2|Oracle Lucent Stone:1|Detonator:3
+M-BH-057,Melee,Boost Hammer,De Dragee N,13,0,655,0,0,0,0,1,M-BH-056,"Nonagression IV, Shield Rise III",52000,M-BH-056,Conqueror Crown:1|Conqueror Steel:2|Conqueror Armor:2|Oracle Lucent Stone:1|Detonator:3
+M-BH-058,Melee,Boost Hammer,De Dragee EX,14,0,678,0,0,0,0,1,M-BH-057,"Nonagression IV, Shield Rise IV",96000,M-BH-057,Generic Compound Core:1
+M-BH-059,Melee,Boost Hammer,Fee de Neige,5,0,291,0,0,1,0,1,M-BH-053,Nonagression IV,3360,M-BH-053,Ignitor:1|Mana Stone:1|Manganese:1|Fossil Tree:1|Draconic Fin:1
+M-BH-060,Melee,Boost Hammer,Fee de Neige II,6,0,336,0,0,1,0,1,M-BH-059,"Nonagression IV, Shield Rise I",4160,M-BH-059,Anathema Armor:2|Mana Stone:2|Freeze Crystal:1|Mithril Silver:1|Draconic Cannon:1
+M-BH-061,Melee,Boost Hammer,Fee de Neige N,8,0,442,0,0,1,0,1,M-BH-060,"Nonagression IV, Shield Rise II",8800,M-BH-060,Anathema Raiment:1|Chaotic Lichen:2|Mana Crystal:1|Prince's Shield:2|Prince's Soul:2
+M-BH-062,Melee,Boost Hammer,De Neige,10,0,563,0,0,1,0,1,M-BH-061,"Nonagression IV, Shield Rise III",13600,M-BH-061,Conqueror Armor:2|Chaotic Lichen:3|Philosopher's Stone:1|Lucifer Carapace:2|Prince's Pin:1
+M-BH-063,Melee,Boost Hammer,De Neige II,11,0,585,0,0,1,0,1,M-BH-062,"Nonagression IV, Shield Rise IV",16000,M-BH-062,Conqueror Gun:2|Conqueror Jade:1|Detonator:2|Arctic Barrel:1|Shattering Ogre Fang:2
+M-BH-064,Melee,Boost Hammer,De Neige N,13,0,642,0,0,1,0,1,M-BH-063,"Nonagression IV, Shield Rise IV",52000,M-BH-063,Conqueror Steel:2|Conqueror Jade:1|Detonator:2|Cyro Barrel:1|Arctic Ogre Fang:1
+M-BH-065,Melee,Boost Hammer,De Neige EX,14,0,664,0,0,1,0,1,M-BH-064,"Nonagression IV, Shield Rise IV",96000,M-BH-064,Generic Compound Core:1
+M-BH-066,Melee,Boost Hammer,Fee Cheminee,6,0,336,0,1,0,0,1,M-BH-053,Nonagression IV,4160,M-BH-053,Hanuman Mesh:1|Simian Armor+:2|Hanuman Redstone:1|Mithril Silver:2|Blaze Crystal:1
+M-BH-067,Melee,Boost Hammer,Fee Cheminee II,7,0,405,0,1,0,0,1,M-BH-066,"Nonagression IV, Shield Rise I",7760,M-BH-066,Helios Circlet:1|Helios Armor:3|Helios Steel:2|Mithril Silver:3|Oracle Blaze Stone:1
+M-BH-068,Melee,Boost Hammer,De Cheminee,10,0,563,0,1,0,0,1,M-BH-067,"Nonagression IV, Shield Rise II",13600,M-BH-067,Helios Carver:2|Helios Ingot:1|Philosopher's Stone:1|Oracle Lucent Stone:1|Oracle Blaze Stone:1
+M-BH-069,Melee,Boost Hammer,De Cheminee II,12,0,605,0,1,0,0,1,M-BH-068,"Nonagression IV, Shield Rise III",40800,M-BH-068,Invictus Corona:2|Invictus Carver:3|Invictus Guard:3|Philosopher's Stone:1|Oracle Blaze Stone:1
+M-BH-070,Melee,Boost Hammer,De Cheminee N,13,0,642,0,1,0,0,1,M-BH-069,"Nonagression IV, Shield Rise IV",52000,M-BH-069,Invictus Corona:2|Invictus Carver:3|Invictus Crystal:1|Philospher's Stone:1|Oracle Blaze Crystal:1
+M-BH-071,Melee,Boost Hammer,De Cheminee EX,14,0,0,0,1,0,0,1,M-BH-070,"Nonagression IV, Shield Rise IV",96000,M-BH-070,Generic Compound Core:1
+M-BH-072,Melee,Boost Hammer,Fee Tonnerre,6,0,336,0,0,0,1,1,M-BH-053,Nonagression IV,4160,M-BH-053,Chaotic Moss:2|Chaotic Horn:2|Chaotic Claw:2|Spark Crystal:1|Soft Iron:1
+M-BH-073,Melee,Boost Hammer,Fee Tonnerre II,8,0,442,0,0,0,1,1,M-BH-072,"Nonagression IV, Shield Rise I",8800,M-BH-072,Chaotic Spark Gun:1|Chaotic Horn:1|Chaotic Claw:1|Oracle Spark Stone:1|Minthril Silver:1
+M-BH-074,Melee,Boost Hammer,Fee Tonnerre N,9,0,504,0,0,0,1,1,M-BH-073,"Nonagression IV, Shield Rise II",9600,M-BH-073,Chaotic Lichen:1|Diablo Eye:1|Anathema Tallow:1|Oracle Spark Stone:1|Mithril Silver:1
+M-BH-075,Melee,Boost Hammer,De Tonnerre,10,0,563,0,0,0,1,1,M-BH-074,"Nonagression IV, Shield Rise III",13600,M-BH-074,Abyssal Bone:1|Abyssal Horn:2|Abyssal Claw:2|Oracle Lucent Stone:1|Oracle Spark Stone:1
+M-BH-076,Melee,Boost Hammer,De Tonnerre II,12,0,605,0,0,0,1,1,M-BH-075,"Nonagression IV, Shield Rise IV",40800,M-BH-075,Abyssal Gun:1|Lucifer Prong:2|Lucifer Ingo:1|Oracle Lucent Crystal:1|Oracle Spark Crystal:1
+M-BH-077,Melee,Boost Hammer,De Tonnerre N,13,0,642,0,0,0,1,1,M-BH-076,"Nonagression IV, Shield Rise IV",52000,M-BH-076,Chaotic Eye:1|Lucifer Prong:2|Lucifer Ingot:1|Pure Silver:1|Oracle Spark Crystal:1
+M-BH-078,Melee,Boost Hammer,De Tonnerre EX,14,0,664,0,0,0,1,1,M-BH-077,"Nonagression IV, Shield Rise IV",96000,M-BH-077,Generic Compound Core:1
+M-BH-079,Melee,Boost Hammer,Ice Smasher,2,0,135,0,0,1,0,0,-,Healing Touch I,560,-,Freeze Stone:1|Draconic Fang:1
+M-BH-080,Melee,Boost Hammer,Ice Smasher II,3,0,189,0,0,1,0,0,M-BH-079,Healing Touch II,664,M-BH-079,Freeze Stone:1|Cold Ogre Fang:1|Aragami Bone Chip:1
+M-BH-081,Melee,Boost Hammer,Ice Smasher N,4,0,252,0,0,1,0,0,M-BH-080,Healing Touch IV,2800,M-BH-080,Freeze Crystal:1|Freezing Ogre Fang:1|Aragami Bone:2|Pixie Shell:2
+M-BH-082,Melee,Boost Hammer,Frozen Smasher,6,0,343,0,0,1,0,0,M-BH-081,"Healing Touch IV, Saint's Embrace I",4160,M-BH-081,Freeze Crystal:2|Wukong Mask:1|Wukong Armor:2|Wukong Redstone:1|Pixie Ice Shell:1
+M-BH-083,Melee,Boost Hammer,Frozen Smasher II,9,0,514,0,0,1,0,0,M-BH-082,"Healing Touch IV, Saint's Embrace II",9600,M-BH-082,Oracle Freeze Stone:1|Royal Crown:1|Royal Ice Armor:1|Boreas Rumbler:1|Pixie rime Shell:1
+M-BH-084,Melee,Boost Hammer,Frozen Smasher N,13,0,655,0,0,1,0,0,M-BH-083,"Healing Touch IV, Saint's Embrace III",52000,M-BH-083,Oracle Freeze Crystal:1|Royal Frame:2|Royal Crystal Armor:1|Royal Amethyst:1|Cyro Barrel:1
+M-BH-085,Melee,Boost Hammer,Frozen Smasher EX,14,0,678,0,0,1,0,0,M-BH-084,"Healing Touch IV, Saint's Embrace IV",96000,M-BH-084,Generic Compound Core:1
+M-BH-086,Melee,Boost Hammer,Crocjaw,2,0,135,0,0,0,0,0,-,Oracle Rise I,560,-,Draconic Gun:1|Draconic Scale:1|Draconic Fang:1
+M-BH-087,Melee,Boost Hammer,Crocjaw II,3,0,189,0,0,0,0,0,M-BH-086,Oracle Rise II,664,M-BH-086,Draconic Gun:1|Draconic Scale:1|Draconic Fin:1
+M-BH-088,Melee,Boost Hammer,Crocjaw N,4,0,252,0,0,0,0,0,M-BH-087,Oracle Rise III,2800,M-BH-087,Draconic Cannon:1|Draconic Carapace:2|Draconic Fang:2|Draconic Fin:1
+M-BH-089,Melee,Boost Hammer,Ice Crocjaw,6,0,343,0,0,1,0,0,M-BH-088,Oracle Rise IV,4160,M-BH-088,Draconic Cannon:2|Draconic Carapace:3|Draconic Fang:2|Draconic Fin1x Draconic Horn:1
+M-BH-090,Melee,Boost Hammer,Ice Crocjaw II,7,0,413,0,0,1,0,0,M-BH-089,Oracle Rise V,7760,M-BH-089,Draconic Cannon+:2|Draconic Carapace:3|Draconic Fang:2|Draconic Fin:2|Ash:2
+M-BH-091,Melee,Boost Hammer,Glacier Crocjaw,8,0,451,0,0,1,0,0,M-BH-090,"Oracle Rise V, Cecchino I",8800,M-BH-090,Draconic Cannon+:2|Draconic Carapace:3|Draconic Fang:2|Draconic Fin:3|Draconic Tallow:1
+M-BH-092,Melee,Boost Hammer,Glacier Crocjaw II,11,0,597,0,0,1,0,0,M-BH-091,"Oracle Rise V, Cecchino II",16000,M-BH-091,Draconic Cannon +:2|Draconic Carapace:3|Draconic Fang:3|Draconic Fin:3|Draconic Horn:1
+M-BH-093,Melee,Boost Hammer,Glacier Crocjaw N,13,0,655,0,0,1,0,0,M-BH-092,"Oracle Rise V, Cecchino III",52000,M-BH-092,Draconic Cannon+:2|Draconic Carapace:3|Draconic Fang:3|Draconic Fin:3|Draconic Amethyst:1
+M-BH-094,Melee,Boost Hammer,Glacier Crocjaw EX,14,0,678,0,0,1,0,0,M-BH-093,"Oracle Rise V, Cecchino IV",96000,M-BH-093,Generic Compound Core:1
+M-BH-095,Melee,Boost Hammer,Flame Crocjaw,4,0,252,0,1,0,0,0,M-BH-087,Oracle Rise III,2800,M-BH-087,Draconic Gun:1|Wyrm Armor:2|Wyrm Horn:1|Wyrm Fin:2|Oil:2
+M-BH-096,Melee,Boost Hammer,Flame Crocjaw II,5,0,297,0,1,0,0,0,M-BH-095,Oracle Rise IV,3360,M-BH-095,Draconic Gun:1|Wyrm Armor:2|Wyrm Horn:2|Wyrm Fin:3|Blaze Crystal:1
+M-BH-097,Melee,Boost Hammer,Flame Crocjaw N,6,0,343,0,1,0,0,0,M-BH-096,Oracle Rise V,4160,M-BH-096,Draconic Gun:2|Wyrm Armor:3|Wyrm Horn:2|Wyrm Fin:3|Blaze Crystal:2
+M-BH-098,Melee,Boost Hammer,Volcanic Crocjaw,9,0,514,0,1,0,0,0,M-BH-097,"Oracle Rise V, Cecchino I",9600,M-BH-097,Blaze Wyrm Gun:3|Wyrm Fire Armor:2|Wyrm Blaze Horn:2|Wyrm Fin:3|Draconic Tallow:1
+M-BH-099,Melee,Boost Hammer,Volcanic Crocjaw II,10,0,575,0,1,0,0,0,M-BH-098,"Oracle Rise V, Cecchino II",13600,M-BH-098,Blaze Wyrm Gun:3|Wyrm Fire Armor:3|Wyrm Blaze Horn:2|Wyrm Fin:3|Blaze Wyrm Fang:2
+M-BH-100,Melee,Boost Hammer,Volcanic Crocjaw N,12,0,617,0,1,0,0,0,M-BH-099,"Oracle Rise V, Cecchino III",40800,M-BH-099,Blaze Wyrm Gun:3|Wyrm Fire Armor:3|Wyrm Blaze Horn:3|Draconic Tallow:1|Wyrm Amethyst:1
+M-BH-101,Melee,Boost Hammer,Volcanic Crocjaw EX,14,0,678,0,1,0,0,0,M-BH-100,"Oracle Rise V, Cecchino IV",96000,M-BH-100,Generic Compound Core:1
+M-BH-102,Melee,Boost Hammer,Andira Maul,2,0,135,0,0,0,0,0,-,Advantage I,560,-,Simian Trunk:1|Simian Armament:1|Simian Tail:1
+M-BH-103,Melee,Boost Hammer,Andira Ice Maul,4,0,252,0,0,1,0,0,M-BH-102,Advantage II,2800,M-BH-102,Wukong Mask:1|Wukong Armor:2|Wukong Rumbler:2|Freeze Crystal:1
+M-BH-104,Melee,Boost Hammer,Andira Ice Maul II,5,0,297,0,0,1,0,0,M-BH-103,Advantage III,3360,M-BH-103,Wukong Mask:1|Wukong Armor:2|Wukong Rumbler:2|Wukong Redstone:1
+M-BH-105,Melee,Boost Hammer,Andira Ice Maul N,6,0,343,0,0,1,0,0,M-BH-104,Advantage IV,4160,M-BH-104,Wukong Mask:2|Wukong Armor:3|Wukong Rumbler:2|Wukong Redstone:1
+M-BH-106,Melee,Boost Hammer,Andira Ice Maul X,9,0,514,0,0,1,0,0,M-BH-105,Advantage V,9600,M-BH-105,Wukong Mask:2|Wukong Armor+:3|Boreas Rumbler:2|Simian Drum:1|Simian Power Tail:3
+M-BH-107,Melee,Boost Hammer,Vaisravana Ice Maul,10,0,575,0,0,1,0,0,M-BH-106,"Advantage V, Kahuna Pohaku I",13600,M-BH-106,Simian Fragment:3|Wukong Armor+:3|Boreas Rumbler:2|Simian Drum:1|Simian Power Tail:3
+M-BH-108,Melee,Boost Hammer,Vaisravana Peak II,11,0,597,0,0,1,0,0,M-BH-107,"Advantage V, Kahuna Pohaku II",16000,M-BH-107,Wukong Mask:3|Wukong Armor+:3|Simian Redstone:1|Simian Drum:2|Simian Power Tail:3
+M-BH-109,Melee,Boost Hammer,Vaisravana Iceberg,13,0,655,0,0,1,0,0,M-BH-108,"Advantage V, Kahuna Pohaku III",52000,M-BH-108,Wukong Cowl:2|Wukong Power Armor:3|Wukong Hematite:1|Boreas Rumbler:3|Hanuman Ambrosia:1
+M-BH-110,Melee,Boost Hammer,Vaisravana Iceberg EX,14,0,689,0,0,1,0,0,M-BH-109,"Advantage V, Kahuna Pohaku IV",96000,M-BH-109,Generic Compound Core:1
+M-BH-111,Melee,Boost Hammer,Sakra Thunder Maul,6,0,343,0,0,0,1,0,M-BH-102,Advantage IV,4160,M-BH-102,Simian Fragment:1|Simian Armor+:2|Hanuman Flesh:2|Simian Great Tail:2
+M-BH-112,Melee,Boost Hammer,Sakra Thunder Maul II,8,0,451,0,0,0,1,0,M-BH-111,Advantage V,8800,M-BH-111,Hanuman Mask:1|Hanuman Spark Armor:2|Hanuman Femur:1|Simian Power Armor:3|Simian Power Tail:1
+M-BH-113,Melee,Boost Hammer,Sakra Thunderbolt,9,0,514,0,0,0,1,0,M-BH-112,"Advantage V, Kahuna Pohaku I",9600,M-BH-112,Hanuman Mask:2|Hanuman Spark Armor:2|Hanuman Femur:2|Simian Power Armor:3|Simian Power Tail:2
+M-BH-114,Melee,Boost Hammer,Sakra Thunderbolt II,10,0,575,0,0,0,1,0,M-BH-113,"Advantage V, Kahuna Pohaku II",13600,M-BH-113,Hanuman Mask:2|Hanuman Spark Armor:3|Simian Pharynx:2|Howler Plumage:1|Simian Power Tail:3
+M-BH-115,Melee,Boost Hammer,Sakra Thunderbolt N,12,0,617,0,0,0,1,0,M-BH-114,"Advantage V, Kahuna Pohaku III",40800,M-BH-114,Hanuman Mask:2|Hanuman Spark Armor:3|Hanuman Amethyst:2|Hanuman Femur:3|Simian Power Tail:3
+M-BH-116,Melee,Boost Hammer,Sakra Thunderbolt EX,14,0,678,0,0,0,1,0,M-BH-115,"Advantage V, Kahuna Pohaku IV",96000,M-BH-115,Generic Compound Core:1
+M-BH-117,Melee,Boost Hammer,Tigercrown,3,0,176,0,0,0,2,0,-,Polished Offense I,830,-,Chimera Skull:1|Chimera Fang:1|Chimera Fur:1
+M-BH-118,Melee,Boost Hammer,Tigercrown II,4,0,247,0,0,0,2,0,M-BH-117,Polished Offense II,2800,M-BH-117,Chimera Spark Skull:1|Chimera Tusk:1|Chimera Spark Fur:2|Chimera Wing:1
+M-BH-119,Melee,Boost Hammer,Tigercrown N,6,0,336,0,0,0,2,0,M-BH-118,Polished Offense III,4160,M-BH-118,Chimera Spark Skull:1|Chimera Tusk:1|Chimera Spark Fur:2|Chimera Wing:1
+M-BH-120,Melee,Boost Hammer,Tigercrown X,7,0,405,0,0,0,2,0,M-BH-119,Polished Offense IV,7760,M-BH-119,Chimera Spark Skull:1|Chimera Tusk:3|Chimera Spark Fur:2|Chimera Great Wing:1|Oak:1
+M-BH-121,Melee,Boost Hammer,Royal Tigercrown,8,0,442,0,0,0,2,0,M-BH-120,"Polished Offense IV, Buildup I",8800,M-BH-120,Chimera Spark Skull:3|Chimera Tusk:3|Chimera Spark Fur:2|Chimera Great Wing:2|Chimera Spark Claw:2
+M-BH-122,Melee,Boost Hammer,Royal Tigercrown II,10,0,563,0,0,0,2,0,M-BH-121,"Polished Offense IV, Buildup II",13600,M-BH-121,Chimera Spark Skull:3|Chimera Femur:3|Chimera Spark Fur:2|Chimera Spark Wing:2|Chimera Spark Fang:2
+M-BH-123,Melee,Boost Hammer,Royal Tigercrown N,13,0,642,0,0,0,2,0,M-BH-122,"Polished Offense IV, Buildup III",52000,M-BH-122,Chimera Spark Skull:3|Chimera Amethyst:1|Chimera Femur:3|Chimera Storm Fur:1|Chimera Spark Wing:1
+M-BH-124,Melee,Boost Hammer,Royal Tigercrown EX,14,0,664,0,0,0,2,0,M-BH-123,"Polished Offense IV, Buildup IV",96000,M-BH-123,Generic Compound Core:1
+M-BH-125,Melee,Boost Hammer,Queen Tigercrown,6,0,343,0,0,1,0,0,M-BH-118,Polished Offense III,4160,M-BH-118,Toyal Filigree:1|Royal Fang:1|Royal Armor:2|Royal Wing:2
+M-BH-126,Melee,Boost Hammer,Queen Tigercrown II,7,0,413,0,0,1,0,0,M-BH-125,Polished Offense IV,7760,M-BH-125,Royal Filigree:2|Royal Fang:2|Royal Armor:2|Royal Wing:2|Conductor:1
+M-BH-127,Melee,Boost Hammer,Queen Tigercrown N,8,0,451,0,0,1,0,0,M-BH-126,"Polished Offense IV, Buildup I",8800,M-BH-126,Royal Crown:1|Royal Fang:1|Royal Bone:3|Royal Ice Wing:2|Royal Ice Armor:1
+M-BH-128,Melee,Boost Hammer,Queen Tigercrown X,10,0,575,0,0,1,0,0,M-BH-127,"Polished Offense IV, Buildup II",13600,M-BH-127,Empress Wreath:1|Royal Ice Armor:2|Empress Fang:2|Royal Bone:3|Royal Ice Wing:3
+M-BH-129,Melee,Boost Hammer,Queen Tigercrown V,12,0,617,0,0,1,0,0,M-BH-128,"Polished Offense IV, Buildup III",40800,M-BH-128,Empress Wreath:2|Royal Ice Armor:3|Empress Fang:2|Royal Bone:3|Royal Ice Wing:3
+M-BH-130,Melee,Boost Hammer,Queen Tigercrown S,13,0,655,0,0,1,0,0,M-BH-129,"Polished Offense IV, Buildup IV",52000,M-BH-129,Empress Wreath:3|Royal Crystal Armor:2|Empress Fang:3|Royal Amethyst:1|Royal Crystal Wing:2
+M-BH-131,Melee,Boost Hammer,Queen Tigercrown EX,14,0,678,0,0,1,0,0,M-BH-130,"Polished Offense IV, Buildup IV",96000,M-BH-130,Generic Compound Core:1
+M-BH-132,Melee,Boost Hammer,Type 61 Destroyer,3,0,179,0,1,0,0,0,-,Purified Spirit I,830,-,King Skull:1|King Gun:1|King Steel:1|King Armor:1
+M-BH-133,Melee,Boost Hammer,Type 61 Destroyer II,4,0,252,0,1,0,0,0,M-BH-132,Purified Spirit II,2800,M-BH-132,King Cranium:1|King Gun:1|King Armor+:2|King Pad:1|Ignitor:1
+M-BH-134,Melee,Boost Hammer,Type 74 Destroyer,6,0,343,0,1,0,0,0,M-BH-133,Purified Spirit III,4160,M-BH-133,King Cranium:2|King Gun:2|King Armor+:3|King Pad:1|King Feeler:1
+M-BH-135,Melee,Boost Hammer,Type 74 Destroyer II,8,0,451,0,1,0,0,0,M-BH-134,Purified Spirit IV,8800,M-BH-134,King Cranium:2|Ares Gun:1|Ares Armor:2|King Sensor:1|Detonator:3
+M-BH-136,Melee,Boost Hammer,Type 74 Destroyer N,9,0,541,0,1,0,0,0,M-BH-135,"Purified Spirit IV, Outbreak I",9600,M-BH-135,King Cranium:3|Ares Gun:2|Ares Armor:3|Pure Oil:1|Ares Alloy:2
+M-BH-137,Melee,Boost Hammer,Type 87 Destroyer,11,0,597,0,1,0,0,0,M-BH-136,"Purified Spirit IV, Outbreak II",16000,M-BH-136,King Cranium:3|Ares Gun:3|Ares Armor:3|King Sensor:1|Ares Alloy:2
+M-BH-138,Melee,Boost Hammer,Type 87 Destroyer II,13,0,655,0,1,0,0,0,M-BH-137,"Purified Spirit IV, Outbreak III",52000,M-BH-137,King Cranium:3|Ares Gun:3|Pluto Skull:2|Ares Grease:1|Ares Alloy:2
+M-BH-139,Melee,Boost Hammer,Type 87 Destroyer EX,14,0,678,0,1,0,0,0,M-BH-138,"Purified Spirit IV, Outbreak IV",96000,M-BH-138,Generic Compound Core:1
+M-BH-140,Melee,Boost Hammer,Type T35 Destroyer,5,0,297,0,0,1,0,0,M-BH-133,Purified Spirit III,3360,M-BH-133,Pluto Skull:1|Pluto Gun:2|Fallen King Armor:2|King Pad:1
+M-BH-141,Melee,Boost Hammer,Type T35 Destroyer II,6,0,343,0,0,1,0,0,M-BH-140,Purified Spirit IV,4160,M-BH-140,Pluto Skull:1|Pluto Gun:3|Fallen King Armor:2|King Pad:1|Ignitor:2
+M-BH-142,Melee,Boost Hammer,Type T90 Destroyer,8,0,451,0,0,1,0,0,M-BH-141,"Purified Spirit IV, Outbreak I",8800,M-BH-141,Pluto Skull:2|Pluto Frost Gun:2|Pluto Ice Armor:3|King Shock Absorber:3|Pluto Grease:1
+M-BH-143,Melee,Boost Hammer,Type T99 Destroyer,10,0,575,0,0,1,0,0,M-BH-142,"Purified Spirit IV, Outbreak II",13600,M-BH-142,Pluto Skull:2|Ice King Gun:2|Ice King Armor:3|Ice King Grease:1|Detonator:3
+M-BH-144,Melee,Boost Hammer,Type T99 Destroyer EX,14,0,678,0,0,1,0,0,M-BH-143,"Purified Spirit IV, Outbreak IV",96000,M-BH-143,Generic Compound Core:1
+M-BH-145,Melee,Boost Hammer,Merkava Destroyer,6,0,343,0,0,0,0,1,M-BH-133,Purified Spirit III,4160,M-BH-133,Anathema Filigree:2|Anathema Gun:1|Anathema Armor:3|Ignitor:3
+M-BH-146,Melee,Boost Hammer,Merkava Destroyer II,7,0,413,0,0,0,0,1,M-BH-145,Purified Spirit IV,7760,M-BH-145,Anathema Filigree:1|Anathema Gun:2|Anathema Armor:2|King Nephrite:1|Detonator:2
+M-BH-147,Melee,Boost Hammer,Chario Destroyer,8,0,451,0,0,0,0,1,M-BH-146,"Purified Spirit IV, Outbreak I",8800,M-BH-146,Anathema Crown:1|Anathema Shooter:3|Anathema Raiment:2|Anathema Frame:1|King Nephrite:1
+M-BH-148,Melee,Boost Hammer,Chario Destroyer II,10,0,575,0,0,0,0,1,M-BH-147,"Purified Spirit IV, Outbreak II",13600,M-BH-147,Anathema Crown:1|Conqueror Gun:2|Conqueror Armor:1|Conqueror Jade:1|Anathema Frame:3
+M-BH-149,Melee,Boost Hammer,Chario Destroyer N,12,0,617,0,0,0,0,1,M-BH-148,"Purified Spirit IV, Outbreak III",40800,M-BH-148,Conqueror Crown:1|Conqueror Gun:2|Conqueror Armor:1|Conqueror Steel:2|Conqueror Jade:1
+M-BH-150,Melee,Boost Hammer,Chario Destroyer X,13,0,655,0,0,0,0,1,M-BH-149,"Purified Spirit IV, Outbreak IV",52000,M-BH-149,Conqueror Crown:1|Conqueror Gun:2|Conqueror Armor:3|Conqueror Steel:2|Conqueror Grease:1
+M-BH-151,Melee,Boost Hammer,Chario Destroyer EX,14,0,678,0,0,0,0,1,M-BH-150,"Purified Spirit IV, Outbreak IV",96000,M-BH-150,Generic Compound Core:1
+M-BH-152,Melee,Boost Hammer,Heavy Hammer,4,0,235,0,0,0,0,0,-,Devil's Embrace I,3500,-,Draconic Scale:1|Avian Flesh:1|Yaksha Fragment:1|Chimera Skull:1
+M-BH-153,Melee,Boost Hammer,Heavy Hammer II,5,0,291,0,0,0,0,0,M-BH-152,Devil's Embrace II,3360,M-BH-152,Mistle:2|Wukong Armor:2|Wukong Mask:1|Meteorite Sliver:1|Magnetic Steel:1
+M-BH-154,Melee,Boost Hammer,Heavy Hammer N,6,0,336,0,0,0,0,0,M-BH-153,Devil's Embrace III,4160,M-BH-153,Hanuman Mesh:1|Simian Armor+:2|Hanuman Redstone:1|Coating Agent:1|Soft Iron:1
+M-BH-155,Melee,Boost Hammer,Heavy Hammer X,8,0,442,0,0,0,0,0,M-BH-154,Devil's Embrace IV,8800,M-BH-154,Helios Carver:1|Anathema Tallow:1|Helios Steel:1|Meteorite:1
+M-BH-156,Melee,Boost Hammer,Mega Powerhammer,10,0,563,0,0,0,0,0,M-BH-155,"Devil's Embrace IV, Disaster I",13600,M-BH-155,Yin-Yang Carver:2|Yin-Yang Raiment:1|Yin-Yang Ingot:1|Meteorite:1
+M-BH-157,Melee,Boost Hammer,Mega Powerhammer II,11,0,585,0,0,0,0,0,M-BH-156,"Devil's Embrace IV, Disaster II",16000,M-BH-156,Yin-Yang Carver:3|Yin-Yang Raiment:3|Philosopher's Stone:1|Cemented Carbide:1
+M-BH-158,Melee,Boost Hammer,Mega Powerhammer EX,14,0,688,0,0,0,0,0,M-BH-157,"Devil's Embrace IV, Disaster III",96000,M-BH-157,Generic Compound Core:1
+M-BH-159,Melee,Boost Hammer,Law Smasher,4,0,235,0,0,0,0,2,-,Healing Touch I,3500,-,Meteorite:1|Angel Armor:1|Goddess Filigree:2|Tool Steel:1
+M-BH-160,Melee,Boost Hammer,Law Smasher II,5,0,291,0,0,0,0,2,M-BH-159,Healing Touch II,3360,M-BH-159,Meteorite:1|Angel Armor:1|Spark Ogre Fang:1|King Cranium:1|King Pad:1
+M-BH-161,Melee,Boost Hammer,Law Smasher N,6,0,336,0,0,0,0,2,M-BH-160,Healing Touch III,4160,M-BH-160,Meteorite:2|Angel Armor:2|Chimera Wing:1|Cinnabar:1|Fossil Tree:1
+M-BH-162,Melee,Boost Hammer,Law Smasher X,7,0,405,0,0,0,0,2,M-BH-161,Healing Touch IV,7760,M-BH-161,Chimera Spark Skull:2|Simian Fragment:1|Chimera Spark Fur:2|Cinnabar:1|Yaksha Tile:3
+M-BH-163,Melee,Boost Hammer,Divine Smasher,10,0,563,0,0,0,0,2,M-BH-162,"Healing Touch IV, Saint's Embrace I",13600,M-BH-162,Chimera Spark Skull:2|Hanuman Spark Armor:1|Chimera Spark Wing:1|Cinnabar:1|Aragami Talon:1
+M-BH-164,Melee,Boost Hammer,Divine Smasher II,11,0,585,0,0,0,0,2,M-BH-163,"Healing Touch IV, Saint's Embrace II",16000,M-BH-163,Chimera Spark Skull:2|Hanuman Mask:1|Howler Plumage:1|Zinjifrah:1|Prince's Aegis:1
+M-BH-165,Melee,Boost Hammer,Divine Smasher N,12,0,605,0,0,0,0,2,M-BH-164,"Healing Touch IV, Saint's Embrace III",40800,M-BH-164,Chimera Spark Skull:2|Hanuman Mask:1|Chimera Spark Fur:1|Zinjiffrah:1|Prince's Sand:1
+M-BH-166,Melee,Boost Hammer,Divine Smasher EX,14,0,664,0,0,0,0,2,M-BH-165,"Healing Touch IV, Saint's Embrace IV",96000,M-BH-165,Generic Compound Core:1
+M-BH-167,Melee,Boost Hammer,Riese Ferse,6,0,330,0,0,0,1,1,-,Main Dish I,5200,-,Emperor Skull:3|Emperor Mane:1|Emperor Claw:1|Emperor Fang:1|Damascus Steel:1
+M-BH-168,Melee,Boost Hammer,Riese Ferse II,7,0,409,0,0,0,1,1,M-BH-167,Main Dish II,7760,M-BH-167,Emperor Skull:3|Emperor Wing:1|Emperor Fang:2|Emperor Claw:1|Pure Damascus:1
+M-BH-169,Melee,Boost Hammer,Riese Ferse N,9,0,509,0,0,0,1,1,M-BH-168,Main Dish III,9600,M-BH-168,Emperor Mane:3|Imperial Wing:2|Imperial Claw:1|Emperor Redstone:1|Pure Damascus:2
+M-BH-170,Melee,Boost Hammer,Gigant Ferse,10,0,569,0,0,0,1,1,M-BH-169,"Main Dish III, Great Devourer I",13600,M-BH-169,Emperor Mane:3|Imperial Wing:2|Imperial Claw:1|Imperial Crown:1|Orichalcum:1
+M-BH-171,Melee,Boost Hammer,Gigant Ferse II,11,0,591,0,0,0,1,1,M-BH-170,"Main Dish III, Great Devourer II",16000,M-BH-170,Emperor Redstone:1|Imperial Wing:1|Imperial Claw:1|Imperial Crown:1|Orichalcum:2
+M-BH-172,Melee,Boost Hammer,Gigant Ferse N,13,0,649,0,0,0,1,1,M-BH-171,"Main Dish III, Great Devourer III",52000,M-BH-171,Emperor Pelt:3|Imperial Claw:2|Emperor Incisor:2|Emperor Amethyst:1|Mana Orb:2
+M-BH-173,Melee,Boost Hammer,Gigant Ferse EX,14,0,671,0,0,0,1,1,M-BH-172,"Main Dish III, Great Devourer IV",96000,M-BH-172,Generic Compound Core:1
+M-BH-174,Melee,Boost Hammer,Serpent Maul,7,0,391,0,2,0,0,0,-,Major Step I,9700,-,Serpent Helm:1|Serpent Armor:2|Serpent Fang:1|Serpent Soft Iron:2|Serpent Cataphract:2
+M-BH-175,Melee,Boost Hammer,Serpent Maul II,8,0,442,0,2,0,0,0,M-BH-174,Major Step II,8800,M-BH-174,Serpent Helm:1|Serpent Armor:3|Serpent Fang:2|Serpent Soft Iron:3|Serpent Horn:3
+M-BH-176,Melee,Boost Hammer,Serpent Maul N,9,0,504,0,2,0,0,0,M-BH-175,Major Step III,9600,M-BH-175,Serpent Blaze Helm:1|Serpent Armor:3|Serpent Blaze Horn:1|Serpent Soft Iron:2|Holy Serpent Guard:2
+M-BH-177,Melee,Boost Hammer,Serpent Maul X,10,0,563,0,2,0,0,0,M-BH-176,"Major Step III, Polished Evasion I",13600,M-BH-176,Serpent Blaze Helm:1|Serpent Armor:3|Serpent Blaze Fang:1|Serpent Soft Iron:3|Holy Serpent Guard:2
+M-BH-178,Melee,Boost Hammer,Serpent Maul V,12,0,605,0,2,0,0,0,M-BH-177,"Major Step III, Polished Evasion II",40800,M-BH-177,Serpent Blaze Helm:1|Serpent Armor:2|Flaming Crystal:1|Serpent Soft Iron:2|Holy Serpent Guard:3
+M-BH-179,Melee,Boost Hammer,Serpent Maul EX,14,0,664,0,2,0,0,0,M-BH-178,"Major Step III, Polished Evasion III",96000,M-BH-178,Generic Compound Core:1
+M-BH-180,Melee,Boost Hammer,Phantom Maul,10,0,563,0,1,0,0,1,M-BH-176,Major Step III,13600,M-BH-176,Phantom Helm:1|Phantom Armor:3|Phantom Incisor:2|Phantom Horn:2|Phantom Cataphract:2
+M-BH-181,Melee,Boost Hammer,Phantom Maul II,11,0,585,0,1,0,0,1,M-BH-180,"Major Steps III, Polished Evasion I",16000,M-BH-180,Phantom Helm:1|Phantom Armor:3|Phantom Incisor:2|Phantom Ambrosia:1|Phantom Cataphract:2
+M-BH-182,Melee,Boost Hammer,Phantom Maul N,13,0,642,0,1,0,0,1,M-BH-181,"Major Steps III, Polished Evasion II",52000,M-BH-181,Phantom Helm:1|Phantom Armor:3|Deific Crystal:1|Phantom Lance:2|Phantom Arm Gauntlet:2
+M-BH-183,Melee,Boost Hammer,Phantom Maul EX,14,0,664,0,1,0,0,1,M-BH-182,"Major Steps III, Polished Evasion III",96000,M-BH-182,Generic Compound Core:1
+M-BH-184,Melee,Boost Hammer,Gargantua,8,0,444,0,1,0,0,0,-,Rumble Shot I,11000,-,Regina's Ring:1|Regina's Dres:1|Regina's Soul:2|Regina's Iron:2|Oak:1
+M-BH-185,Melee,Boost Hammer,Gargantua II,9,0,514,0,1,0,0,0,M-BH-184,Rumble Shot II,9600,M-BH-184,Regina's Ring:1|Regina's Dress:2|Regina's Stone:1|Regina's Iron:3|Holy Jewel Steel:1
+M-BH-186,Melee,Boost Hammer,Pantagruel,10,0,575,0,1,0,0,0,M-BH-185,Rumble Shot III,13600,M-BH-185,Regina's Ring:1|Regina's Dress:3|Regina's Stone:1|Regina's Iron:3|Holy Jewel Steel:3
+M-BH-187,Melee,Boost Hammer,Pantagruel II,12,0,617,0,1,0,0,0,M-BH-186,Rumble Shot IV,40800,M-BH-186,Regina's Ring:1|Shattered God Arc:1|Regina's Dress:2|Regina's Iron:3|Cryogenic Alloy:2
+M-BH-188,Melee,Boost Hammer,Pantagruel EX,14,0,678,0,1,0,0,0,M-BH-187,Rumble Shot IV,96000,M-BH-187,Generic Compound Core:1
+M-BH-189,Melee,Boost Hammer,Gravity Hammer,10,0,800,0,0,0,0,0,-,Massive Bomb I,17000,-,King Sensor:1|High-Speed Steel:2|Cemented Carbide:2|King Cranium:2|Simian Drum:2
+M-BH-190,Melee,Boost Hammer,Gravity Hammer II,12,0,896,0,0,0,0,0,M-BH-189,Massive Bomb II,40800,M-BH-189,King Sensor:1|High-Speed Steel:1|Cemented Carbide:1|King Cranium:1|Cryo Barrel:1
+M-BH-191,Melee,Boost Hammer,Neutron Hammer EX,14,0,999,0,0,0,0,0,M-BH-190,Massive Bomb III,96000,M-BH-190,Generic Compound Core:1
+M-BH-192,Melee,Boost Hammer,Immortal Stone Axe,10,562,0,0,0,0,0,0,-,Mighty Power I,17000,-,Abyssal Horn:1|Aragami Talon:1|Simian Power Armor:1|Abyssal Crystal:1|Simian Fragment:1
+M-BH-193,Melee,Boost Hammer,Immortal Stone Axe II,12,617,0,0,0,0,0,0,M-BH-192,Mighty Power II,40800,M-BH-192,King Cranium:2|Ares Gun:1|Pixie Carapace:1|Lucifer Keep:1|Cryo Barrel:1
+M-BH-194,Melee,Boost Hammer,Immortal Stone Axe N,13,655,0,0,0,0,0,0,M-BH-193,"Mighty Power II, Cryptoforce I",52000,M-BH-193,Bahamut Helm:1|Hanuman Cowl:1|Bahamut Blue Mail:1|Deific Crystal:1|Hanuman Forcefield:1
+M-BH-195,Melee,Boost Hammer,Immortal Stone Axe EX,14,678,0,0,0,0,0,0,M-BH-194,"Mighty Power II, Cryptoforce II",96000,M-BH-194,Generic Compound Core:1
+M-BH-196,Melee,Boost Hammer,Historia,12,0,601,0,1,0,1,0,-,Goddess of Mercy,51000,-,Grace Starmetal:3|Grace Jelly:1|Grace Spire:2|Draconic Amethyst:1|Knight Redstone:1
+M-BH-197,Melee,Boost Hammer,Historia II,13,0,642,0,1,0,1,0,M-BH-196,"Goddess of Mercy, Goddess of War I",52000,M-BH-196,Gracy Asylum:2|Grace Jelly:2|Grace Spire:2|Blaze Knight Lance:1|Ares Grease:1
+M-BH-198,Melee,Boost Hammer,Historia EX,14,0,664,0,1,0,1,0,M-BH-197,"Goddess of Mercy, Goddess of War II",96000,M-BH-197,Generic Compound Core:1
+M-BH-199,Melee,Boost Hammer,Wyvern Maul,13,0,635,0,0,0,0,2,-,Major Step III,65000,-,Wyvern Helm:3|Wyvern Mail:2|Wyvern Horn:1|Wyvern Soft Steel:2|Wyvern Stone:1
+M-BH-200,Melee,Boost Hammer,Wyvern Maul EX,14,0,664,0,0,0,0,2,M-BH-199,"Major Step III, Polished Evasion III",96000,M-BH-199,Generic Compound Core:1
+M-BH-201,Melee,Boost Hammer,Rigel,13,0,635,0,0,2,0,0,-,Liberator I,65000,-,Bahamut Helm:3|Bahamut Edge:2|Bahamut Blue Mail:3|Boreal Stone:2|Bahamut Manifer:2
+M-BH-202,Melee,Boost Hammer,Rigel EX,14,0,664,0,0,2,0,0,M-BH-201,Liberator II,96000,M-BH-201,Generic Compound Core:1
+M-BH-203,Melee,Boost Hammer,Lienhard,14,0,646,0,0,1,1,1,-,Apsara,120000,-,Cronus Crown:1
+M-BH-204,Melee,Boost Hammer,Deceptia,14,0,667,0,0,0,0,2,-,"Great Devourer IV, Far East Champion",120000,-,Hades Crown:1|Hades Fang:1|Hades Mane:1|Hades Wing:1|Hades Redstone:1
